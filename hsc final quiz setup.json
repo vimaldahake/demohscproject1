@@ -1,0 +1,2291 @@
+{
+  "Sets": {
+    "10 Questions 2010 PYQ Set 1": {
+      "questions": {
+         "Q_1": {
+    "answerEx": "In geometric growth, following mitosis, both daughter cells retain the capacity to divide and continuously redivide repeatedly. This leads to an exponential increase in cell number, characterized by a sigmoid growth curve with lag, log, and stationary phases. In contrast, arithmetic growth occurs when only one daughter cell continues to divide while the other differentiates and matures.",
+    "correctAnsw": "b) geometric growth",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) arithmetic growth",
+    "optionB": "b) geometric growth",
+    "optionC": "c) growth ratio",
+    "optionD": "d) qualitative growth",
+    "question": "A cell divides mitotically into two. Daughter cells divide and redivide repeatedly. Such growth is called:",
+    "setNum": 1
+  },
+  "Q_2": {
+    "answerEx": "Transpiration pull, explained by the Cohesion-Tension theory, is the primary force driving the ascent of sap through xylem vessels in tall plants. Water evaporation from mesophyll cell walls creates a negative hydrostatic pressure gradient (suction force) at the leaves. Due to cohesive forces between water molecules and adhesive forces between water and xylem walls, a continuous unbroken water column is pulled upward from roots to leaves. Imbibition is initial water absorption by dry colloids, guttation is liquid water exudation due to root pressure, and plasmolysis involves cytoplasm shrinkage under hypertonic conditions.",
+    "correctAnsw": "a) Transpiration pull",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Transpiration pull",
+    "optionB": "b) Imbibition",
+    "optionC": "c) Guttation",
+    "optionD": "d) Plasmolysis",
+    "question": "The physiological process in plants responsible for driving the upward movement of water and dissolved minerals through xylem is:",
+    "setNum": 1
+  },
+  "Q_3": {
+    "answerEx": "Down's syndrome, or Trisomy 21, is a genetic disorder caused by nondisjunction during meiotic cell division, resulting in an extra copy of autosomal chromosome 21 (47 chromosomes total). Affected individuals exhibit characteristic features such as intellectual disability, a flat facial profile, prominent epicanthic folds, a single transverse palmar crease, and short stature. Turner's syndrome involves monosomy of the X chromosome ($45, \\text{XO}$), Klinefelter's syndrome is characterized by extra X chromosomes in males ($47, \\text{XXY}$), and Patau's syndrome results from trisomy of chromosome 13.",
+    "correctAnsw": "c) Down's syndrome",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Turner's syndrome",
+    "optionB": "b) Klinefelter's syndrome",
+    "optionC": "c) Down's syndrome",
+    "optionD": "d) Patau's syndrome",
+    "question": "The condition in which an individual possesses an additional copy of chromosome 21 is known as:",
+    "setNum": 1
+  },
+  "Q_4": {
+    "answerEx": "The thalamus is a large mass of gray matter situated in the dorsal part of the diencephalon within the forebrain. It acts as the principal sensory relay station, processing and sorting nearly all incoming sensory signals—including visual, auditory, gustatory, and somatosensory inputs (excluding olfactory signals)—before routing them to specific processing areas in the cerebral cortex. The hypothalamus regulates autonomic functions and body temperature, the cerebellum coordinates voluntary muscle movements and balance, and the medulla oblongata controls vital involuntary cardiovascular and respiratory reflexes.",
+    "correctAnsw": "b) Thalamus",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Hypothalamus",
+    "optionB": "b) Thalamus",
+    "optionC": "c) Cerebellum",
+    "optionD": "d) Medulla oblongata",
+    "question": "The specific part of the human brain that serves as the major relay center for sensory impulses traveling to the cerebral cortex is the:",
+    "setNum": 1
+  },
+  "Q_5": {
+    "answerEx": "Anemophily is abiotic cross-pollination where wind serves as the transport medium for pollen grains. Anemophilous plants (such as grasses, maize, and sugarcane) exhibit specific structural adaptations: they produce vast quantities of small, lightweight, dry, and non-sticky pollen grains easily carried by air currents. Their flowers are typically small, dull, nectarless, and feature feathery stigmas exposed to catch airborne pollen. In contrast, hydrophily refers to water-mediated pollination, entomophily is insect-mediated pollination requiring brightly colored fragrant flowers, and ornithophily is pollination carried out by birds.",
+    "correctAnsw": "c) Anemophily",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Hydrophily",
+    "optionB": "b) Entomophily",
+    "optionC": "c) Anemophily",
+    "optionD": "d) Ornithophily",
+    "question": "Pollination brought about by the agency of wind is termed as:",
+    "setNum": 1
+  },
+  "Q_6": {
+    "answerEx": "Glycolysis (the EMP pathway) occurs in the cytoplasm and breaks down one six-carbon molecule of glucose into two three-carbon molecules of pyruvic acid through ten sequential enzymatic reactions. This pathway generates a net gain of 2 ATP and 2 $\\text{NADH}_2$ molecules without requiring oxygen directly. In the presence of oxygen, pyruvic acid enters the mitochondrial matrix to undergo oxidative decarboxylation into Acetyl-CoA. Under anaerobic conditions, pyruvic acid undergoes fermentation to form lactic acid in muscle tissues or ethyl alcohol and carbon dioxide in yeast cells.",
+    "correctAnsw": "c) Pyruvic acid",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Lactic acid",
+    "optionB": "b) Ethyl alcohol",
+    "optionC": "c) Pyruvic acid",
+    "optionD": "d) Acetyl-CoA",
+    "question": "The end product of glycolysis under aerobic conditions is:",
+    "setNum": 1
+  },
+  "Q_7": {
+    "answerEx": "Immunoglobulin G (IgG) is the most abundant antibody subclass in human serum, accounting for roughly 75% to 80% of total circulating immunoglobulins. Due to its monomeric structure and specialized placental Fc receptors (FcRn) on trophoblast cells, IgG is the only antibody class actively transported across the placental barrier from mother to fetus. This transfer provides the newborn with maternal natural passive immunity during early development. IgA is found predominantly in secretions like breast milk and colostrum, IgM is a large pentamer mediating primary immune responses, and IgE mediates allergic hypersensitivity.",
+    "correctAnsw": "c) IgG",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) IgA",
+    "optionB": "b) IgM",
+    "optionC": "c) IgG",
+    "optionD": "d) IgE",
+    "question": "Which of the following immunoglobulins is capable of crossing the human placenta to confer natural passive immunity to the fetus?",
+    "setNum": 1
+  },
+  "Q_8": {
+    "answerEx": "The nephron is the microscopic structural and functional unit of the kidney, with each human kidney containing approximately one million nephrons. Each nephron consists of a renal corpuscle (Glomerulus and Bowman's capsule) and a renal tubule (Proximal Convoluted Tubule, Loop of Henle, and Distal Convoluted Tubule). Nephrons perform ultrafiltration of blood, selective reabsorption of essential solutes and water, and tubular secretion to form urine and maintain fluid-electrolyte homeostasis. Neurons are functional units of the nervous system, alveoli are functional units of lungs, and hepatocytes are functional cells of the liver.",
+    "correctAnsw": "b) Nephron",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Neuron",
+    "optionB": "b) Nephron",
+    "optionC": "c) Alveolus",
+    "optionD": "d) Hepatocyte",
+    "question": "The functional structural unit of the human kidney responsible for blood filtration and urine formation is the:",
+    "setNum": 1
+  },
+  "Q_9": {
+    "answerEx": "Double fertilization is a unique process in angiosperms involving two syngamy events. The first male gamete ($n$) fuses with the haploid egg cell ($n$) to form a diploid zygote ($2n$). The second male gamete ($n$) migrates to the center and fuses with the diploid secondary nucleus ($2n$, formed by fusion of two polar nuclei), resulting in a triploid ($3n$) Primary Endosperm Nucleus (PEN). PEN subsequently develops into the endosperm, a nutrient-rich tissue that nourishes the developing embryo. Oospores form in lower plants, and synergids are helper cells flanking the egg cell.",
+    "correctAnsw": "b) Primary Endosperm Nucleus",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Zygote",
+    "optionB": "b) Primary Endosperm Nucleus",
+    "optionC": "c) Oospore",
+    "optionD": "d) Synergid",
+    "question": "During double fertilization in angiosperms, the fusion of one male gamete with the secondary nucleus produces the:",
+    "setNum": 1
+  },
+  "Q_10": {
+    "answerEx": "Commensalism is a (+/0) interspecific ecological interaction where one organism (the commensal) gains advantages such as nutrition, shelter, or transport, while the host species remains unaffected—experiencing neither harm nor benefit. Examples include epiphytic orchids growing on tree branches or barnacles attached to whale skin. Parasitism (+/-) benefits the parasite while harming the host, mutualism (+/+) provides mutual benefits to both interacting species, and amensalism (-/0) results in harm to one species while the other remains completely unaffected.",
+    "correctAnsw": "c) Commensalism",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Parasitism",
+    "optionB": "b) Mutualism",
+    "optionC": "c) Commensalism",
+    "optionD": "d) Amensalism",
+    "question": "The ecological interaction where one species benefits while the other species is neither harmed nor benefited is called:",
+    "setNum": 1
+  }
+        
+      }
+    },
+    "10 Questions 2011 PYQ Set 2": {
+      "questions": {
+
+        "Q_1Zisn": {
+    "answerEx": "In geometric growth, following mitosis, both daughter cells retain the capacity to divide and continuously redivide repeatedly. This leads to an exponential increase in cell number, characterized by a sigmoid growth curve with lag, log, and stationary phases. In contrast, arithmetic growth occurs when only one daughter cell continues to divide while the other differentiates and matures.",
+    "correctAnsw": "b) geometric growth",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) arithmetic growth",
+    "optionB": "b) geometric growth",
+    "optionC": "c) growth ratio",
+    "optionD": "d) qualitative growth",
+    "question": "A cell divides mitotically into two. Daughter cells divide and redivide repeatedly. Such growth is called:",
+    "setNum": 1
+  },
+  "Q_2Zisn": {
+    "answerEx": "Wuchereria bancrofti is a digenetic endoparasite that requires two hosts to complete its life cycle. The primary or definitive host is the human, where adult filarial worms reside in the lymphatic system. The secondary or intermediate host and vector is the female Culex mosquito (primarily Culex quinquefasciatus). When the mosquito bites an infected human, it ingests microfilariae, which undergo larval maturation within the insect before being transmitted to another human host during a subsequent blood meal. Tse-tse flies transmit trypanosomes, sandflies transmit Leishmania, and Anopheles mosquitoes vector malaria.",
+    "correctAnsw": "c) Culex mosquito",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Tse-tse fly",
+    "optionB": "b) Sandfly",
+    "optionC": "c) Culex mosquito",
+    "optionD": "d) Anopheles mosquito",
+    "question": "The secondary host of Wuchereria bancrofti is:",
+    "setNum": 1
+  },
+  "Q_3Zisn": {
+    "answerEx": "VNTRs (Variable Number of Tandem Repeats) are short nucleotide sequences (minisatellites) that repeat consecutively in non-coding regions of DNA. The number of repeats at any specific locus varies significantly between individuals, making VNTR profiles highly polymorphic and unique to every person (except identical twins). In DNA fingerprinting, restriction enzymes isolate these sequences, which are then separated by gel electrophoresis and visualized via Southern blotting. This variation provides the molecular foundation for forensic identification, paternity testing, and mapping genetic relationships.",
+    "correctAnsw": "a) Variable Number of Tandem Repeats",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Variable Number of Tandem Repeats",
+    "optionB": "b) Very Narrow Tandem Repeats",
+    "optionC": "c) Variable Nucleotide Tandem Regions",
+    "optionD": "d) Varying Nitrogenous Tandem Ribose",
+    "question": "In DNA fingerprinting, VNTRs stand for:",
+    "setNum": 1
+  },
+  "Q_4Zisn": {
+    "answerEx": "Oxytocin is a peptide hormone synthesized in the hypothalamus and released from the posterior pituitary gland in response to suckling stimuli. It stimulates the contraction of myoepithelial cells surrounding the alveoli of mammary glands, causing the forced release or ejection of milk (\"let-down reflex\"). In contrast, prolactin—secreted by the anterior pituitary—is responsible for the synthesis and production of milk within the alveolar lumen. Estrogen and progesterone promote ductal and lobuloalveolar development during pregnancy but inhibit actual milk secretion until after childbirth.",
+    "correctAnsw": "b) Oxytocin",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Prolactin",
+    "optionB": "b) Oxytocin",
+    "optionC": "c) Estrogen",
+    "optionD": "d) Progesterone",
+    "question": "The hormone responsible for the ejection of milk in lactating mothers is:",
+    "setNum": 1
+  },
+  "Q_5Zisn": {
+    "answerEx": "Geitonogamy refers to the transfer of pollen grains from the anther of one flower to the stigma of another flower borne on the same individual plant. Functionally, geitonogamy behaves as cross-pollination (xenogamy) because it relies on external pollinating agents like wind or insects. However, genetically, it is equivalent to autogamy (self-pollination) because both flowers share identical genetic material from the parent organism, leading to no genetic variation. Xenogamy involves transfer between different plants, while syngamy is the cellular fusion of male and female gametes during fertilization.",
+    "correctAnsw": "b) Geitonogamy",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Autogamy",
+    "optionB": "b) Geitonogamy",
+    "optionC": "c) Xenogamy",
+    "optionD": "d) Syngamy",
+    "question": "Transfer of pollen grains from anther to the stigma of another flower of the same plant is called:",
+    "setNum": 1
+  },
+  "Q_6Zisn": {
+    "answerEx": "Polymerase Chain Reaction (PCR) is an in vitro enzymatic amplification technique developed by Kary Mullis to produce millions of specific DNA copies rapidly. The process operates through thermal cycles consisting of three core steps: denaturation of double-stranded DNA, annealing of primers, and extension using a heat-stable Taq DNA polymerase. Gel electrophoresis is used to separate DNA fragments by size, Northern blotting detects RNA sequences, and flow cytometry analyzes physical and chemical properties of single cells or particles.",
+    "correctAnsw": "c) Polymerase Chain Reaction",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Northern Blotting",
+    "optionB": "b) Gel Electrophoresis",
+    "optionC": "c) Polymerase Chain Reaction",
+    "optionD": "d) Flow Cytometry",
+    "question": "The technique used to produce multiple copies of a desired DNA sequence in vitro is:",
+    "setNum": 1
+  },
+  "Q_7Zisn": {
+    "answerEx": "Methane ($\\text{CH}_4$) is a potent greenhouse gas produced during the anaerobic decomposition of organic matter by methanogenic archaebacteria. Submerged rice paddies create ideal hypoxic environments where methanogens decompose plant debris, making agriculture a major anthropogenic source. Similarly, enteric fermentation in the digestive tracts of ruminant livestock and the anaerobic breakdown of animal manure release substantial volumes of methane into the atmosphere. Carbon monoxide and sulfur dioxide are pollutants originating mainly from fossil fuel combustion and industrial emissions rather than biogenic agricultural processes.",
+    "correctAnsw": "b) Methane",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Carbon monoxide",
+    "optionB": "b) Methane",
+    "optionC": "c) Sulfur dioxide",
+    "optionD": "d) Nitrogen dioxide",
+    "question": "Which of the following is a greenhouse gas primarily released from anaerobic paddy fields and cattle dung?",
+    "setNum": 1
+  },
+  "Q_8Zisn": {
+    "answerEx": "The human placenta is classified as haemochorial based on its histology and structural layers. During implantation, embryonic trophoblastic villi erode both the maternal uterine epithelium and the vascular endothelium, bringing fetal chorionic villi into direct contact with maternal blood within the intervillous spaces. This arrangement allows rapid diffusion of gases, nutrients, and metabolic wastes across a minimal tissue barrier. In contrast, epitheliochorial and syndesmochorial placentas retain maternal tissue layers, limiting direct contact between maternal blood and fetal chorion (as seen in pigs and ruminants).",
+    "correctAnsw": "a) Haemochorial",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Haemochorial",
+    "optionB": "b) Epitheliochorial",
+    "optionC": "c) Endotheliochorial",
+    "optionD": "d) Syndesmochorial",
+    "question": "The type of placenta found in human females is:",
+    "setNum": 1
+  },
+  "Q_9Zisn": {
+    "answerEx": "Energy flow through trophic levels in an ecosystem follows a non-reversible, unidirectional pathway governed by the laws of thermodynamics. Radiant solar energy captured by autotrophic producers during photosynthesis passes to primary consumers (herbivores), secondary consumers, and decomposers. At each successive trophic conversion, approximately 90% of the energy is lost as heat through metabolic respiration (the 10% energy transfer rule). Because heat energy cannot be recycled back into chemical energy usable by plants, energy flows strictly in one direction, unlike nutrients which cycle continuously within the biosphere.",
+    "correctAnsw": "c) Unidirectional",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Multidirectional",
+    "optionB": "b) Bidirectional",
+    "optionC": "c) Unidirectional",
+    "optionD": "d) Cyclic",
+    "question": "Energy flow in an ecosystem is always:",
+    "setNum": 1
+  },
+  "Q_10Zisn": {
+    "answerEx": "A test cross involves mating an individual displaying a dominant phenotype (such as an F_1 hybrid) with an individual homozygous recessive for the trait in question. The primary purpose of a test cross is to determine whether the dominant individual is homozygous dominant or heterozygous. If the offspring exhibit a 1:1 phenotypic ratio, the parent is confirmed to be heterozygous. While every test cross is a back cross (crossing an offspring back to a parent), not all back crosses are test crosses, as crossing with the dominant parent does not reveal genotype.",
+    "correctAnsw": "d) Test cross",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Monohybrid cross",
+    "optionB": "b) Dihybrid cross",
+    "optionC": "c) Back cross",
+    "optionD": "d) Test cross",
+    "question": "Cross between an F_1 hybrid and its recessive homozygous parent is called a:",
+    "setNum": 1
+  }
+  }
+    },
+    "10 Questions 2012 PYQ Set 3": {
+      "questions": {
+  "Q_1aa": {
+    "answerEx": "In geometric growth, following mitosis, both daughter cells retain the capacity to divide and continuously redivide repeatedly. This leads to an exponential increase in cell number, characterized by a sigmoid growth curve with lag, log, and stationary phases. In contrast, arithmetic growth occurs when only one daughter cell continues to divide while the other differentiates and matures.",
+    "correctAnsw": "b) geometric growth",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) arithmetic growth",
+    "optionB": "b) geometric growth",
+    "optionC": "c) growth ratio",
+    "optionD": "d) qualitative growth",
+    "question": "A cell divides mitotically into two. Daughter cells divide and redivide repeatedly. Such growth is called:",
+    "setNum": 1
+  },
+  "Q_2cc": {
+    "answerEx": "According to Chargaff's rules of DNA base pairing, the amount of purines always equals the amount of pyrimidines, specifically where adenine pairs exclusively with thymine via two hydrogen bonds, and guanine pairs with cytosine through three hydrogen bonds. Consequently, in any double-stranded deoxyribonucleic acid molecule, the molar concentration or percentage of adenine matches the thymine concentration identically. Uracil is strictly a pyrimidine found exclusively in ribonucleic acid instead of thymine. This fundamental biochemical rule maintains the uniform structural stability and regular helical geometry required for accurate genetic replication, transcription, and overall molecular fidelity across all living cellular organisms existing today.",
+    "correctAnsw": "a) adenine",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) adenine",
+    "optionB": "b) guanine",
+    "optionC": "c) cytosine",
+    "optionD": "d) uracil",
+    "question": "In a typical double-stranded DNA molecule, the proportion of thymine is always equal to the proportion of:",
+    "setNum": 1
+  },
+  "Q_3dd": {
+    "answerEx": "Crossing over is a vital biological process involving the mutual exchange of genetic material between non-sister chromatids of homologous chromosomes, taking place specifically during the pachytene substage of prophase I in meiosis. During leptotene, chromosomes condense, while zygotene involves homologous chromosome pairing, known as synapsis, forming bivalents. In pachytene, physical crossing over becomes visible through chiasmata formation, promoting genetic recombination and variation. Finally, diplotene and diakinesis involve chiasmata terminalization and spindle fiber attachment. This crucial meiotic event ensures genetic diversity among offspring, preventing identical clones and enhancing population adaptability against environmental pressures and changing evolutionary selection factors over extremely long biological durations.",
+    "correctAnsw": "c) pachytene",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) leptotene",
+    "optionB": "b) zygotene",
+    "optionC": "c) pachytene",
+    "optionD": "d) diakinesis",
+    "question": "Crossing over between non-sister chromatids of homologous chromosomes occurs during:",
+    "setNum": 1
+  },
+  "Q_4ff": {
+    "answerEx": "A linkage group refers to all genes located on a single chromosome that tend to be inherited together during cell division. Drosophila melanogaster, the common fruit fly, possesses a total diploid chromosome number of eight, which consists of four pairs of homologous chromosomes. Because linkage groups correspond directly to the haploid chromosome set, the number of linkage groups equals its haploid number, which is four. These comprise three pairs of autosomes and one pair of sex chromosomes. This specific organism has historically served as a premier genetic model for studying chromosomal theory, linkage, crossing over, and sex determination mechanisms studied by geneticists extensively.",
+    "correctAnsw": "b) 4",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 2",
+    "optionB": "b) 4",
+    "optionC": "c) 8",
+    "optionD": "d) 12",
+    "question": "The number of linkage groups present in Drosophila melanogaster is:",
+    "setNum": 1
+  },
+  "Q_5oo": {
+    "answerEx": "Geitonogamy is an ecological and botanical mechanism of pollination where pollen grains travel from anther to stigma between two distinct flowers borne on one and the same individual plant body. Genetically, this process functions similarly to self-pollination or autogamy because the pollen originates from the identical genetic source plant, yet it functionally requires external pollinating agents like insects or wind to accomplish the physical transfer. Autogamy involves a single flower, whereas xenogamy and allogamy involve genetically different plants of the same species. Geitonogamy bridges pure selfing and outcrossing mechanisms efficiently within monoecious plant species populations.",
+    "correctAnsw": "c) geitonogamy",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) autogamy",
+    "optionB": "b) xenogamy",
+    "optionC": "c) geitonogamy",
+    "optionD": "d) allogamy",
+    "question": "The type of pollination where pollen grains are transferred from the anther to the stigma of another flower on the same plant is called:",
+    "setNum": 1
+  },
+  "Q_6pp": {
+    "answerEx": "Leydig cells, also commonly referred to as interstitial endocrine cells, are located adjacent to the seminiferous tubules within human testes and are primarily responsible for synthesizing and secreting testosterone. This critical hormone drives male secondary sexual characteristics, spermatogenesis regulation, and overall reproductive system development. In contrast, neighboring Sertoli cells provide essential nutritional and structural support, along with protection, to developing germ cells during spermatogenesis. Germinal cells produce spermatozoa, while granulosa cells exist within female ovarian follicles. Thus, healthy Leydig cell functioning is absolutely vital for maintaining proper endocrine balance and male fertility throughout life.",
+    "correctAnsw": "b) Leydig cells",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Sertoli cells",
+    "optionB": "b) Leydig cells",
+    "optionC": "c) Germinal cells",
+    "optionD": "d) Granulosa cells",
+    "question": "Which of the following cells are specifically responsible for secreting the male sex hormone testosterone?",
+    "setNum": 1
+  },
+  "Q_7uu": {
+    "answerEx": "Restriction endonucleases, often termed molecular scissors, are specialized bacterial enzymes that recognize and cleave double-stranded DNA molecules at specific, highly conserved nucleotide target sequences known as restriction sites. This precise cutting action generates sticky or blunt ends, enabling scientists to isolate desired genes and insert them into plasmids or vectors for recombinant DNA technology. DNA ligase is conversely responsible for joining fragments, whereas DNA polymerases handle replication and helicases unwind strands. These enzymes revolutionized molecular biology, allowing precise genetic manipulation, gene cloning, and sequencing applications globally.",
+    "correctAnsw": "a) cut DNA at specific recognition sequences",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) cut DNA at specific recognition sequences",
+    "optionB": "b) join broken DNA fragments together",
+    "optionC": "c) replicate DNA molecules rapidly in vitro",
+    "optionD": "d) unwind the double-stranded DNA helix",
+    "question": "Restriction endonucleases are extensively used in genetic engineering because they can:",
+    "setNum": 1
+  },
+  "Q_8ww": {
+    "answerEx": "An adult human vertebral column typically consists of twenty-six individual vertebrae arranged into five distinct anatomical regions: seven cervical, twelve thoracic, five lumbar, one fused sacrum, and one fused coccyx. Although human infants are born with thirty-three separate vertebrae—including five sacral and four coccygeal segments—these lower bones naturally fuse together during normal childhood growth and development into single solid structures. This specialized spinal column structure provides vital mechanical protection for the spinal cord, structural axial support for upright bipedal posture, and flexible attachment points for various trunk and neck muscles.",
+    "correctAnsw": "b) 26",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 24",
+    "optionB": "b) 26",
+    "optionC": "c) 33",
+    "optionD": "d) 30",
+    "question": "The total number of skeletal vertebrae present in an adult human body is:",
+    "setNum": 1
+  },
+  "Q_9xx": {
+    "answerEx": "A sarcomere is defined as the fundamental functional and structural contractile unit of striated skeletal and cardiac muscle tissues. Each individual sarcomere spans between two adjacent Z-lines and contains highly organized interlocking thick myosin and thin actin myofilaments. During muscle contraction, sliding filament theory dictates that these filaments slide past each other, shortening the sarcomere without changing individual filament lengths, driven by ATP hydrolysis and calcium ions released from the sarcoplasmic reticulum. The sarcolemma and sarcoplasm represent the muscle cell membrane and cytoplasm, respectively, supporting overall cellular metabolic processes.",
+    "correctAnsw": "c) sarcomere",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) sarcolemma",
+    "optionB": "b) sarcoplasm",
+    "optionC": "c) sarcomere",
+    "optionD": "d) sarcoplasmic reticulum",
+    "question": "The functional and structural unit of muscle contraction inside a muscle fiber is known as:",
+    "setNum": 1
+  },
+  "Q_10zz": {
+    "answerEx": "Plant cellular totipotency refers to the unique genetic capacity of a single somatic plant cell to divide, differentiate, and regenerate into an entirely complete, functional multicellular organism. This remarkable biological phenomenon was first experimentally demonstrated in nineteen fifty-eight by F.C. Steward and his associates using cultured phloem tissue explants extracted from wild carrot roots. By supplying appropriate nutrient media, vitamins, and plant growth regulators under controlled aseptic laboratory conditions, they successfully induced callus formation and subsequent whole plant regeneration. This breakthrough laid the critical foundation for modern plant biotechnology, micropropagation, and genetic modification practices.",
+    "correctAnsw": "a) F.C. Steward",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) F.C. Steward",
+    "optionB": "b) J. Heslop-Harrison",
+    "optionC": "c) P. Maheshwari",
+    "optionD": "d) M.S. Swaminathan",
+    "question": "Totipotency in plant tissue culture was first successfully demonstrated by the scientist:",
+    "setNum": 1
+  }
+      }
+    },
+    "10 Questions 2013 PYQ Set 4": {
+      "questions": {
+      "Q_1q": {
+    "answerEx": "In geometric growth, following mitosis, both daughter cells retain the capacity to divide and continuously redivide repeatedly. This leads to an exponential increase in cell number, characterized by a sigmoid growth curve with lag, log, and stationary phases. In contrast, arithmetic growth occurs when only one daughter cell continues to divide while the other differentiates and matures.",
+    "correctAnsw": "b) geometric growth",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) arithmetic growth",
+    "optionB": "b) geometric growth",
+    "optionC": "c) growth ratio",
+    "optionD": "d) qualitative growth",
+    "question": "A cell divides mitotically into two. Daughter cells divide and redivide repeatedly. Such growth is called:",
+    "setNum": 1
+  },
+  "Q_2q": {
+    "answerEx": "Zonation refers to the spatial pattern and distribution of species along a horizontal environmental gradient, such as changes across a shoreline, latitude, or altitude. Each distinct zone supports species adapted to the microclimate of that specific region. Conversely, stratification refers to vertical layering within an ecosystem (like canopy layers in a forest). Ecological niche describes a species' specific functional role and habitat requirements, while speciation is the evolutionary process leading to the formation of new species.",
+    "correctAnsw": "a) zonation",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) zonation",
+    "optionB": "b) stratification",
+    "optionC": "c) ecological niche",
+    "optionD": "d) speciation",
+    "question": "The pattern of ecosystem in which density and distribution of species vary along a horizontal gradient is:",
+    "setNum": 1
+  },
+  "Q_3q": {
+    "answerEx": "The Flavr Savr tomato was genetically modified using antisense RNA technology to inhibit the production of polygalacturonase, an enzyme responsible for degrading pectin in plant cell walls during ripening. By reducing polygalacturonase levels, the breakdown of pectin is delayed, maintaining fruit firmness, extending shelf life, and preventing premature rotting during transport. Other enzymes like galactosidase, transacetylase, and permease are involved in metabolic pathways such as the lac operon and cellular transport, play no direct role in pectin degradation during fruit softening.",
+    "correctAnsw": "d) polygalacturonase",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) galactosidase",
+    "optionB": "b) trans acetylase",
+    "optionC": "c) permease",
+    "optionD": "d) polygalacturonase",
+    "question": "The enzyme affecting the shelf life of Flavr Savr tomato is:",
+    "setNum": 1
+  },
+  "Q_4q": {
+    "answerEx": "Restriction endonuclease nomenclature follows a standard convention. The first letter represents the genus (Haemophilus), the next two letters represent the species (influenzae), and the fourth letter represents the strain (d). Roman numerals like \"III\" designate the chronological order in which the specific restriction enzyme was isolated or discovered from that particular bacterial strain. Thus, Hind III was the third restriction enzyme isolated from Haemophilus influenzae strain Rd.",
+    "correctAnsw": "c) order of discovery",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) genus name",
+    "optionB": "b) species name",
+    "optionC": "c) order of discovery",
+    "optionD": "d) strain of the organism",
+    "question": "In nomenclature of RENs (restriction endonucleases) Hind III, \"III\" stands for:",
+    "setNum": 1
+  },
+  "Q_5q": {
+    "answerEx": "Rhizobium phaseoli forms a specific symbiotic association with legume crops of the genus Phaseolus, commonly known as beans. Inside the root nodules, the bacteria utilize the nitrogenase enzyme to reduce atmospheric nitrogen into ammonia, supplying usable nitrogen to the plant. Other Rhizobium species exhibit host specificity for different legumes—for instance, Rhizobium leguminosarum infects peas (Pisum sativum). Cereal crops like jowar and maize are non-legumes and do not form symbiotic nodular associations with Rhizobium species.",
+    "correctAnsw": "b) bean",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) pea",
+    "optionB": "b) bean",
+    "optionC": "c) jowar",
+    "optionD": "d) maize",
+    "question": "Rhizobium phaseoli fixes atmospheric nitrogen symbiotically in:",
+    "setNum": 1
+  },
+  "Q_6q": {
+    "answerEx": "A nucleotide consists of a pentose sugar, a nitrogenous base, and a phosphate group. The nitrogenous base covalently links to the C-1 carbon of the ribose or deoxyribose sugar via an N-glycosidic bond. Phosphodiester bonds form the sugar-phosphate backbone by joining adjacent nucleotides between C-3 and C-5 carbons. Hydrogen bonds form complementary base pairs between opposing polynucleotide strands in a double helix, while phosphate ester linkages bind the phosphate group directly to the sugar.",
+    "correctAnsw": "a) glycosidic bond",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) glycosidic bond",
+    "optionB": "b) hydrogen bond",
+    "optionC": "c) phosphodiester bond",
+    "optionD": "d) phosphate bond",
+    "question": "In a nucleotide, the nitrogenous base is attached to carbon number 1 of sugar by a:",
+    "setNum": 1
+  },
+  "Q_7q": {
+    "answerEx": "Methanogenic archaebacteria, such as Methanobacillus and Methanobacterium, perform anaerobic digestion of organic waste (like slurry and manure) to produce biogas rich in methane, carbon dioxide, and hydrogen. These methanogens break down organic acids under strict anaerobic conditions during the final methanogenic phase. In contrast, Pseudomonas species are aerobic bacteria involved in denitrification, Rhizopus is a saprophytic fungus, and Methanococcus is typically found in marine environments rather than biogas digesters.",
+    "correctAnsw": "d) Methanobacillus",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Pseudomonas",
+    "optionB": "b) Rhizopus",
+    "optionC": "c) Methanococcus",
+    "optionD": "d) Methanobacillus",
+    "question": "During biogas production, the microorganism used to bring about anaerobic digestion is:",
+    "setNum": 1
+  },
+  "Q_8q": {
+    "answerEx": "Himgiri is a crop variety of wheat developed through conventional breeding techniques for disease resistance, specifically offering resistance to hill bunt fungal infection and leaf/stripe rust. Pusa Shubhra is a cauliflower variety resistant to black rot, Pusa Gaurav is a brassica variety resistant to aphids, and Pusa Sawani is an okra (bhindi) variety resistant to shoot and fruit borer pests.",
+    "correctAnsw": "b) Himgiri",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Pusa Shubhra",
+    "optionB": "b) Himgiri",
+    "optionC": "c) Pusa Gaurav",
+    "optionD": "d) Pusa Sawani",
+    "question": "A wheat variety resistant to hill bunt disease is:",
+    "setNum": 1
+  },
+  "Q_9q": {
+    "answerEx": "Protogyny is a dichogamous adaptation in bisexual flowers where the female reproductive organ (gynoecium/stigma) matures and becomes receptive before the male reproductive organ (androecium/anthers) releases pollen. This temporal separation prevents self-pollination and enforces cross-pollination. Conversely, protandry is when the androecium matures before the gynoecium. Dicliny refers to unisexual flowers, and gynandry refers to the structural fusion of stamens and carpels.",
+    "correctAnsw": "b) protogyny",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) protandry",
+    "optionB": "b) protogyny",
+    "optionC": "c) gynandry",
+    "optionD": "d) dicliny",
+    "question": "In bisexual flowers, the maturation of gynoecium before androecium is known as:",
+    "setNum": 1
+  },
+  "Q_10q": {
+    "answerEx": "Uricotelic animals (such as birds, reptiles, and terrestrial insects) synthesize uric acid to excrete nitrogenous waste while conserving water. This metabolic conversion of toxic ammonia into insoluble uric acid occurs primarily in the liver through the complex inosinic acid (inosine monophosphate) purine nucleotide pathway. The ornithine cycle synthesizes urea in ureotelic organisms, the Krebs cycle generates ATP during cellular respiration, and the guanine cycle is involved in purine recycling rather than direct uric acid excretion.",
+    "correctAnsw": "c) inosinic acid pathway",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) ornithine cycle",
+    "optionB": "b) guanine cycle",
+    "optionC": "c) inosinic acid pathway",
+    "optionD": "d) Krebs cycle",
+    "question": "Conversion of ammonia into uric acid occurs through the:",
+    "setNum": 1
+  }
+      }
+    }
+    ,
+    "10 Questions 2014 PYQ Set 5": {
+      "questions": {
+        
+      "Q_1": {
+    "answerEx": "In geometric growth, following mitotic cell division, both daughter cells retain the capacity to divide and continuously redivide repeatedly. This leads to an exponential increase in total cell count over time, typically resulting in a classic S-shaped or sigmoid growth curve consisting of lag, log (exponential), and stationary phases. In contrast, arithmetic growth occurs when only one daughter cell retains the capacity to continue dividing while the other daughter cell differentiates and matures into a specialized form.",
+    "correctAnsw": "b) geometric growth",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) arithmetic growth",
+    "optionB": "b) geometric growth",
+    "optionC": "c) growth ratio",
+    "optionD": "d) qualitative growth",
+    "question": "A cell divides mitotically into two. Daughter cells divide and redivide repeatedly. Such growth is called:",
+    "setNum": 1
+  },
+  "Q_2": {
+    "answerEx": "An anatropous ovule is the most common type found in over 80% of angiosperm families. In this structural arrangement, the body of the ovule becomes completely inverted through a 180-degree curvature during its development. Consequently, the micropyle is brought very close to the hilum and the funicle, while the chalaza lies at the opposite end. This inverted orientation facilitates smooth, direct entry of the pollen tube through the micropyle during double fertilization, making it evolutionary advantageous compared to straight (orthotropous) or partially curved ovule types.",
+    "correctAnsw": "a) anatropous",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) anatropous",
+    "optionB": "b) orthotropous",
+    "optionC": "c) hemianatropous",
+    "optionD": "d) campylotropous",
+    "question": "In angiosperms, the common type of ovule is:",
+    "setNum": 1
+  },
+  "Q_3": {
+    "answerEx": "In paleontology and evolutionary biology, actual remains represent intact or preserved hard body parts of ancient organisms, such as bones, teeth, shells, or entire organisms trapped in ice, amber, or tar. Because hard inorganic mineral components resist rapid biological decomposition and environmental weathering better than soft organic tissues, they survive intact over millions of years inside sedimentary rock strata. While moulds and casts form indirect impressions of an organism's shape, direct actual remains are the most frequently discovered, structurally intact evidence used to reconstruct evolutionary lineages.",
+    "correctAnsw": "c) actual remains",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) moulds",
+    "optionB": "b) casts",
+    "optionC": "c) actual remains",
+    "optionD": "d) models",
+    "question": "The most common types of fossils are:",
+    "setNum": 1
+  },
+  "Q_4": {
+    "answerEx": "Hypertrichosis (specifically excessive hair growth on the pinna of the ear) is a holandric trait governed by genes located exclusively on the non-homologous region of the Y chromosome. Because human females possess two X chromosomes (XX) and completely lack a Y chromosome, Y-linked holandric traits are directly transmitted strictly from father to son and can never express in females. Conditions like haemophilia, colour blindness, and myopia are X-linked or autosomal traits, which can readily manifest in females if they inherit the requisite mutant alleles.",
+    "correctAnsw": "a) Hypertrichosis",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Hypertrichosis",
+    "optionB": "b) Haemophilia",
+    "optionC": "c) Colour blindness",
+    "optionD": "d) Myopia",
+    "question": "Which of the following traits is never observed in human females?",
+    "setNum": 1
+  },
+  "Q_5": {
+    "answerEx": "Transgenic mice are genetically modified organisms modified to carry human gene receptors, making them susceptible to human viruses like poliovirus. Before batch releases of vaccines like the oral polio vaccine (OPV) are approved for human clinical administration, their safety, potency, and toxicity profile are rigorously tested on these transgenic mice models. Because mice share significant genetic homology with humans, they offer an efficient, reliable mammalian model to detect potential vaccine neurovirulence or adverse reactions prior to testing on larger mammals or human subjects.",
+    "correctAnsw": "d) mice",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) pig",
+    "optionB": "b) rabbit",
+    "optionC": "c) fish",
+    "optionD": "d) mice",
+    "question": "Safety of polio vaccine is tested on transgenic:",
+    "setNum": 1
+  },
+  "Q_6": {
+    "answerEx": "In innate immunity, the mucous membrane lining the respiratory, digestive, and urogenital tracts functions as an essential physical barrier preventing pathogen invasion. The sticky layer of mucus mechanically traps inhaled or ingested microorganisms, dust, and particulate matter before they can penetrate deeper body tissues. Combined with microscopic ciliary movements that sweep trapped particles outward, this mechanical block acts directly alongside intact skin as the body's first line of defense, physically blocking microbes from coming into contact with underlying epithelial cells.",
+    "correctAnsw": "b) physical barrier",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) physiological barrier",
+    "optionB": "b) physical barrier",
+    "optionC": "c) phagocytic barrier",
+    "optionD": "d) inflammatory barrier",
+    "question": "Mucous membrane trapping the microbes acts as a:",
+    "setNum": 1
+  },
+  "Q_7": {
+    "answerEx": "In uricotelic animals such as birds, reptiles, and terrestrial insects, toxic metabolic ammonia is converted into less toxic, water-insoluble uric acid via the purine nucleotide metabolic route known as the Inosinic pathway. Ammonia reacts to form purine intermediates like inosine monophosphate (IMP), which is subsequently degraded into hypoxanthine, xanthine, and ultimately uric acid. This energy-intensive pathway allows organisms in arid environments to excrete nitrogenous waste with minimal water loss, unlike mammals that use the liver's ornithine cycle to excrete water-soluble urea.",
+    "correctAnsw": "c) Inosinic pathway",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) ornithine cycle",
+    "optionB": "b) guanine cycle",
+    "optionC": "c) Inosinic pathway",
+    "optionD": "d) Kreb's cycle",
+    "question": "Conversion of ammonia into uric acid occurs through:",
+    "setNum": 1
+  },
+  "Q_8": {
+    "answerEx": "Each spinal nerve splits into multiple branches or rami after exiting the intervertebral foramen. The ramus communicans serves as the specific neural bridge connecting the ventral primary rami of the spinal nerve to the adjacent sympathetic trunk ganglion of the autonomic nervous system. It consists of white rami communicantes containing myelinated preganglionic sympathetic fibers and gray rami communicantes containing unmyelinated postganglionic fibers. This anatomic connection enables seamless transmission of visceral motor signals between the central spinal cord pathway and peripheral autonomic effectors during involuntary sympathetic responses.",
+    "correctAnsw": "b) ramus communicans",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) ramus ventralis",
+    "optionB": "b) ramus communicans",
+    "optionC": "c) ramus dorsalis",
+    "optionD": "d) connective",
+    "question": "Spinal cord and sympathetic ganglion of autonomous nervous system are connected by:",
+    "setNum": 1
+  },
+  "Q_9": {
+    "answerEx": "Progesterone is the primary steroid hormone responsible for maintaining the endometrial lining of the uterus and preventing uterine contractions during gestation. While the corpus luteum produces progesterone during early first trimester, the fully developed placenta takes over major steroidogenesis by the second trimester, secreting high levels of progesterone continuously. This critical hormone ensures vascularization of the uterine bed, suppresses maternal immune rejection of the fetus, and maintains cervical closure, ensuring a stable environment required for fetal development throughout the middle and late stages of pregnancy.",
+    "correctAnsw": "b) progesterone",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) LH (luteinizing hormone)",
+    "optionB": "b) progesterone",
+    "optionC": "c) estrogen",
+    "optionD": "d) HCG (human chorionic gonadotropin)",
+    "question": "Pregnancy in second trimester is maintained by:",
+    "setNum": 1
+  },
+  "Q_10": {
+    "answerEx": "The external surface of the human heart features surface grooves marking internal chamber boundaries. The atrioventricular groove, officially designated as the coronary sulcus, is a prominent surface depression running horizontally around the heart to demarcate the upper atria from the lower ventricles. This anatomical groove houses important cardiac blood vessels, including the main coronary arteries, the coronary sinus, and major cardiac veins wrapped in epicardial fat. It provides structural support and protection for these vessels as they supply oxygenated blood directly to the working myocardium.",
+    "correctAnsw": "c) Coronary sulcus",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Foramen ovale",
+    "optionB": "b) Ligamentum arteriosum",
+    "optionC": "c) Coronary sulcus",
+    "optionD": "d) Ductus arteriosus",
+    "question": "Atrioventricular groove is also called as:",
+    "setNum": 1
+  }
+      }
+    }
+    ,
+    "10 Questions 2015 PYQ Set 6": {
+      "questions": {
+        
+      "Question_1": {
+    "answerEx": "Photosynthetic pigments are organic compounds capable of absorbing light energy at specific wavelengths to drive the light reactions of photosynthesis. Primary and accessory photosynthetic pigments include chlorophylls, carotenoids (comprising carotenes and xanthophylls), and phycobilins (found in cyanobacteria and red algae). Anthocyanins, however, are water-soluble flavonoid pigments dissolved inside the cell vacuoles of plant tissues. They impart red, purple, or blue coloration to flowers, fruits, and autumn leaves to attract pollinators and protect against excess ultraviolet radiation. Because anthocyanins do not participate in light harvesting or electron transport within chloroplasts, they are classified strictly as non-photosynthetic plant pigments.",
+    "correctAnsw": "d) Anthocyanin",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Carotene",
+    "optionB": "b) Xanthophyll",
+    "optionC": "c) Phycobilins",
+    "optionD": "d) Anthocyanin",
+    "question": "Which one of the following is NOT a photosynthetic pigment?",
+    "setNum": 1
+  },
+  "Question_2": {
+    "answerEx": "Alcoholic fermentation is an anaerobic biochemical process wherein fermentable sugars such as glucose and fructose are converted into ethanol and carbon dioxide. This process is primarily catalyzed by unicellular fungi belonging to the genus Saccharomyces, most notably Saccharomyces cerevisiae (commonly known as brewer's or baker's yeast). Yeast cells secrete zymase enzyme complexes that convert pyruvate—the end product of glycolysis—into acetaldehyde and subsequently into ethanol. In contrast, Lactobacillus species carry out lactic acid fermentation, Trichoderma species are beneficial soil fungi utilized as biocontrol agents and enzyme producers, and Streptomyces species are soil actinomycetes widely harvested for antibiotic production.",
+    "correctAnsw": "b) Saccharomyces",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Lactobacillus",
+    "optionB": "b) Saccharomyces",
+    "optionC": "c) Trichoderma",
+    "optionD": "d) Streptomyces",
+    "question": "Alcoholic fermentation is brought about by:",
+    "setNum": 1
+  },
+  "Question_3": {
+    "answerEx": "During protein synthesis (translation), genetic information encoded on messenger RNA (mRNA) is read as consecutive three-nucleotide sequences called codons. Out of the 64 possible genetic codons, 61 code for specific amino acids, whereas 3 function as termination or stop codons: UAG (amber), UAA (ochre), and UGA (opal). When a ribosome encounters a stop codon like UAG during translation, no transfer RNA (tRNA) possesses a complementary anticodon to pair with it. Instead, release factors bind to the ribosome, prompting the hydrolytic release of the newly synthesized polypeptide chain. In contrast, AUG functions as the universal start codon coding for methionine, while UAC codes for tyrosine and UCA codes for serine.",
+    "correctAnsw": "a) UAG",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) UAG",
+    "optionB": "b) UAC",
+    "optionC": "c) AUG",
+    "optionD": "d) UCA",
+    "question": "Which one of the following is a stop codon?",
+    "setNum": 1
+  },
+  "Question_4": {
+    "answerEx": "Oxidative decarboxylation serves as the crucial transition step or link reaction connecting cytosolic glycolysis with the mitochondrial Krebs cycle (TCA cycle). Following glycolysis, the two three-carbon pyruvate molecules enter the mitochondrial matrix. Here, the multi-enzyme complex pyruvate dehydrogenase catalyzes the decarboxylation (removal of a carbon dioxide molecule) and oxidation of pyruvate. The remaining two-carbon acetyl group is transferred to Coenzyme A (CoA), while NAD+ is reduced to NADH + H+. This reaction yields two molecules of Acetyl-CoA, which subsequently enter the Krebs cycle by condensing with oxaloacetate. 2-PGA is an intermediate in glycolysis, whereas alpha-ketoglutarate and succinyl-CoA are formed within the Krebs cycle itself.",
+    "correctAnsw": "d) Acetyl-CoA",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 2-PGA",
+    "optionB": "b) alpha-Ketoglutarate",
+    "optionC": "c) Succinyl-CoA",
+    "optionD": "d) Acetyl-CoA",
+    "question": "Pyruvate undergoes oxidative decarboxylation to produce:",
+    "setNum": 1
+  },
+  "Question_5": {
+    "answerEx": "Atherosclerosis is a specific form of vascular disease characterized by the progressive accumulation of fatty deposits, cholesterol, cellular waste, and calcium within the tunica intima (innermost layer) of medium and large arteries. These accumulated fatty deposits form structural lesions called atheromatous plaques, which narrow the arterial lumen and restrict systemic blood flow, increasing the risk of coronary artery disease and strokes. While arteriosclerosis is a broader term referring to the general hardening and loss of elasticity in arterial walls, atherosclerosis specifically denotes the lumen narrowing caused by lipid plaque buildup. Hyperglycemia refers to elevated blood glucose levels, and hypotension describes abnormally low blood pressure.",
+    "correctAnsw": "b) Atherosclerosis",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Arteriosclerosis",
+    "optionB": "b) Atherosclerosis",
+    "optionC": "c) Hyperglycemia",
+    "optionD": "d) Hypotension",
+    "question": "Deposition of fatty substances in the inner lining of arteries results in:",
+    "setNum": 1
+  },
+  "Question_6": {
+    "answerEx": "According to Charles Darwin's Theory of Natural Selection, overproduction of offspring leads to a continuous struggle for existence among organisms for limited environmental resources such as food, space, and mates. Intra-specific struggle refers specifically to competition occurring between individuals belonging to the exact same species. Because members of the same species share identical ecological niches, requirements, and adaptations, intra-specific competition is the most acute and severe form of struggle. A competition between two cows (both belonging to Bos taurus) for grazing grass is a classic example of intra-specific struggle. Inter-specific struggle occurs between different species, while environmental struggle involves surviving abiotic factors.",
+    "correctAnsw": "d) Intra-specific struggle",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Inter-specific struggle",
+    "optionB": "b) Environmental struggle",
+    "optionC": "c) Struggle against natural calamities",
+    "optionD": "d) Intra-specific struggle",
+    "question": "Struggle between cow and cow to get grass is called:",
+    "setNum": 1
+  },
+  "Question_7": {
+    "answerEx": "Chromosomes are morphologically classified into four distinct types based on the positional placement of their centromere (primary constriction) during mitotic metaphase and anaphase. In a metacentric chromosome, the centromere is positioned centrally at the exact midpoint of the chromatids. This symmetrical placement divides the chromosome into two equal arms, giving it a characteristic 'V' shape during anaphase movement toward the spindle poles. In submetacentric chromosomes, the centromere is slightly off-center, creating unequal 'L'-shaped arms. In acrocentric chromosomes, the centromere is located near one end forming a 'J' shape, while in telocentric chromosomes, it is situated at the terminal tip, yielding an 'I' shape.",
+    "correctAnsw": "a) Metacentric",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Metacentric",
+    "optionB": "b) Acrocentric",
+    "optionC": "c) Submetacentric",
+    "optionD": "d) Telocentric",
+    "question": "If the centromere is situated in the exact middle of the chromosome, it is called:",
+    "setNum": 1
+  },
+  "Question_8": {
+    "answerEx": "Volant adaptations encompass structural, physiological, and behavioral modifications evolved by animals to facilitate aerial locomotion or true flight. The most prominent morphological adaptation in volant vertebrates, particularly birds (Aves), is the complete modification of the pectoral girdles and forelimbs into functional wings equipped with flight feathers. These modified forelimbs generate aerodynamic lift and thrust during flight. Additional volant adaptations include lightweight pneumatic bones, streamlined bodies, fused skeletal elements, and powerful pectoral muscles attached to a keeled sternum. Aquatic adaptations suit life in water, arboreal adaptations facilitate climbing in trees, and cursorial adaptations are specialized for fast terrestrial running.",
+    "correctAnsw": "b) Volant adaptations",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Aquatic adaptations",
+    "optionB": "b) Volant adaptations",
+    "optionC": "c) Arboreal adaptations",
+    "optionD": "d) Cursorial adaptations",
+    "question": "In which type of adaptation are forelimbs modified into wings?",
+    "setNum": 1
+  },
+  "Question_9": {
+    "answerEx": "World Environment Day is celebrated annually across the globe on June 5th. It was established by the United Nations General Assembly in 1972 during the Stockholm Conference on the Human Environment, which marked the first major international conference dedicated to environmental protection issues. Led by the United Nations Environment Programme (UNEP), June 5th serves as a primary global platform to raise public awareness, promote sustainable development, and encourage worldwide governmental action regarding pressing environmental challenges such as biodiversity loss, deforestation, marine pollution, climate change, and habitat destruction.",
+    "correctAnsw": "b) 5th June",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 21st May",
+    "optionB": "b) 5th June",
+    "optionC": "c) 25th September",
+    "optionD": "d) 13th December",
+    "question": "Which day is observed as 'World Environment Day'?",
+    "setNum": 1
+  },
+  "Question_10": {
+    "answerEx": "According to Chargaff's rules of DNA base pairing, in any double-stranded DNA molecule, the total concentration of purine bases (Adenine and Guanine) is strictly equal to the total concentration of pyrimidine bases (Thymine and Cytosine). This 1:1 stoichiometric ratio exists because Adenine selectively forms two hydrogen bonds with Thymine (A=T), and Guanine forms three hydrogen bonds with Cytosine (G≡C). Consequently, every purine base on one strand pairs exclusively with a complementary pyrimidine base on the opposing anti-parallel strand. Therefore, if a double-stranded DNA segment contains 68 purines, it must inherently contain an equal count of 68 pyrimidines.",
+    "correctAnsw": "b) 68",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 43",
+    "optionB": "b) 68",
+    "optionC": "c) 86",
+    "optionD": "d) 136",
+    "question": "The number of purines in a segment of a DNA molecule is 68. What will be the number of pyrimidines in this segment?",
+    "setNum": 1
+  }
+      }
+    }
+    ,
+    "10 Questions 2016 PYQ Set 7": {
+      "questions": {
+        "Qtw_1": {
+    "answerEx": "The ABO blood grouping system in humans is controlled by the I gene, which has three alleles: IA, IB, and i. The alleles IA and IB produce A and B surface antigens respectively, and are co-dominant to each other, while both are completely dominant over the recessive allele i. The allele i does not produce any surface antigen. Therefore, a person expressing the blood group 'O' phenotype must inherit two copies of the recessive allele, resulting in the homozygous recessive genotype ii. In contrast, IAIA and IAi produce blood group A, while IAIB results in blood group AB.",
+    "correctAnsw": "c) ii",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) IAIA",
+    "optionB": "b) IAIB",
+    "optionC": "c) ii",
+    "optionD": "d) IAi",
+    "question": "Genotype of human blood group 'O' will be:",
+    "setNum": 1
+  },
+  "Qtw_2": {
+    "answerEx": "Cry genes are specific insecticidal toxin-encoding genes isolated from the soil bacterium Bacillus thuringiensis (Bt). These genes code for crystalline protein endotoxins (Bt toxins) that act as potent biopesticides against specific target insects, such as lepidopterans, coleopterans, and dipterans. When ingested by insects, the inactive protoxins are solubilized in the alkaline environment of their midgut and cleaved into active toxins that create pores in midgut epithelial cells, killing the pest. Through genetic engineering, Cry genes have been successfully introduced into crop plants like Bt cotton to impart built-in resistance against destructive insect pests.",
+    "correctAnsw": "b) Bacillus thuringiensis",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Agrobacterium tumefaciens",
+    "optionB": "b) Bacillus thuringiensis",
+    "optionC": "c) Rhizobium species",
+    "optionD": "d) Escherichia coli",
+    "question": "'Cry' genes are present in:",
+    "setNum": 1
+  },
+  "Qtw_3": {
+    "answerEx": "Incomplete dominance is a form of intermediate inheritance in which one allele for a specific trait is not completely dominant over another allele. This results in a third intermediate phenotype in heterozygous individuals. A classic example is observed in Mirabilis jalapa (four o'clock plant), where crossing a homozygous red-flowered plant (RR) with a homozygous white-flowered plant (rr) produces all pink-flowered offspring (Rr) in the F1 generation. When these F1 heterozygous plants self-pollinate, the resulting F2 generation displays a phenotypic ratio of 1 Red : 2 Pink : 1 White (1:2:1), which precisely matches its genotypic ratio of 1 RR : 2 Rr : 1 rr.",
+    "correctAnsw": "b) 1 : 2 : 1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 2 : 1",
+    "optionB": "b) 1 : 2 : 1",
+    "optionC": "c) 1 : 1 : 1",
+    "optionD": "d) 1 : 1 : 2",
+    "question": "The phenotypic ratio of incomplete dominance is:",
+    "setNum": 1
+  },
+  "Qtw_4": {
+    "answerEx": "The vermiform appendix is a narrow, blind-ended tube attached to the cecum of the human large intestine. It is classified as a vestigial organ because it has lost its primary original digestive function through human evolutionary history. In herbivorous mammals, a large functional cecum and appendix serve as primary sites for the microbial fermentation and breakdown of tough plant cellulose. However, due to dietary shifts in human ancestors toward more digestible foods, the appendix gradually degenerated into a reduced structure that no longer plays an active role in cellulose digestion, serving as evolutionary evidence of common descent.",
+    "correctAnsw": "a) vestigial organ",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) vestigial organ",
+    "optionB": "b) homologous organ",
+    "optionC": "c) sense organ",
+    "optionD": "d) analogous organ",
+    "question": "Vermiform appendix is an example of:",
+    "setNum": 1
+  },
+  "Qtw_5": {
+    "answerEx": "Down's syndrome is a chromosomal genetic disorder caused by the presence of an extra copy of chromosome number 21, a phenomenon known as trisomy 21. This nondisjunction during meiotic cell division results in individuals possessing 47 chromosomes instead of the standard diploid human count of 46 (45 autosomes + 2 sex chromosomes). Symptoms include physical growth delays, characteristic facial features, and intellectual disability. In contrast, Turner's syndrome involves monosomy of the X chromosome (45 chromosomes total, 44+XO), while Cushing's syndrome is an endocrine condition and AIDS is an infectious disease caused by HIV, neither altering total chromosome count.",
+    "correctAnsw": "d) Down's syndrome",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Turner's syndrome",
+    "optionB": "b) Cushing's syndrome",
+    "optionC": "c) Acquired Immuno-Deficiency Syndrome",
+    "optionD": "d) Down's syndrome",
+    "question": "In which of the following disorders number of chromosomes present is 47?",
+    "setNum": 1
+  },
+  "Qtw_6": {
+    "answerEx": "Factor VIII is an essential blood-clotting protein encoded by a gene on the X chromosome. Haemophilia A is a hereditary X-linked recessive bleeding disorder characterized by a congenital deficiency or dysfunction of clotting Factor VIII. Affected individuals suffer from impaired blood coagulation, leading to prolonged bleeding from minor injuries or spontaneous internal hemorrhages into joints and muscles. Recombinant DNA technology now allows the mass production of synthetic human Factor VIII. Administering this recombinant factor via intravenous injections replaces the missing protein in haemophiliacs, restoring normal blood clotting capability and preventing life-threatening hemorrhage complications.",
+    "correctAnsw": "c) haemophiliacs",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) pituitary dwarfism",
+    "optionB": "b) diabetes mellitus",
+    "optionC": "c) haemophiliacs",
+    "optionD": "d) cystic fibrosis",
+    "question": "Human blood clotting factor VIII is used to treat:",
+    "setNum": 1
+  },
+  "Qtw_7": {
+    "answerEx": "Diabetes insipidus is an endocrine disorder caused either by a deficiency in the secretion of antidiuretic hormone (ADH or vasopressin) from the posterior pituitary gland or an inability of the kidney tubules to respond to ADH. Normally, ADH promotes water reabsorption in the distal convoluted tubules and collecting ducts of the nephrons. In its absence or reduced activity, water reabsorption drops drastically, resulting in polyuria (excretion of large volumes of dilute urine) and compensatory polydipsia (excessive thirst). Diabetes insipidus is distinct from diabetes mellitus, as it does not involve altered blood glucose levels like hyperglycemia or hypoglycemia.",
+    "correctAnsw": "c) polyuria",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) hyperglycemia",
+    "optionB": "b) hypoglycemia",
+    "optionC": "c) polyuria",
+    "optionD": "d) hypertension",
+    "question": "A person suffering from diabetes insipidus shows:",
+    "setNum": 1
+  },
+  "Qtw_8": {
+    "answerEx": "The retina is the innermost, light-sensitive neural tissue layer lining the back of the human eye. It contains specialized neuroepithelial photoreceptor cells known as rods and cones. Rods contain the photopigment rhodopsin and are responsible for scotopic (twilight or dim light) vision, whereas cones contain iodopsin and facilitate photopic (daylight/color) vision. When light hits these photoreceptor cells, it triggers photochemical reactions that generate nerve impulses transmitted via the optic nerve to the visual cortex of the brain. The blind spot lacks photoreceptors, the cochlea is an auditory structure in the inner ear, and the cornea is a transparent anterior focusing layer.",
+    "correctAnsw": "b) retina",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) blind spot",
+    "optionB": "b) retina",
+    "optionC": "c) cochlea",
+    "optionD": "d) cornea",
+    "question": "Photoreceptor cells are present in:",
+    "setNum": 1
+  },
+  "Qtw_9": {
+    "answerEx": "HAART stands for Highly Active Antiretroviral Therapy, which is the standard medical treatment regimen for individuals infected with Human Immunodeficiency Virus (HIV) and Acquired Immuno-Deficiency Syndrome (AIDS). HAART involves a customized combination of three or more antiretroviral medications—such as reverse transcriptase inhibitors, protease inhibitors, and entry inhibitors—working simultaneously. By attacking HIV at multiple stages of its replication cycle, HAART significantly suppresses viral load in the bloodstream, prevents destruction of helper T-lymphocytes (CD4 cells), reduces opportunistic infections, delays progression to advanced AIDS, and extends patient lifespan.",
+    "correctAnsw": "c) AIDS",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) malaria",
+    "optionB": "b) cancer",
+    "optionC": "c) AIDS",
+    "optionD": "d) high cholesterol level",
+    "question": "HAART is suggested for the treatment of:",
+    "setNum": 1
+  },
+  "Qtw_10": {
+    "answerEx": "Salvia exhibits a specialized entomophilous (insect) pollination adaptation known as the lever or turnpipe mechanism. Its two-lipped bilabiate corolla features anther lobes separated by a long, curved connective tissue acting as a lever mechanism. When a visiting bee pushes against the lower sterile anther lobe while seeking nectar at the base of the flower, the upper fertile anther lobe pivots downward like a lever, depositing pollen grains directly onto the insect's back. Jasmine, Bougainvillea, and Butea attract insect pollinators using standard visual or olfactory attractants without utilizing this specialized mechanical lever apparatus.",
+    "correctAnsw": "a) Salvia",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Salvia",
+    "optionB": "b) Jasmine",
+    "optionC": "c) Bougainvillea",
+    "optionD": "d) Butea",
+    "question": "Lever mechanism of pollination is observed in:",
+    "setNum": 1
+  }
+      
+      }
+    }
+    ,
+    "10 Questions 2017 PYQ Set 8": {
+      "questions": {
+        "Qms_1": {
+    "answerEx": "In geometric growth, following mitosis, both daughter cells retain the capacity to divide and continuously redivide repeatedly. This leads to an exponential increase in cell number, characterized by a sigmoid growth curve with lag, log, and stationary phases. In contrast, arithmetic growth occurs when only one daughter cell continues to divide while the other differentiates and matures.",
+    "correctAnsw": "b) geometric growth",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) arithmetic growth",
+    "optionB": "b) geometric growth",
+    "optionC": "c) growth ratio",
+    "optionD": "d) qualitative growth",
+    "question": "A cell divides mitotically into two. Daughter cells divide and redivide repeatedly. Such growth is called:",
+    "setNum": 1
+  },
+  "Qms_2": {
+    "answerEx": "Restriction endonucleases are enzymes that recognize specific nucleotide sequences (palindromic sequences) within a DNA molecule and cleave the phosphodiester bonds at or near these sites. Because of their ability to precisely cut DNA into defined fragments, they are referred to as biological or molecular scissors in recombinant DNA technology. Other enzymes serve different roles: ligases join DNA fragments, polymerases synthesize nucleic acid strands, and transcriptases synthesize RNA from a DNA template.",
+    "correctAnsw": "c) endonucleases",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) ligases",
+    "optionB": "b) polymerases",
+    "optionC": "c) endonucleases",
+    "optionD": "d) transcriptases",
+    "question": "The biological scissors of DNA are:",
+    "setNum": 1
+  },
+  "Qms_3": {
+    "answerEx": "Humification is the essential process in decomposition where dead plant and animal residues are converted into dark, amorphous organic matter called humus by soil microbes. Humus is highly resistant to microbial action and undergoes extremely slow decomposition, serving as a reservoir of nutrients for plants. The other options describe different stages of decomposition: fragmentation involves breaking detritus into smaller particles, leaching washes water-soluble inorganic nutrients down into the soil horizon, and catabolism is the enzymatic degradation of detritus.",
+    "correctAnsw": "d) humification",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) fragmentation",
+    "optionB": "b) leaching",
+    "optionC": "c) catabolism",
+    "optionD": "d) humification",
+    "question": "The process of formation of partially decomposed organic matter is called:",
+    "setNum": 1
+  },
+  "Qms_4": {
+    "answerEx": "Vinegar is an aqueous solution of acetic acid produced via a two-step fermentation process. First, yeasts ferment sugars into ethanol. Next, aerobic bacteria—specifically Acetobacter aceti—oxidize ethanol into acetic acid. The other listed microorganisms yield different industrial bioproducts: Aspergillus niger is primarily used for commercial citric acid production, Rhizopus arrhizus produces fumaric acid and enzymes, and Streptomyces venezuelae is an actinomycete species known for synthesizing the antibiotic chloramphenicol (chloromycetin).",
+    "correctAnsw": "c) Acetobacter aceti",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Aspergillus niger",
+    "optionB": "b) Rhizopus arrhizus",
+    "optionC": "c) Acetobacter aceti",
+    "optionD": "d) Streptomyces venezuelae",
+    "question": "The microbial source of vinegar is:",
+    "setNum": 1
+  },
+  "Qms_5": {
+    "answerEx": "Overproduction (or prodigality of nature) is one of the core principles proposed by Charles Darwin in his Theory of Natural Selection (Organic Evolution). It states that organisms possess an inherent potential to produce far more offspring than the environment can support with limited resources. This overproduction inevitably leads to a struggle for existence among individuals for space, food, and mates. In contrast, Lamarckism emphasizes the inheritance of acquired characters, Panspermia proposes extraterrestrial origin of life, and the Modern Synthetic Theory integrates genetics with natural selection.",
+    "correctAnsw": "b) Theory of organic evolution",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Lamarckism",
+    "optionB": "b) Theory of organic evolution",
+    "optionC": "c) Panspermia theory",
+    "optionD": "d) Modern theory of evolution",
+    "question": "Overproduction is the principle of:",
+    "setNum": 1
+  },
+  "Qms_6": {
+    "answerEx": "Acetylcholine is a major neurotransmitter released from the synaptic vesicles of a presynaptic neuron into the synaptic cleft upon the arrival of an action potential. It binds to specific receptors on the postsynaptic membrane, facilitating the transmission of nerve impulses across the chemical synapse. Cholesterol is a structural lipid component of cell membranes, ATP serves as the primary cellular energy currency, and cholinesterase is an enzyme responsible for breaking down acetylcholine to terminate the nerve impulse signal.",
+    "correctAnsw": "d) acetylcholine",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) cholesterol",
+    "optionB": "b) A.T.P.",
+    "optionC": "c) cholinesterase",
+    "optionD": "d) acetylcholine",
+    "question": "Which of the following is a chemical transmitter in the synapse of neurons?",
+    "setNum": 1
+  },
+  "Qms_7": {
+    "answerEx": "Progesterone, often called the pregnancy hormone, is produced by the corpus luteum during the early stages of gestation to maintain the vascularized endometrial lining of the uterus required for embryo implantation and development. A decline or deficiency in progesterone levels during the first trimester causes the endometrial lining to shed, leading to spontaneous abortion or miscarriage. Aldosterone regulates sodium-water balance, testosterone governs male secondary sexual characteristics, and estrogen supports reproductive tissue growth alongside progesterone.",
+    "correctAnsw": "d) Progesterone",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Aldosterone",
+    "optionB": "b) Testosterone",
+    "optionC": "c) Oestrogen",
+    "optionD": "d) Progesterone",
+    "question": "Abortion in the first trimester of pregnancy may occur due to lack of:",
+    "setNum": 1
+  },
+  "Qms_8": {
+    "answerEx": "Pituitary dwarfism is a genetic condition caused by an insufficient secretion of human growth hormone (hGH) from the anterior pituitary gland, leading to stunted physical growth. Modern recombinant DNA technology and gene therapy utilize the isolated human growth hormone producer gene introduced into host vectors (or host cells) to mass-produce synthetic hGH for therapeutic administration. Human insulin manages diabetes mellitus, tissue plasminogen activator (tPA) dissolves blood clots in cardiovascular cases, and tissue growth factor-beta is involved in cellular differentiation and tissue repair.",
+    "correctAnsw": "d) Human growth hormone producer gene",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Human insulin",
+    "optionB": "b) Tissue growth factor - Beta",
+    "optionC": "c) Tissue plasminogen activator",
+    "optionD": "d) Human growth hormone producer gene",
+    "question": "Pituitary dwarfism is treated with gene therapy by:",
+    "setNum": 1
+  },
+  "Qms_9": {
+    "answerEx": "Chlorofluorocarbons (CFCs) released from synthetic refrigerants and propellants drift into the upper atmosphere, where intense ultraviolet (UV) radiation breaks them down to release free chlorine radicals. These chlorine atoms act as catalysts in breaking down stratospheric ozone molecules (O3) into oxygen gas (O2), drastically reducing the thickness of the ozone layer and forming the ozone hole. Ethylene functions as a gaseous plant hormone, while methane and carbon dioxide (CO2) act primarily as greenhouse gases contributing to global warming.",
+    "correctAnsw": "c) CFCs",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) ethylene",
+    "optionB": "b) methane",
+    "optionC": "c) CFCs",
+    "optionD": "d) CO2",
+    "question": "Ozone depletion is occurring widely in the stratosphere; it leads to an ozone hole caused mainly due to:",
+    "setNum": 1
+  },
+  "Qms_10": {
+    "answerEx": "Salvia exhibits a specialized entomophilous (insect) pollination adaptation known as the lever or turnpipe mechanism. Its two-lipped bilabiate corolla features anther lobes separated by a curved connective tissue acting as a lever. When a visiting bee pushes against the lower sterile anther lobe to reach nectar, the upper fertile anther lobe pivots downward to deposit pollen directly onto the insect's back. Jasmine, Bougainvillea, and Butea utilize standard insect-attracting floral features without this specific mechanical lever mechanism.",
+    "correctAnsw": "a) Salvia",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Salvia",
+    "optionB": "b) Jasmine",
+    "optionC": "c) Bougainvillea",
+    "optionD": "d) Butea",
+    "question": "Lever mechanism of pollination is observed in:",
+    "setNum": 1
+  }
+      
+      }
+    }
+    ,
+    "10 Questions 2018 PYQ Set 9": {
+      "questions": {
+        
+      "Qwa_1": {
+    "answerEx": "Incomplete dominance is a form of intermediate inheritance in which one allele for a specific trait is not completely expressed over its paired allele. This results in a third phenotype where the expressed physical trait is a combination or blend of the dominant and recessive phenotypes. A classic example is observed in Mirabilis jalapa (four o'clock plant), where a cross between a homozygous red-flowered plant (RR) and a homozygous white-flowered plant (rr) produces heterozygous pink-flowered offspring (Rr) in the F1 generation. Self-pollinating these F1 pink individuals produces 1 Red (RR), 2 Pink (Rr), and 1 White (rr) plant in the F2 generation. Consequently, both the genotypic ratio (1 RR : 2 Rr : 1 rr) and the phenotypic ratio (1 Red : 2 Pink : 1 White) become identical as 1 : 2 : 1, modifying the typical Mendelian monohybrid phenotypic ratio of 3 : 1.",
+    "correctAnsw": "c) 1 : 2 : 1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1 : 1",
+    "optionB": "b) 3 : 1",
+    "optionC": "c) 1 : 2 : 1",
+    "optionD": "d) 9 : 3 : 3 : 1",
+    "question": "The phenotypic ratio of incomplete dominance is:",
+    "setNum": 1
+  },
+  "Qwa_2": {
+    "answerEx": "Nucleic acids like DNA and RNA are long-chain polymers made up of repeating monomeric units called nucleotides. A complete nucleotide consists of three distinct chemical components: a nitrogenous base (either a purine like adenine and guanine, or a pyrimidine like cytosine, thymine, or uracil), a five-carbon pentose sugar (ribose or deoxyribose), and a phosphate group. A nucleoside represents the structural subunit formed when a nitrogenous base forms a covalent N-glycosidic linkage with the C1 carbon of a pentose sugar. However, it lacks the esterified phosphate group at the C5 position of the sugar molecule. When a nucleoside gets phosphorylated by the addition of phosphate groups, it converts into a nucleotide. Therefore, a nucleoside is essentially a nucleotide without its phosphate group.",
+    "correctAnsw": "d) phosphate group",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) sugar",
+    "optionB": "b) nitrogen base",
+    "optionC": "c) hydrogen bond",
+    "optionD": "d) phosphate group",
+    "question": "Nucleoside is a nucleotide without:",
+    "setNum": 1
+  },
+  "Qwa_3": {
+    "answerEx": "Mushrooms are edible, spore-bearing fruiting bodies of macroscopic fungi belonging mostly to the phylum Basidiomycota. Among the cultivated varieties worldwide, Agaricus bisporus is commercially the most prominent species, widely recognized by its common name, the white button mushroom. It is rich in essential nutrients, proteins, vitamins, and minerals, making it a valuable food source in human diet and commercial biotechnology. In contrast, Pleurotus florida belongs to the oyster mushroom category, characterized by its fan-shaped cap, while Volvariella volvacea is commonly referred to as the paddy straw mushroom, widely grown in warm tropical climates on rice straw substrates. Candida species are microscopic yeast-like unicellular fungi, several of which are opportunistic pathogens in humans rather than cultivated edible macrofungi. Thus, Agaricus bisporus specifically corresponds to the white button mushroom.",
+    "correctAnsw": "a) Agaricus bisporus",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Agaricus bisporus",
+    "optionB": "b) Pleurotus florida",
+    "optionC": "c) Volvariella volvacea",
+    "optionD": "d) Candida species",
+    "question": "Which of the following is a white button mushroom?",
+    "setNum": 1
+  },
+  "Qwa_4": {
+    "answerEx": "Brown rust of wheat, also known as leaf rust, is a devastating plant disease that drastically reduces grain yield and crop quality. This plant pathology is caused by the obligate biotrophic fungal pathogen Puccinia triticina (belonging to the class Urediniomycetes in phylum Basidiomycota). Fungi of this category produce microscopic rust-colored urediniospores on the leaf blades of host wheat plants, giving the leaves a dusty, reddish-brown pustular appearance. These fungal spores disrupt the photosynthetic capacity of the plant and cause significant loss of water and nutrients. Bacteria and viruses cause different plant diseases such as bacterial blights or mosaic viruses, while aphids act merely as sap-sucking insect vectors or agricultural pests rather than the primary causative pathogens. Thus, brown rust of wheat is strictly classified as a fungal plant disease.",
+    "correctAnsw": "c) fungi",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) viruses",
+    "optionB": "b) bacteria",
+    "optionC": "c) fungi",
+    "optionD": "d) aphids",
+    "question": "Brown rust of wheat is caused by:",
+    "setNum": 1
+  },
+  "Qwa_5": {
+    "answerEx": "During the light-dependent reactions of photosynthesis in green plants, light energy is absorbed by photosynthetic units known as photosystems located within the thylakoid membranes of chloroplasts. Each photosystem consists of a light-harvesting complex (antenna complex) and a special core reaction center made of a chlorophyll a molecule. Photosystem II (P.S. II) contains a specific reaction center core labeled as Chl-a, 680 or P680 because its absorption spectrum peaks at a wavelength of 680 nm in the red region of light. Upon absorbing light at this specific wavelength, P680 becomes excited, loses electrons, and drives the photolysis of water to release molecular oxygen. In contrast, Photosystem I (P.S. I) possesses a core reaction center designated as Chl-a, 700 or P700, which optimally absorbs light at a longer wavelength of 700 nm.",
+    "correctAnsw": "b) Chl-a, 680",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Chl-a, 700",
+    "optionB": "b) Chl-a, 680",
+    "optionC": "c) Chl-a, 673",
+    "optionD": "d) Chl-a, 650",
+    "question": "The reaction centre of P.S. II (Photosystem II) is:",
+    "setNum": 1
+  },
+  "Qwa_6": {
+    "answerEx": "A food chain illustrates the linear transfer of energy and nutrients from one organism to another across distinct trophic levels in an ecosystem. Green plants, algae, and photosynthetic bacteria form the first trophic level as producers because they synthesize organic food directly from inorganic raw materials via photosynthesis. Organisms that feed directly on these primary producers to obtain energy are strictly plant-eating animals known as herbivores. In ecological terms, herbivores occupy the second trophic level and are categorized as primary consumers. Secondary consumers are carnivores or omnivores that feed upon these primary consumers, whereas decomposers (detritivores like bacteria and fungi) break down dead plant and animal organic matter to recycle inorganic nutrients back into the ecosystem. Therefore, herbivores function specifically as primary consumers in ecological food chains.",
+    "correctAnsw": "b) primary consumers",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) producers",
+    "optionB": "b) primary consumers",
+    "optionC": "c) secondary consumers",
+    "optionD": "d) decomposers",
+    "question": "In a food chain, the herbivores are represented by:",
+    "setNum": 1
+  },
+  "Qwa_7": {
+    "answerEx": "Desalination refers to any of several water-treatment processes that remove dissolved mineral salts from saline or brackish water to convert it into fresh, potable water suitable for human consumption or agricultural use. Reverse osmosis (RO) is the most widely utilized physical membrane technology for this purpose. Under natural osmotic conditions, water flows spontaneously through a semipermeable membrane from a dilute solution into a concentrated solution. In reverse osmosis, an external mechanical pressure exceeding the natural osmotic pressure is applied to the highly saline water side. This forces pure water molecules to pass backward through the microscopic pores of a synthetic semipermeable membrane, leaving behind dissolved salts and contaminants. Methods like ion-exchange and electrodialysis remove specific ions or impurities, but reverse osmosis remains the primary, cost-effective method for large-scale brackish water desalination.",
+    "correctAnsw": "a) Reverse osmosis",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Reverse osmosis",
+    "optionB": "b) Ion-exchange",
+    "optionC": "c) Adsorption",
+    "optionD": "d) Electrodialysis",
+    "question": "__________ is used for desalination of brackish water.",
+    "setNum": 1
+  },
+  "Qwa_8": {
+    "answerEx": "During early embryonic development in triploblastic animals, gastrulation converts the blastula into three primary germ layers: ectoderm, mesoderm, and endoderm. Each layer gives rise to specific tissues, organs, and body systems. The mesoderm (middle germ layer) forms the circulatory system—including the heart, blood vessels, and blood elements—as well as the muscular system, skeletal framework, connective tissues, and excretory organs like kidneys. Thus, the human heart is explicitly mesodermal in origin. Conversely, the retina of the eye and the enamel covering teeth originate from the ectoderm (outer germ layer), which also forms the nervous system and epidermal structures. The liver, along with the pancreas and epithelial linings of the digestive and respiratory tracts, develops from the innermost germ layer known as the endoderm.",
+    "correctAnsw": "c) Heart",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Retina",
+    "optionB": "b) Enamel of teeth",
+    "optionC": "c) Heart",
+    "optionD": "d) Liver",
+    "question": "Which of the following is mesodermal in origin?",
+    "setNum": 1
+  },
+  "Qwa_9": {
+    "answerEx": "In animal husbandry, cattle breeds are classified into indigenous (native) breeds and exotic (foreign) breeds based on their geographic origin. Indigenous breeds evolved within specific regions of India and are well-adapted to local climatic conditions and tropical diseases; examples include Gir (from Gujarat), Red Sindhi (from Sindh region), and Sahiwal (from Punjab). On the other hand, exotic breeds are imported from foreign countries into India primarily for selective breeding and cross-breeding programs to enhance milk yield and extend lactation periods. Jersey is a famous exotic breed of dairy cattle originally developed on the Channel Island of Jersey in the United Kingdom. It is globally renowned for the high butterfat content of its milk and high reproductive efficiency compared to native Indian breeds.",
+    "correctAnsw": "d) Jersey",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Gir",
+    "optionB": "b) Sindhi",
+    "optionC": "c) Sahiwal",
+    "optionD": "d) Jersey",
+    "question": "__________ is an exotic breed of cow.",
+    "setNum": 1
+  },
+  "Qwa_10": {
+    "answerEx": "Thyroxine (also known as tetraiodothyronine or T4) is the primary amine-based hormone secreted into the bloodstream by the follicular cells of the thyroid gland. Its major physiological role is the regulation and maintenance of the Basal Metabolic Rate (BMR) across nearly all body tissues. Thyroxine stimulates cellular oxygen consumption, increases carbohydrate, protein, and lipid metabolism, promotes heat production (thermogenesis), and supports tissue growth and development. In contrast, Anti-Diuretic Hormone (ADH or vasopressin) regulates water reabsorption in renal tubules, Growth Hormone (GH) stimulates cell division, skeletal elongation, and tissue growth, while Oxytocin induces uterine contractions during childbirth and triggers milk ejection during lactation. Hence, thyroxine specifically functions as the primary regulator of basal metabolic activity in the human body.",
+    "correctAnsw": "a) Thyroxine",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Thyroxine",
+    "optionB": "b) ADH",
+    "optionC": "c) GH",
+    "optionD": "d) Oxytocin",
+    "question": "__________ maintains basic metabolic rate.",
+    "setNum": 1
+  }
+      }
+    }
+    ,
+    "10 Questions 2019 PYQ Set 10": {
+      "questions": {
+        
+      "Qos_1": {
+    "answerEx": "In a double-stranded DNA molecule, the nitrogenous bases pair up specifically according to Chargaff's rules—Adenine always pairs with Thymine, and Guanine pairs with Cytosine. Because of this strict hydrogen-bonding specificity, if the sequence of nucleotides on one polynucleotide strand is known, the nucleotide sequence on the opposite strand is automatically predetermined. Therefore, each strand acts as a template for the other, and the two strands are called complementary strands.",
+    "correctAnsw": "d) Complementary strand",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Descending strand",
+    "optionB": "b) Leading strand",
+    "optionC": "c) Lagging strand",
+    "optionD": "d) Complementary strand",
+    "question": "As the base sequence present on one strand of DNA decides the base sequence of the other strand, this strand is considered as:",
+    "setNum": 1
+  },
+  "Qos_2": {
+    "answerEx": "Honey bees display a haplo-diploid system of sex determination. In this mechanism, sex is determined by the number of chromosome sets an individual receives. Female bees (queens and worker bees) develop from fertilized diploid eggs (2n = 32) and are formed through sexual reproduction. Male bees (drones) develop from unfertilized haploid eggs (n = 16) through the process of parthenogenesis. Drones produce sperm via mitosis rather than meiosis.",
+    "correctAnsw": "b) Honey bee",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Pigeon",
+    "optionB": "b) Honey bee",
+    "optionC": "c) Parrot",
+    "optionD": "d) Snake",
+    "question": "_______ shows haplo-diploid type of sex-determination:",
+    "setNum": 1
+  },
+  "Qos_3": {
+    "answerEx": "Protein and peptide hormones are water-soluble and cannot cross the lipid bilayer of the target cell membrane. Instead, they bind to specific cell surface membrane-bound receptors. This interaction triggers a cascade inside the cell, generating small intracellular signaling molecules known as second messengers—such as cyclic AMP (cAMP), calcium ions (Ca2+), or inositol trisphosphate (IP3). These second messengers propagate the signal to alter metabolic actions within the target cell.",
+    "correctAnsw": "b) cAMP",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Renin",
+    "optionB": "b) cAMP",
+    "optionC": "c) ANF",
+    "optionD": "d) GHRF",
+    "question": "Membrane bound receptors and hormones produce second messengers like _______.",
+    "setNum": 1
+  },
+  "Qos_4": {
+    "answerEx": "Angiosperms undergo double fertilization, involving two distinct fusion events inside the female gametophyte (embryo sac). The first male gamete fuses with the haploid egg cell to form a diploid zygote (syngamy). The second male gamete moves toward the center and fuses with the diploid secondary nucleus (formed by the prior fusion of two polar nuclei) to form a triploid (3n) Primary Endosperm Nucleus (PEN). This second process is known as triple fusion.",
+    "correctAnsw": "c) secondary nucleus",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) antipodal cell",
+    "optionB": "b) egg cell",
+    "optionC": "c) secondary nucleus",
+    "optionD": "d) synergids",
+    "question": "During double fertilization, the second male gamete fuses with _______.",
+    "setNum": 1
+  },
+  "Qos_5": {
+    "answerEx": "Anatomically, the human heart features surface grooves or sulci that mark the boundaries between its internal chambers. The atrioventricular groove runs externally around the heart, demarcating the division between the upper atria and the lower ventricles. This groove is commonly called the coronary sulcus because it houses the main coronary blood vessels (arteries and veins) that supply oxygenated blood directly to the myocardium and return deoxygenated blood to the right atrium.",
+    "correctAnsw": "c) Coronary sulcus",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Foramen ovale",
+    "optionB": "b) Ligamentum arteriosum",
+    "optionC": "c) Coronary sulcus",
+    "optionD": "d) Ductus arteriosus",
+    "question": "Atrioventricular groove is also called as _______.",
+    "setNum": 1
+  },
+  "Qos_6": {
+    "answerEx": "Uricotelic organisms, such as birds, reptiles, and land snails, excrete nitrogenous waste primarily as uric acid to conserve body water. Toxic ammonia produced during amino acid breakdown is converted into uric acid via the inosinic acid pathway (a purine biosynthetic pathway), which requires energy expenditure. By contrast, the ornithine cycle functions in ureotelic organisms to convert ammonia into urea in the liver.",
+    "correctAnsw": "c) Inosinic pathway",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Ornithine cycle",
+    "optionB": "b) Guanine cycle",
+    "optionC": "c) Inosinic pathway",
+    "optionD": "d) Krebs cycle",
+    "question": "Conversion of ammonia into uric acid occurs through _______.",
+    "setNum": 1
+  },
+  "Qos_7": {
+    "answerEx": "During translation, messenger RNA (mRNA) codons are read sequentially to assemble amino acids into a polypeptide chain. Termination occurs when the ribosome reaches a stop codon (also termed a nonsense codon), which does not code for any amino acid and lacks a corresponding tRNA. The three universal stop codons are UAA (ochre), UAG (amber), and UGA (opal). When UAA enters the ribosomal A-site, release factors release the synthesized protein.",
+    "correctAnsw": "c) UAA",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) AUG",
+    "optionB": "b) GUG",
+    "optionC": "c) UAA",
+    "optionD": "d) GGU",
+    "question": "Which of the following is a stop codon?",
+    "setNum": 1
+  },
+  "Qos_8": {
+    "answerEx": "In flowering plants (angiosperms), ovules are categorized based on their orientation relative to the funicle (stalk). In an anatropous ovule, the body of the ovule completely rotates inverted by 180 degrees during development. Consequently, the micropyle points downward toward the base and comes to lie adjacent to the funicle, while the chalaza lies at the opposite end. This inverted orientation is present in over 80% of angiosperm families.",
+    "correctAnsw": "a) anatropous",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) anatropous",
+    "optionB": "b) orthotropous",
+    "optionC": "c) hemianatropous",
+    "optionD": "d) campylotropous",
+    "question": "In angiosperms, the most common type of ovule is _______.",
+    "setNum": 1
+  },
+  "Qos_9": {
+    "answerEx": "A dihybrid cross analyzes the inheritance patterns of two distinct traits simultaneously (e.g., seed shape and seed color). Mendel's Law of Independent Assortment states that alleles for different traits segregate independently during gamete formation. Crossing two heterozygous F1 individuals (RrYy x RrYy) yields an F2 phenotypic ratio of 9:3:3:1 (9 dominant for both traits, 3 dominant-recessive, 3 recessive-dominant, and 1 double recessive).",
+    "correctAnsw": "c) 9:3:3:1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1:2:1",
+    "optionB": "b) 3:1",
+    "optionC": "c) 9:3:3:1",
+    "optionD": "d) 1:1:1:1",
+    "question": "In a dihybrid cross, the phenotypic ratio obtained in the F2 generation is:",
+    "setNum": 1
+  },
+  "Qos_10": {
+    "answerEx": "In geometric growth, following mitosis, both daughter cells retain the capacity to divide and continuously redivide repeatedly. This leads to an exponential increase in cell number, characterized by a sigmoid growth curve with lag, log, and stationary phases. In contrast, arithmetic growth occurs when only one daughter cell continues to divide while the other differentiates and matures.",
+    "correctAnsw": "b) geometric growth",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) arithmetic growth",
+    "optionB": "b) geometric growth",
+    "optionC": "c) growth ratio",
+    "optionD": "d) qualitative growth",
+    "question": "A cell divides mitotically into two. Daughter cells divide and redivide repeatedly. Such growth is called:",
+    "setNum": 1
+  }
+      }
+    }
+    ,
+    "10 Questions 2020 PYQ Set 11": {
+      "questions": {
+        "Qte_1": {
+    "answerEx": "Thalassemia is an autosomal recessive blood disorder characterized by impaired synthesis of hemoglobin chains. Hemoglobin A (HbA) consists of two α-globin and two β-globin polypeptide chains. Mutations or deletions in the genes controlling these globin chains cause a quantitative reduction in the production of either α-globin (α-thalassemia) or β-globin (β-thalassemia). This defect causes the formation of abnormal hemoglobin molecules, leading to anemia and red blood cell destruction. Options (B), (C), and (D) are incorrect as they refer to endocrine function, immune cell counts, and clotting mechanisms, which are unrelated to the genetic pathology of thalassemia.",
+    "correctAnsw": "a) decrease of either beta (β) or alpha (α) globin chain of HbA",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) decrease of either beta (β) or alpha (α) globin chain of HbA",
+    "optionB": "b) decrease of alpha cells of pancreas",
+    "optionC": "c) decrease in WBC count",
+    "optionD": "d) decrease in platelets",
+    "question": "Which of the following is most appropriate for thalassemia?",
+    "setNum": 1
+  },
+  "Qte_2": {
+    "answerEx": "The medulla oblongata forms the lowermost part of the brainstem and contains vital autonomic reflex centers that control essential body functions. It houses the cardiac center (which regulates heart rate and strength of contractions), the respiratory center (which controls automatic breathing movements), and the vasomotor center (which manages blood pressure). Any physical trauma or severe injury to the medulla oblongata leads to instant cessation of cardiac activity and breathing, resulting in immediate death. While the cerebrum handles conscious thought, pons varolii manages relay functions, and diencephalon regulates homeostasis, none directly manage vital involuntary cardiac and respiratory reflexes.",
+    "correctAnsw": "c) medulla oblongata",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) cerebrum",
+    "optionB": "b) pons varolii",
+    "optionC": "c) medulla oblongata",
+    "optionD": "d) diencephalon",
+    "question": "Injury to __________ causes sudden death.",
+    "setNum": 1
+  },
+  "Qte_3": {
+    "answerEx": "The wall of the urinary bladder is primarily composed of a thick layer of smooth muscle called the detrusor muscle. This muscle remains relaxed to allow the bladder to expand and store urine. During micturition (urination), parasympathetic stimulation causes the detrusor muscle to contract forcefully, compressing the bladder to expel urine into the urethra. Cardiac muscle is found exclusively in the heart wall, dartos muscle is located in the subcutaneous tissue of the scrotum to regulate temperature, and the gubernaculum is a fibrous cord guiding testicular descent rather than a bladder muscle.",
+    "correctAnsw": "b) detrusor muscle",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) cardiac muscle",
+    "optionB": "b) detrusor muscle",
+    "optionC": "c) dartos muscle",
+    "optionD": "d) gubernaculum",
+    "question": "Name the smooth muscle of urinary bladder.",
+    "setNum": 1
+  },
+  "Qte_4": {
+    "answerEx": "In geometric growth, following mitotic division, both daughter cells retain the capacity to divide and continuously redivide repeatedly. This pattern produces an exponential surge in cell numbers over time, typically yielding a standard sigmoid (S-shaped) growth curve consisting of lag, log (exponential), and stationary phases. By contrast, arithmetic growth occurs when only one daughter cell retains the capacity to divide continuously while the other daughter cell undergoes differentiation and maturation (as seen in root apical meristems). Thus, continuous division of all offspring cells defines geometric growth.",
+    "correctAnsw": "b) geometric growth",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) arithmetic growth",
+    "optionB": "b) geometric growth",
+    "optionC": "c) growth ratio",
+    "optionD": "d) qualitative growth",
+    "question": "A cell divides mitotically into two. Daughter cells divide and redivide repeatedly. Such growth is called:",
+    "setNum": 1
+  },
+  "Qte_5": {
+    "answerEx": "Azotobacter is an aerobic, non-symbiotic, free-living soil bacterium capable of fixing atmospheric nitrogen gas (N2) into ammonia (NH3), enriching soil fertility independently. Rhizobium is also a nitrogen-fixing bacterium, but it works symbiotically within root nodules of leguminous plants rather than living freely in the soil. Nitrosomonas and Nitrobacter are nitrifying bacteria involved in nitrification; Nitrosomonas converts ammonia into nitrites, and Nitrobacter converts nitrites into nitrates. Therefore, Azotobacter is the correct free-living nitrogen fixer.",
+    "correctAnsw": "b) Azotobacter",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Rhizobium",
+    "optionB": "b) Azotobacter",
+    "optionC": "c) Nitrosomonas",
+    "optionD": "d) Nitrobacter",
+    "question": "Which of the following is a free-living nitrogen-fixing bacterium?",
+    "setNum": 1
+  },
+  "Qte_6": {
+    "answerEx": "Human Immunodeficiency Virus (HIV) is an enveloped retrovirus. Its core contains two identical single-stranded RNA (ssRNA) molecules as its genetic genome, accompanied by essential viral enzymes such as reverse transcriptase, integrase, and protease. Upon infecting a host helper T-lymphocyte (CD4+ cell), the reverse transcriptase enzyme transcribes the single-stranded viral RNA into double-stranded DNA, which integrates into the host genome. Because HIV carries ssRNA, options (A), (B), and (D) are incorrect.",
+    "correctAnsw": "c) single-stranded RNA",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) single-stranded DNA",
+    "optionB": "b) double-stranded DNA",
+    "optionC": "c) single-stranded RNA",
+    "optionD": "d) double-stranded RNA",
+    "question": "Human Immunodeficiency Virus (HIV) contains genetic material as:",
+    "setNum": 1
+  },
+  "Qte_7": {
+    "answerEx": "Matthew Meselson and Franklin Stahl experimentally demonstrated the semiconservative mode of DNA replication in Escherichia coli using the heavy isotope of nitrogen, 15N. They grew E. coli in a medium containing 15N so that the heavy isotope incorporated into newly synthesized DNA strands. Using CsCl density gradient centrifugation, they tracked DNA density changes across successive generations after switching the cells to a light 14N medium. 35S and 32P were used by Hershey and Chase to prove DNA is genetic material, while 14C was used by Calvin to trace carbon assimilation during photosynthesis.",
+    "correctAnsw": "d) 15N",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 35S",
+    "optionB": "b) 14C",
+    "optionC": "c) 32P",
+    "optionD": "d) 15N",
+    "question": "Semiconservative mechanism of DNA replication was experimentally proved by Meselson and Stahl using:",
+    "setNum": 1
+  },
+  "Qte_8": {
+    "answerEx": "Transduction is the process of genetic recombination in bacteria where a bacterial DNA fragment is transferred from a donor bacterium to a recipient bacterium mediated by a bacteriophage (bacterial virus). Transcription refers to synthesis of RNA from a DNA template, whereas translation is the synthesis of proteins from mRNA. Transformation is the direct uptake of naked foreign DNA from the surrounding environment by a competent bacterial cell. Hence, virus-mediated bacterial gene transfer is specifically called transduction.",
+    "correctAnsw": "c) Transduction",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Transcription",
+    "optionB": "b) Translation",
+    "optionC": "c) Transduction",
+    "optionD": "d) Transformation",
+    "question": "Transfer of genetic material from one bacterium to another by a virus is called:",
+    "setNum": 1
+  },
+  "Qte_9": {
+    "answerEx": "Water movement into root hairs occurs along a DPD gradient. Diffusion Pressure Deficit (DPD), or suction pressure, represents the actual water-absorbing capacity of a cell, defined by the formula DPD = OP - TP (where OP is Osmotic Pressure and TP is Turgor Pressure). Root cell sap maintains a higher solute concentration than soil solution, generating a high DPD inside the root hair. Water enters from soil (low DPD) to root cell (high DPD). While OP and TP influence the gradient, DPD serves as the direct driving force for endosmosis.",
+    "correctAnsw": "b) Diffusion pressure deficit (DPD)",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Turgor pressure",
+    "optionB": "b) Diffusion pressure deficit (DPD)",
+    "optionC": "c) Osmotic pressure",
+    "optionD": "d) Wall pressure",
+    "question": "Movement of water from soil into root hair cells takes place mainly due to:",
+    "setNum": 1
+  },
+  "Qte_10": {
+    "answerEx": "Carbon dioxide (CO2) is a major greenhouse gas responsible for trapping infrared thermal radiation emitted from the Earth's surface, preventing it from escaping into space and thereby driving the global greenhouse effect. Other prominent greenhouse gases include methane (CH4), nitrous oxide (N2O), and water vapor. In contrast, oxygen (O2), nitrogen (N2), and argon (Ar) make up over 99% of atmospheric gases but possess symmetric diatomic/monoatomic structures that do not absorb infrared radiation, making them non-greenhouse gases.",
+    "correctAnsw": "a) Carbon dioxide (CO2)",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Carbon dioxide (CO2)",
+    "optionB": "b) Oxygen (O2)",
+    "optionC": "c) Nitrogen (N2)",
+    "optionD": "d) Argon (Ar)",
+    "question": "Which of the following is a greenhouse gas?",
+    "setNum": 1
+  }
+      
+      }
+    }
+    ,
+    "10 Questions 2021 PYQ Set 12": {
+      "questions": {
+        "Q_1": {
+    "answerEx": "Geitonogamy refers to the transfer of pollen grains from the anther of one flower to the stigma of another flower borne on the same plant. Functionally, it resembles cross-pollination because it relies on an external pollinating agent (such as insects or wind) to move the pollen. However, genetically, it is equivalent to autogamy (self-pollination) because both flowers belong to the same parent plant and share an identical genetic constitution. Consequently, geitonogamy produces offspring that are genetically identical to the parent.",
+    "correctAnsw": "b) Geitonogamy",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Autogamy",
+    "optionB": "b) Geitonogamy",
+    "optionC": "c) Xenogamy",
+    "optionD": "d) Hybridization",
+    "question": "Transfer of pollen grains from anther to the stigma of another flower produced on the same plant is called:",
+    "setNum": 1
+  },
+  "Q_2": {
+    "answerEx": "Nucleic acids contain pyrimidine and purine nitrogenous bases. DNA contains the purines adenine (A) and guanine (G), along with the pyrimidines cytosine (C) and thymine (T). In RNA, the purines remain adenine and guanine, and the pyrimidines are cytosine and uracil (U). Uracil replaces thymine in RNA molecules, pairing with adenine via two hydrogen bonds during transcription and complementary base pairing. Thymine differs structurally from uracil by possessing a methyl group at the 5-carbon position.",
+    "correctAnsw": "c) Uracil",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Adenine",
+    "optionB": "b) Guanine",
+    "optionC": "c) Uracil",
+    "optionD": "d) Thymine",
+    "question": "The nitrogenous base present in RNA but absent in DNA is:",
+    "setNum": 1
+  },
+  "Q_3": {
+    "answerEx": "Oxytocin is a peptide hormone synthesized in the hypothalamus and released from the posterior lobe of the pituitary gland (neurohypophysis). During labor, the stretching of the cervix triggers a positive feedback mechanism that causes increased oxytocin secretion. Oxytocin acts directly on the smooth muscles of the uterine myometrium, stimulating strong, rhythmic uterine contractions during parturition. Progesterone maintains pregnancy, estrogen promotes uterine growth, and prolactin stimulates milk synthesis post-delivery.",
+    "correctAnsw": "c) Oxytocin",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Progesterone",
+    "optionB": "b) Estrogen",
+    "optionC": "c) Oxytocin",
+    "optionD": "d) Prolactin",
+    "question": "The hormone that stimulates the contraction of uterine muscles during childbirth is:",
+    "setNum": 1
+  },
+  "Q_4": {
+    "answerEx": "Vital Capacity (VC) is the maximum volume of air an individual can expel from the lungs after a maximum inhalation, or conversely, the maximum volume of air that can be inspired following a forced expiration. It includes Inspiratory Reserve Volume (IRV), Tidal Volume (TV), and Expiratory Reserve Volume (ERV). Vital capacity serves as an essential clinical indicator of pulmonary function and lung flexibility, varying according to age, gender, physical conditioning, and body stature.",
+    "correctAnsw": "b) Vital Capacity",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Tidal Volume",
+    "optionB": "b) Vital Capacity",
+    "optionC": "c) Total Lung Capacity",
+    "optionD": "d) Residual Volume",
+    "question": "The maximum volume of air a person can breathe in after a forced expiration is called:",
+    "setNum": 1
+  },
+  "Q_5": {
+    "answerEx": "Upon entering the human body, the Human Immunodeficiency Virus (HIV) targets and enters macrophages. Inside the macrophage, the viral RNA genome undergoes reverse transcription to form viral DNA using the enzyme reverse transcriptase. This viral DNA integrates into the host cell genome, directing the host cell to continuously produce new viral particles. Because macrophages survive viral replication and continuously release new viruses without immediate lysis, they function as an HIV factory.",
+    "correctAnsw": "c) Macrophages",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) B-lymphocytes",
+    "optionB": "b) Helper T-cells",
+    "optionC": "c) Macrophages",
+    "optionD": "d) Erythrocytes",
+    "question": "Which of the following cells act as a factory of HIV in the human body?",
+    "setNum": 1
+  },
+  "Q_6": {
+    "answerEx": "Translation of messenger RNA (mRNA) into a polypeptide chain begins at a specific start codon. In virtually all organisms, the codon AUG serves as the initiator codon. It codes for the amino acid methionine in eukaryotes and formyl-methionine in prokaryotes. The ribosome recognizes AUG to establish the correct reading frame for translation. In contrast, UAA, UAG, and UGA function as stop (termination) codons, which signal the end of translation.",
+    "correctAnsw": "d) AUG",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) UAA",
+    "optionB": "b) UAG",
+    "optionC": "c) UGA",
+    "optionD": "d) AUG",
+    "question": "The initiator codon in protein synthesis (translation) is:",
+    "setNum": 1
+  },
+  "Q_7": {
+    "answerEx": "Water moves across root tissues toward the vascular cylinder through distinct pathways. The apoplast pathway involves non-living components, where water moves exclusively through cell walls and intercellular spaces by capillary action without crossing any cell membranes. Because it does not encounter protoplasmic resistance, apoplastic movement occurs rapidly. However, at the endodermis, the waterproof Casparian strip blocks this route, forcing water to enter the symplast pathway across the plasma membrane.",
+    "correctAnsw": "a) Apoplast pathway",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Apoplast pathway",
+    "optionB": "b) Symplast pathway",
+    "optionC": "c) Transmembrane pathway",
+    "optionD": "d) Vacuolar pathway",
+    "question": "Movement of water through cell walls and intercellular spaces without crossing any plasma membrane is called:",
+    "setNum": 1
+  },
+  "Q_8": {
+    "answerEx": "The Sinoatrial (SA) node is a specialized mass of neuromuscular cardiac tissue located in the upper wall of the right atrium. It generates spontaneous electrical impulses (action potentials) at the highest frequency (around 70–75 beats per minute) compared to other nodal tissues. These electrical impulses spread rapidly across the atrial myocardium, triggering atrial contraction and establishing the rhythmic rate of heartbeats, which makes it the natural pacemaker.",
+    "correctAnsw": "c) SA node",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) AV node",
+    "optionB": "b) Bundle of His",
+    "optionC": "c) SA node",
+    "optionD": "d) Purkinje fibers",
+    "question": "The pacemaker of the human heart is:",
+    "setNum": 1
+  },
+  "Q_9": {
+    "answerEx": "Restriction endonucleases cleave the sugar-phosphate backbone of double-stranded DNA at specific palindromic sequences. When a restriction enzyme (such as EcoRI) makes staggered cuts a few base pairs away from the center of the palindromic site, it leaves short, single-stranded overhanging sequences called sticky (staggered) ends. These complementary single-stranded overhangs readily form hydrogen bonds with matching strands, facilitating ligation in recombinant DNA technology.",
+    "correctAnsw": "b) Sticky ends",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Blunt ends",
+    "optionB": "b) Sticky ends",
+    "optionC": "c) Circular ends",
+    "optionD": "d) Mutation sites",
+    "question": "Restriction enzymes that cut DNA strands at specific palindromic sequences to produce overhanging ends create:",
+    "setNum": 1
+  },
+  "Q_10": {
+    "answerEx": "Ecological succession starting in dry, arid terrestrial regions lacking soil—such as bare rocks, sand dunes, or dried lava—is called xerarch succession. It begins with crustose lichens acting as pioneer species that secrete organic acids to weather the rock surface into basic soil. Over time, lichens are replaced by mosses, herbs, shrubs, and ultimately a stable climax forest community, transforming a xeric habitat into a mesic environment.",
+    "correctAnsw": "b) Xerarch succession",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Hydrarch succession",
+    "optionB": "b) Xerarch succession",
+    "optionC": "c) Secondary succession",
+    "optionD": "d) Halosere succession",
+    "question": "Primary succession occurring on bare rocks is termed:",
+    "setNum": 1
+  }
+      
+      }
+    }
+    ,
+    "10 Questions 2022 PYQ Set 13": {
+      "questions": {
+        "Q_1": {
+    "answerEx": "The development of a mature male gametophyte from a diploid microspore mother cell (MMC) involves two distinct phases. First, the MMC undergoes one meiotic division (microsporogenesis) to produce a tetrad of four haploid microspores (pollen grains). Subsequently, each haploid microspore undergoes two sequential mitotic divisions. The first mitosis creates a larger vegetative cell and a smaller generative cell. The second mitosis divides the generative cell into two non-motile male gametes. Thus, one meiotic and two mitotic divisions are required.",
+    "correctAnsw": "a) One meiotic and two mitotic",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) One meiotic and two mitotic",
+    "optionB": "b) Two meiotic only",
+    "optionC": "c) Two mitotic only",
+    "optionD": "d) One mitotic and one meiotic",
+    "question": "How many meiotic and mitotic divisions occur during the development of male gametophyte from the microspore mother cell?",
+    "setNum": 1
+  },
+  "Q_2": {
+    "answerEx": "Inversion is a structural chromosomal aberration in which a segment of a chromosome breaks off, rotates by 180 degrees, and reinserts itself back into the same location on the chromosome. In the given sequence, the block of genes alters its original linear arrangement without losing or gaining any genetic material. Because no genes are added or removed, but their linear order is inverted, this internal rearrangement represents chromosomal inversion.",
+    "correctAnsw": "c) Inversion",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Deletion",
+    "optionB": "b) Duplication",
+    "optionC": "c) Inversion",
+    "optionD": "d) Translocation",
+    "question": "Which event is represented by a chromosomal segment changing its orientation from ABCDEFGH to ADBCEFGH?",
+    "setNum": 1
+  },
+  "Q_3": {
+    "answerEx": "Angina pectoris is a clinical condition characterized by sudden, severe chest pain (strangling chest sensation) caused by inadequate blood supply and oxygen (ischemia) to the myocardium. The pain typically radiates to the neck, lower jaw, left shoulder, and down the inner side of the left arm. It is often triggered by physical exertion or emotional stress when coronary arteries become narrowed by atherosclerosis, restricting oxygenated blood flow.",
+    "correctAnsw": "b) Angina pectoris",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Malaria",
+    "optionB": "b) Angina pectoris",
+    "optionC": "c) Kidney failure",
+    "optionD": "d) Typhoid",
+    "question": "Severe chest pain, heaviness, and pain radiating to the neck, jaw, left arm, and shoulder are characteristic symptoms of:",
+    "setNum": 1
+  },
+  "Q_4": {
+    "answerEx": "The central nervous system (brain and spinal cord) is protected by three protective tissue layers called meninges. The outermost tough layer is the dura mater, the middle web-like layer is the arachnoid mater, and the innermost vascular layer is the pia mater. Pia mater is thin, highly delicate, transparent, and lies in direct, intimate contact with the surface of the brain and spinal cord, closely following every gyri and sulci contour.",
+    "correctAnsw": "d) Pia mater",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Cranium",
+    "optionB": "b) Dura mater",
+    "optionC": "c) Arachnoid mater",
+    "optionD": "d) Pia mater",
+    "question": "The meningeal layer present in close, direct contact with the Central Nervous System (CNS) in human beings is:",
+    "setNum": 1
+  },
+  "Q_5": {
+    "answerEx": "Innate immunity consists of non-specific defense mechanisms present from birth. Its cellular barriers include specialized phagocytic cells such as Polymorphonuclear leukocytes (PMNL-neutrophils), monocytes, and tissue macrophages. These phagocytes engulf and digest invading foreign pathogens. In contrast, antibodies, T-lymphocytes, and B-lymphocytes form components of the acquired (adaptive) immune system, which generates antigen-specific immune responses.",
+    "correctAnsw": "a) Phagocytes",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Phagocytes",
+    "optionB": "b) Antibodies",
+    "optionC": "c) T-lymphocytes",
+    "optionD": "d) B-lymphocytes",
+    "question": "Cellular factors in innate immunity are provided by:",
+    "setNum": 1
+  },
+  "Q_6": {
+    "answerEx": "Brood parasitism is a reproductive strategy in birds where the parasite species lays its eggs in the nest of a host species, leaving the host to incubate and rear the young. The Asian koel (Eudynamys scolopaceus) lays its eggs in the nest of the common Indian crow (Corvus splendens). The eggs of the parasitic koel closely resemble the host crow's eggs in size and color, preventing host detection.",
+    "correctAnsw": "b) Asian koel and common Indian crow",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Hermit crab and sea anemone",
+    "optionB": "b) Asian koel and common Indian crow",
+    "optionC": "c) Algae and fungi",
+    "optionD": "d) Buffalo and cattle egret",
+    "question": "Pick out the appropriate association representing brood parasitism:",
+    "setNum": 1
+  },
+  "Q_7": {
+    "answerEx": "PCR consists of three sequential steps: Denaturation, Annealing, and Extension. During the annealing step, synthetic oligonucleotide primers hybridize (bind) to complementary sequences on the single-stranded template DNA. This step operates at a lower temperature, typically between 40 deg C and 60 deg C (or 50–65 deg C depending on primer composition), allowing hydrogen bonds to form between primers and target strands. Denaturation occurs higher at 90–98 deg C and extension at 70–75 deg C.",
+    "correctAnsw": "b) 40 \u2013 60 deg C",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 90 \u2013 98 deg C",
+    "optionB": "b) 40 \u2013 60 deg C",
+    "optionC": "c) 70 \u2013 75 deg C",
+    "optionD": "d) 100 \u2013 120 deg C",
+    "question": "The annealing step during Polymerase Chain Reaction (PCR) operates at what temperature range?",
+    "setNum": 1
+  },
+  "Q_8": {
+    "answerEx": "A dioecious plant has male (staminate) and female (pistillate) flowers born on completely separate individual plants (e.g., Papaya). Because an individual plant produces only male or only female flowers, self-pollination within the same flower (autogamy) and pollination between different flowers on the same plant (geitonogamy) are structurally impossible. Thus, dioecy enforces obligate cross-pollination (xenogamy) and prevents both autogamy and geitonogamy.",
+    "correctAnsw": "c) Autogamy and Geitonogamy",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Geitonogamy and Xenogamy",
+    "optionB": "b) Autogamy and Xenogamy",
+    "optionC": "c) Autogamy and Geitonogamy",
+    "optionD": "d) Cleistogamy and Xenogamy",
+    "question": "Dioecious flowering plants prevent:",
+    "setNum": 1
+  },
+  "Q_9": {
+    "answerEx": "Azolla is a free-floating freshwater aquatic fern that maintains a symbiotic relationship with the nitrogen-fixing cyanobacterium Anabaena azollae present in its leaf cavities. The cyanobacterium fixes atmospheric nitrogen into organic forms, enriching the aquatic habitat. When incorporated into paddy field soils, decomposing Azolla releases significant amounts of bioavailable nitrogen, making it a valuable biological fertilizer for rice cultivation.",
+    "correctAnsw": "d) Azolla",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Azospirillum",
+    "optionB": "b) Anabaena",
+    "optionC": "c) Azotobacter",
+    "optionD": "d) Azolla",
+    "question": "Which of the following is an aquatic fern widely used as a biofertilizer in rice fields?",
+    "setNum": 1
+  },
+  "Q_10": {
+    "answerEx": "Klinefelter's syndrome is a chromosomal disorder caused by nondisjunction resulting in an extra X chromosome in males, yielding a 47,XXY karyotype. Affected individuals are phenotypically male but display underdeveloped testes, sparse body hair, tall stature with long limbs, reduced testosterone secretion, sterility, and partial enlargement of breasts (gynaecomastia). Turner's syndrome (45,XO) affects females, while Down's syndrome is trisomy 21.",
+    "correctAnsw": "c) Klinefelter's syndrome",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Down's syndrome",
+    "optionB": "b) Turner's syndrome",
+    "optionC": "c) Klinefelter's syndrome",
+    "optionD": "d) Both A and C",
+    "question": "Which of the following genetic syndromes is characterized by Gynaecomastia (development of breast tissue in males)?",
+    "setNum": 1
+  }
+      
+      }
+    }
+    ,
+    "10 Questions 2023 PYQ Set 14": {
+      "questions": {
+         "Q_1": {
+    "answerEx": "Histones are basic proteins that bind tightly to negatively charged DNA molecules to package them into structural units called nucleosomes. Because DNA contains a negatively charged phosphate backbone, histone proteins require positively charged basic amino acids to form stable electrostatic interactions. Lysine and arginine possess basic side chains that carry positive charges at physiological pH. These abundant amino acids allow histones to efficiently condense long DNA strands into chromatin fibers inside the eukaryotic nucleus.",
+    "correctAnsw": "a) Lysine and Arginine",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Lysine and Arginine",
+    "optionB": "b) Leucine and Methionine",
+    "optionC": "c) Serine and Leucine",
+    "optionD": "d) Phenylalanine and Lysine",
+    "question": "Histones are rich in:",
+    "setNum": 1
+  },
+  "Q_2": {
+    "answerEx": "In angiosperms, the monosporic development of a female gametophyte (embryo sac) begins with a single functional megaspore. The haploid nucleus of this megaspore undergoes three consecutive mitotic nuclear divisions without immediate cytokinesis. The first division forms a 2-nucleate state, the second creates a 4-nucleate state, and the third results in an 8-nucleate structure. Subsequent cellular organization creates a 7-celled, 8-nucleate mature embryo sac consisting of an egg apparatus, central cell, and antipodal cells.",
+    "correctAnsw": "c) Three",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) One",
+    "optionB": "b) Two",
+    "optionC": "c) Three",
+    "optionD": "d) Four",
+    "question": "How many mitotic divisions take place during the formation of a female gametophyte from a functional megaspore?",
+    "setNum": 1
+  },
+  "Q_3": {
+    "answerEx": "Ethylene (C2H4) is a simple hydrocarbon gas that serves as the only gaseous plant growth regulator (phytohormone) in plants. It is synthesized in ripening fruits, senescing tissues, and nodal regions under mechanical or environmental stress. Ethylene regulates diverse physiological processes, including fruit ripening, leaf and flower abscission, triple response in seedlings, and breaking seed dormancy. Hormones like ABA, Cytokinin, and Gibberellin function as non-gaseous organic compounds in aqueous solution.",
+    "correctAnsw": "c) Ethylene",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) ABA",
+    "optionB": "b) Cytokinin",
+    "optionC": "c) Ethylene",
+    "optionD": "d) Gibberellin",
+    "question": "Which of the following is the only gaseous plant growth regulator?",
+    "setNum": 1
+  },
+  "Q_4": {
+    "answerEx": "In plant tissue culture, the pH of the culture medium (such as Murashige and Skoog medium) must be carefully adjusted to a slightly acidic range between 5.0 and 5.8 prior to autoclaving. This specific pH range optimizes the solubility and uptake of mineral nutrients, trace elements, and plant growth regulators by cultured explants. A pH that is too acidic or alkaline degrades vitamins, precipitates essential ions like iron and phosphate, or prevents proper gelling of agar.",
+    "correctAnsw": "b) 5 to 5.8",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 2 to 4.2",
+    "optionB": "b) 5 to 5.8",
+    "optionC": "c) 7 to 7.5",
+    "optionD": "d) 8 to 9.5",
+    "question": "The pH of nutrient medium for plant tissue culture is in the range of:",
+    "setNum": 1
+  },
+  "Q_5": {
+    "answerEx": "The Rivet Popper Hypothesis was proposed by Stanford ecologist Paul Ehrlich to illustrate the ecological importance of species diversity. In this analogy, an ecosystem is compared to an airplane and individual species to rivets holding it together. Removing a few species (popping rivets) may not immediately threaten the ecosystem, but continuous loss of key species (keystone species) eventually compromises structural integrity, causing severe ecosystem disruption or collapse.",
+    "correctAnsw": "a) Biodiversity",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Biodiversity",
+    "optionB": "b) Natality",
+    "optionC": "c) Sex-ratio",
+    "optionD": "d) Age distribution ratio",
+    "question": "Rivet Popper Hypothesis is an analogy to explain the significance of:",
+    "setNum": 1
+  },
+  "Q_6": {
+    "answerEx": "The ZW-ZZ mechanism of sex determination occurs in birds, reptiles, and some fishes. In this heterogametic system, females are heterogametic carrying two different sex chromosomes (ZW), while males are homogametic carrying two identical sex chromosomes (ZZ). Pigeons, parrots, and sparrows are avian species that utilize this mechanism. Options containing mammals like bats and cats follow the XX-XY sex determination system, where males are heterogametic.",
+    "correctAnsw": "a) Pigeon, Parrot, Sparrow",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Pigeon, Parrot, Sparrow",
+    "optionB": "b) Parrot, Bat, Fowl",
+    "optionC": "c) Bat, Fowl, Crow",
+    "optionD": "d) Sparrow, Fowl, Cat",
+    "question": "Which of the following group shows ZW-ZZ type of sex determination?",
+    "setNum": 1
+  },
+  "Q_7": {
+    "answerEx": "Hamburger's phenomenon (also called the chloride shift) maintains electrical neutrality across red blood cell (RBC) membranes during carbon dioxide transport. As CO2 diffuses into RBCs, carbonic anhydrase converts it into carbonic acid, which dissociates into H+ and HCO3-. The accumulation of bicarbonate ions causes them to diffuse out of RBCs into blood plasma down a concentration gradient. To balance this loss of negative charge, chloride ions (Cl-) diffuse from plasma into RBCs.",
+    "correctAnsw": "b) Cl- diffuse into RBCs",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Cl- diffuse into WBCs",
+    "optionB": "b) Cl- diffuse into RBCs",
+    "optionC": "c) Na+ diffuse into RBCs",
+    "optionD": "d) Na+ diffuse into WBCs",
+    "question": "In Hamburger's phenomenon:",
+    "setNum": 1
+  },
+  "Q_8": {
+    "answerEx": "Calcium and phosphate homeostasis in blood and tissues is regulated by two antagonistic hormones: Parathyroid hormone (PTH, also known as Collip's hormone) and Calcitonin. Collip's hormone is secreted by the parathyroid glands to increase blood calcium levels by promoting bone resorption and renal reabsorption. Conversely, Calcitonin is secreted by the parafollicular cells of the thyroid gland to lower blood calcium levels by enhancing bone deposition, keeping ion concentrations in balance.",
+    "correctAnsw": "c) Collip's hormone and Calcitonin",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Thymosin and Parathormone",
+    "optionB": "b) Calcitonin and Somatostatin",
+    "optionC": "c) Collip's hormone and Calcitonin",
+    "optionD": "d) Calcitonin and Thymosin",
+    "question": "Calcium and Phosphate ions are balanced between blood and other tissues by:",
+    "setNum": 1
+  },
+  "Q_9": {
+    "answerEx": "Water potential measures the free energy of water molecules. By international convention, the water potential of pure water at standard temperature and pressure without external forces is defined as zero. Adding solutes lowers the free energy, making the water potential of a solution negative. Therefore, stating that pure water has a negative water potential is incorrect. Statements (A), (B), and (C) accurately describe cell water relations.",
+    "correctAnsw": "d) Water potential of pure water is negative",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) In a flaccid cell, T.P. is zero",
+    "optionB": "b) In a turgid cell, DPD is zero",
+    "optionC": "c) In a fully turgid cell, TP = OP",
+    "optionD": "d) Water potential of pure water is negative",
+    "question": "Identify the INCORRECT statement:",
+    "setNum": 1
+  },
+  "Q_10": {
+    "answerEx": "Contraceptive Intrauterine Devices (IUDs) are categorized into non-medicated, copper-releasing, and hormone-releasing types. LNG-20 (Progestasert/Levonorgestrel) is a hormone-releasing IUD that slowly releases synthetic progesterone inside the uterine cavity. This thickens cervical mucus to inhibit sperm passage and alters the endometrial lining to prevent implantation. Cu-T, Cu-7, and Multiload-375 are copper-releasing IUDs that suppress sperm motility through copper ions rather than releasing hormones.",
+    "correctAnsw": "d) LNG-20",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Cu-T",
+    "optionB": "b) Cu-7",
+    "optionC": "c) Multiload-375",
+    "optionD": "d) LNG-20",
+    "question": "Which of the following is a hormone releasing contraceptive?",
+    "setNum": 1
+  }
+      
+      }
+    }
+    ,
+    "10 Questions 2024 PYQ Set 15": {
+      "questions": {
+        
+      "Q_1": {
+    "answerEx": "Abscisic acid (ABA) is a major plant growth inhibitor. It plays a primary role in inducing seed dormancy, retarding metabolism, causing leaf abscission, and triggering stomatal closure during water stress conditions. Because of its role in stress responses, it is frequently referred to as a stress hormone. While ethylene also possesses some inhibitory characteristics, ABA acts as the principal natural inhibitor that counteracts growth-promoting hormones like auxins, cytokinins, and gibberellins.",
+    "correctAnsw": "b) Abscisic acid",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Cytokinins",
+    "optionB": "b) Abscisic acid",
+    "optionC": "c) Gibberellin",
+    "optionD": "d) Ethylene",
+    "question": "Identify the growth hormone in plants which causes an inhibitory effect:",
+    "setNum": 1
+  },
+  "Q_2": {
+    "answerEx": "The lac operon genetic unit in E. coli consists of structural genes (lacZ, lacY, lacA), a promoter region where RNA polymerase binds, an operator region where the repressor binds, and a regulatory gene (lacI). The inducer (allolactose/lactose) is an external chemical substrate that interacts with the repressor protein. Because it is a small molecule that binds to the repressor protein rather than a structural DNA sequence segment of the operon itself, it is not considered an intrinsic part of the lac operon.",
+    "correctAnsw": "c) Inducer",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Promoter",
+    "optionB": "b) Regulator",
+    "optionC": "c) Inducer",
+    "optionD": "d) Operator",
+    "question": "Which one of the following is NOT a part of the lac operon?",
+    "setNum": 1
+  },
+  "Q_3": {
+    "answerEx": "Following ovulation, the ruptured Graafian follicle transforms into a temporary endocrine structure known as the corpus luteum, which secretes progesterone to maintain the uterine lining. If fertilization does not occur, the drop in Luteinizing Hormone (LH) levels causes the corpus luteum to regress and degenerate. It undergoes luteolysis, loses its yellow secretory cells, and transforms into a non-functional scar tissue called the corpus albicans. This regression leads to a decrease in progesterone and triggers menstruation.",
+    "correctAnsw": "d) corpus albicans",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) tunica albuginea",
+    "optionB": "b) membrana granulosa",
+    "optionC": "c) zona pellucida",
+    "optionD": "d) corpus albicans",
+    "question": "In the absence of fertilization, the corpus luteum degenerates into:",
+    "setNum": 1
+  },
+  "Q_4": {
+    "answerEx": "The human nasal cavity is divided longitudinally into right and left nasal fossae by the nasal septum. The anterior osteocartilaginous portion of this septum is primarily composed of the mesethmoid cartilage (ethmoid bone's perpendicular plate along with septal cartilage). It provides structural framework and support to the nose while ensuring smooth, bifurcated airflow into the upper respiratory tract. Hyaline cartilage forms various articular structures, but the specific axial divider of the nasal chamber is the mesethmoid cartilage.",
+    "correctAnsw": "b) Mesethmoid cartilage",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Hyaline cartilage",
+    "optionB": "b) Mesethmoid cartilage",
+    "optionC": "c) Ligamentum arteriosum",
+    "optionD": "d) Laryngopharynx",
+    "question": "Which of the following divides the human nasal cavity into right and left halves?",
+    "setNum": 1
+  },
+  "Q_5": {
+    "answerEx": "Acquired Immunodeficiency Syndrome (AIDS) is caused by the Human Immunodeficiency Virus (HIV). HIV is a blood-borne virus transmitted through direct contact with infected body fluids, such as blood, semen, and vaginal secretions. Reusing unsterilized needles or syringes contaminated with infected blood directly transfers the virus into the bloodstream of another individual. In contrast, diseases like Elephantiasis, Malaria, and Dengue are vector-borne diseases transmitted by insect vectors like mosquitoes, not by shared hypodermic equipment.",
+    "correctAnsw": "b) AIDS",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Elephantiasis",
+    "optionB": "b) AIDS",
+    "optionC": "c) Malaria",
+    "optionD": "d) Dengue",
+    "question": "Which of the following diseases is transmitted through the use of an unsterilized needle?",
+    "setNum": 1
+  },
+  "Q_6": {
+    "answerEx": "Restriction endonucleases are specialized enzymes that cleave DNA at specific palindromic recognition sites. In genetic engineering, most commonly used restriction enzymes (such as EcoRI, HindIII, and BamHI) recognize short, specific palindromic sequences that are usually 4 to 8 base pairs (nucleotides) long. Cleaving at these specific sequence lengths yields manageable DNA fragments with either sticky or blunt ends for recombinant DNA technology.",
+    "correctAnsw": "b) 4 to 8",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 2 to 4",
+    "optionB": "b) 4 to 8",
+    "optionC": "c) 8 to 10",
+    "optionD": "d) 14 to 18",
+    "question": "Recognition sequences of restriction enzymes are generally ________ nucleotides long.",
+    "setNum": 1
+  },
+  "Q_7": {
+    "answerEx": "Geitonogamy is the transfer of pollen grains from the anther of one flower to the stigma of another flower on the same plant. Functionally and ecologically, it resembles cross-pollination (xenogamy) because it relies on an external pollinating agent (like insects or wind) to move pollen. However, genetically, it is equivalent to autogamy (self-pollination) because both flowers belong to the same parent plant and share an identical genetic makeup, resulting in offspring with no genetic variation.",
+    "correctAnsw": "a) Geitonogamy",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Geitonogamy",
+    "optionB": "b) Xenogamy",
+    "optionC": "c) Apogamy",
+    "optionD": "d) Cleistogamy",
+    "question": "Which of the following types requires a pollinator but results in genetic similarity to autogamy?",
+    "setNum": 1
+  },
+  "Q_8": {
+    "answerEx": "Ecological succession is the gradual process by which ecosystems change and develop over time. It starts with pioneer species colonizing a bare area and progresses through transitional seral stages. The process culminates in the formation of a climax community—a stable, mature, and self-sustaining biotic community that exists in equilibrium with the prevailing regional climate. Because it has achieved ecological equilibrium, a climax community does not undergo further directional evolution or succession unless disrupted by major environmental disturbances.",
+    "correctAnsw": "a) Climax community",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Climax community",
+    "optionB": "b) Primary Succession",
+    "optionC": "c) Pioneer Species",
+    "optionD": "d) Seral Community",
+    "question": "Which one of the following stage/community does not evolve further?",
+    "setNum": 1
+  },
+  "Q_9": {
+    "answerEx": "Natality refers to the birth rate of a population. Absolute natality (also called potential or physiological natality) is the maximum theoretical production of new individuals under ideal environmental conditions, without limiting factors such as competition, disease, predation, or resource scarcity. In contrast, realized natality refers to the actual birth rate observed under existing, real-world environmental conditions where limiting factors suppress reproduction.",
+    "correctAnsw": "d) Absolute natality",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Absolute mortality",
+    "optionB": "b) Realized natality",
+    "optionC": "c) Realized mortality",
+    "optionD": "d) Absolute natality",
+    "question": "Identify the appropriate term for the number of births under ideal, non-limiting conditions:",
+    "setNum": 1
+  },
+  "Q_10": {
+    "answerEx": "According to Alexander von Humboldt's species-area relationship model, species richness (S) increases with an increase in explored area (A) up to a limit. On a logarithmic scale, the species-area relationship forms a straight line represented by the equation log S = log C + Z log A. Line A on the rectangular hyperbola graph represents the exponential equation S = C(A^Z), whereas Line B on the log-log scale represents the linear logarithmic equation log S = log C + Z log A.",
+    "correctAnsw": "c) Line A represents S = CA^Z",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Line A represents S = CA^2",
+    "optionB": "b) Line B represents log C = log A + Z log S",
+    "optionC": "c) Line A represents S = CA^Z",
+    "optionD": "d) Line B represents log S = log Z + C log A",
+    "question": "Observe the graph and select correct option:",
+    "setNum": 1
+  }
+      }
+    }
+    ,
+    "10 Questions 2025 PYQ Set 16": {
+      "questions": {
+        
+      "Q_1": {
+    "answerEx": "Eichhornia crassipes (commonly known as water hyacinth) was introduced in Bengal for its attractive flowers and leaves. However, it spread rapidly across freshwater bodies due to vegetative propagation. It drains dissolved oxygen from water bodies, leading to the suffocation and death of aquatic life, particularly fish. This created severe ecological imbalance and fish scarcity in Bengal, earning it the name \"Terror of Bengal.\"",
+    "correctAnsw": "b) Eichhornia",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Hydrilla",
+    "optionB": "b) Eichhornia",
+    "optionC": "c) Vallisneria",
+    "optionD": "d) Typha",
+    "question": "The aquatic plant ________ is known as \"Terror of Bengal\".",
+    "setNum": 1
+  },
+  "Q_2": {
+    "answerEx": "Chiropterophily refers to pollination carried out by bats. Bat-pollinated flowers have specific adaptations, such as dull or pale coloring, as bats are nocturnal and cannot distinguish bright colors. These flowers emit a strong fragrance (often fruit-like or fermenting) and produce large amounts of nectar and edible pollen grains to attract bats for feeding, facilitating cross-pollination in the process.",
+    "correctAnsw": "c) Chiropterophily",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Anemophily",
+    "optionB": "b) Entomophily",
+    "optionC": "c) Chiropterophily",
+    "optionD": "d) Ornithophily",
+    "question": "A flower shows dull color, strong fragrance, and edible pollen grains. The type of pollination in such a flower is:",
+    "setNum": 1
+  },
+  "Q_3": {
+    "answerEx": "The head of a human sperm contains the nucleus and an anterior cap-like structure called the acrosome. The acrosome contains hydrolytic enzymes, such as hyaluronidase and acrosin (sperm lysins). These enzymes dissolve the hyaluronic acid matrix of the corona radiata and the zona pellucida surrounding the egg, enabling the sperm nucleus to penetrate and fertilize the ovum.",
+    "correctAnsw": "a) Head",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Head",
+    "optionB": "b) Neck",
+    "optionC": "c) Middle piece",
+    "optionD": "d) Tail",
+    "question": "The part of the human sperm containing enzymes for penetration of the corona radiata is:",
+    "setNum": 1
+  },
+  "Q_4": {
+    "answerEx": "The founder effect is a form of genetic drift that occurs when a small group of individuals colonizes a new, isolated habitat (such as a volcanic island). This small founding group carries only a subset of the genetic variation present in the original mainland population. Rare alleles carried by the founders can become significantly more prevalent or fixed in the new isolated population over generations simply by chance.",
+    "correctAnsw": "b) Founder effect",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Natural selection",
+    "optionB": "b) Founder effect",
+    "optionC": "c) Gene flow",
+    "optionD": "d) Mutation",
+    "question": "In a bird population of a newly formed volcanic island, a rare allele of a gene was noted to be much more prevalent than in the population of the same species on the mainland. This is known as:",
+    "setNum": 1
+  },
+  "Q_5": {
+    "answerEx": "Copper (Cu) is an essential micronutrient involved in redox reactions and enzymes like cytochrome oxidase and plastocyanin. A deficiency in copper affects terminal shoots, causing necrosis and drying out from the tip downwards—a condition known as \"die-back of shoots.\" Providing copper restores enzyme activity and resolves these deficiency symptoms.",
+    "correctAnsw": "a) Copper",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Copper",
+    "optionB": "b) Zinc",
+    "optionC": "c) Iron",
+    "optionD": "d) Magnesium",
+    "question": "In a plant, a deficiency symptom called \"die-back of shoots\" was observed. This can be rectified by adding which element?",
+    "setNum": 1
+  },
+  "Q_6": {
+    "answerEx": "Bt cotton is a genetically modified crop produced by inserting Cry genes from the soil bacterium Bacillus thuringiensis into the cotton plant genome. These genes code for delta-endotoxin protein crystals that act as targeted insecticides. When bollworms or other insect pests ingest the plant tissue, the alkaline gut environment activates the toxin, destroying their midgut lining and protecting the crop.",
+    "correctAnsw": "b) Bacillus thuringiensis",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Agrobacterium tumefaciens",
+    "optionB": "b) Bacillus thuringiensis",
+    "optionC": "c) Rhizobium leguminosarum",
+    "optionD": "d) Escherichia coli",
+    "question": "Insect-resistant properties in cotton crops (Bt cotton) are developed by introducing a gene from:",
+    "setNum": 1
+  },
+  "Q_7": {
+    "answerEx": "Amensalism is an ecological relationship between two organisms where one organism is inhibited or destroyed (harmed) while the other remains completely unaffected (represented as -/0 interaction). A classic example includes Penicillium fungi secreting penicillin, which kills surrounding bacteria without benefiting or harming the fungus itself.",
+    "correctAnsw": "c) Amensalism",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Mutualism",
+    "optionB": "b) Commensalism",
+    "optionC": "c) Amensalism",
+    "optionD": "d) Parasitism",
+    "question": "The type of interspecific interaction in which one species is harmed while the other is unaffected is termed:",
+    "setNum": 1
+  },
+  "Q_8": {
+    "answerEx": "Lenticels are small, lens-shaped pores formed in the periderm of woody stems and roots during secondary growth. Unlike leaf stomata, lenticels remain permanently open and allow air to diffuse into the inner living tissues of stems for respiration, serving as the primary site for gaseous exchange across impermeable cork layers.",
+    "correctAnsw": "c) Lenticels",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Stomata",
+    "optionB": "b) Hydathodes",
+    "optionC": "c) Lenticels",
+    "optionD": "d) Cuticles",
+    "question": "The small pores present on woody stem surfaces with bark that carry out gaseous exchange are called:",
+    "setNum": 1
+  },
+  "Q_9": {
+    "answerEx": "According to Lindeman's 10% Law of Energy Transfer, only about 10% of the energy captured at one trophic level is transferred to the next higher level, while the remaining 90% is lost as metabolic heat. If plants (producers) capture 1,000 J of light energy, herbivores (primary consumers) obtain 100 J (10% of 1,000 J), and carnivores (secondary consumers) obtain 10 J (10% of 100 J).",
+    "correctAnsw": "b) 10 Joules",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 100 Joules",
+    "optionB": "b) 10 Joules",
+    "optionC": "c) 1 Joule",
+    "optionD": "d) 0.1 Joule",
+    "question": "In a food chain, if a plant absorbs 1,000 Joules of light energy, how much energy is available for a carnivore (e.g., Lion) in a simple producer -> herbivore -> carnivore chain?",
+    "setNum": 1
+  },
+  "Q_10": {
+    "answerEx": "The endocrine portion of the pancreas, known as the Islets of Langerhans, consists of multiple specialized cell types. Alpha cells secrete glucagon, a peptide hormone that increases blood glucose levels by stimulating glycogen breakdown (glycogenolysis) in the liver. Conversely, Beta cells secrete insulin to lower blood glucose levels.",
+    "correctAnsw": "a) Alpha cells",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Alpha cells",
+    "optionB": "b) Beta cells",
+    "optionC": "c) Delta cells",
+    "optionD": "d) F cells",
+    "question": "Glucagon is secreted by which cells of the pancreas?",
+    "setNum": 1
+  }
+      }
+    },
+    "10 Questions 2026 PYQ Set 17": {
+      "questions": {
+        "Q_1": {
+    "answerEx": "In geometric growth, following mitosis, both daughter cells retain the capacity to divide and continuously redivide repeatedly. This leads to an exponential increase in cell number, characterized by a sigmoid growth curve with lag, log, and stationary phases. In contrast, arithmetic growth occurs when only one daughter cell continues to divide while the other differentiates and matures.",
+    "correctAnsw": "b) geometric growth",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) arithmetic growth",
+    "optionB": "b) geometric growth",
+    "optionC": "c) growth ratio",
+    "optionD": "d) qualitative growth",
+    "question": "A cell divides mitotically into two. Daughter cells divide and redivide repeatedly. Such growth is called:",
+    "setNum": 1
+  },
+  "Q_2": {
+    "answerEx": "Transgenic tomatoes are genetically engineered to overexpress the Chalcone isomerase gene (often derived from petunia), which encodes a key enzyme in the phenylpropanoid pathway. This significantly boosts the biosynthesis of flavonoids—potent antioxidant compounds that offer cardiovascular and anti-inflammatory health benefits.",
+    "correctAnsw": "c) Chalcone isomerase",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Phytoene synthase",
+    "optionB": "b) Ferritin",
+    "optionC": "c) Chalcone isomerase",
+    "optionD": "d) Phytase",
+    "question": "The transgenic plant Tomato contains transgene ______ for the production of flavonoids:",
+    "setNum": 1
+  },
+  "Q_3": {
+    "answerEx": "Homo neanderthalensis (Neanderthal man) possessed a large cranial capacity averaging approximately 1400 cc to 1450 cc. This modern brain size accommodated specialized regions for complex motor skills, tool usage, and survival in harsh glacial environments, exceeding that of earlier hominids like Homo habilis (650–800 cc) and Homo erectus (900 cc).",
+    "correctAnsw": "c) 1400",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 650",
+    "optionB": "b) 900",
+    "optionC": "c) 1400",
+    "optionD": "d) 1600",
+    "question": "The cranial capacity of Neanderthal man was ______ cc:",
+    "setNum": 1
+  },
+  "Q_4": {
+    "answerEx": "Saprotrophs (including detritivores like earthworms, bacteria, and fungi) gain energy and nutrients by breaking down detritus—dead organic matter and fallen debris. They secrete extracellular digestive enzymes to decompose complex organic substances into simple inorganic compounds, playing a critical role in nutrient recycling within ecosystems.",
+    "correctAnsw": "d) Saprotrophs",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Omnivores",
+    "optionB": "b) Carnivores",
+    "optionC": "c) Autotrophs",
+    "optionD": "d) Saprotrophs",
+    "question": "Identify the organism which meets its energy and nutrient requirements by degrading detritus:",
+    "setNum": 1
+  },
+  "Q_5": {
+    "answerEx": "Spirulina spp. is a photosynthetic, multicellular filamentous blue-green alga (cyanobacterium) rich in proteins and vitamins. In contrast, Aspergillus niger, Candida utilis, and Trichoderma viride belong to the kingdom Fungi, making Spirulina the only algal organism in the group.",
+    "correctAnsw": "a) Spirulina spp.",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Spirulina spp.",
+    "optionB": "b) Aspergillus niger",
+    "optionC": "c) Candida utilis",
+    "optionD": "d) Trichoderma viride",
+    "question": "Identify the algae among the following:",
+    "setNum": 1
+  },
+  "Q_6": {
+    "answerEx": "Plants convert photosynthesized glucose into sucrose for phloem transport. Sucrose is a non-reducing, chemically stable, and highly soluble disaccharide, making it ideal for long-distance translocation through sieve tubes from source (leaves) to sink (roots and growing organs) without reacting prematurely along the way.",
+    "correctAnsw": "c) sucrose",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) glucose",
+    "optionB": "b) starch",
+    "optionC": "c) sucrose",
+    "optionD": "d) fructose",
+    "question": "In plants, soluble food is always translocated in the form of:",
+    "setNum": 1
+  },
+  "Q_7": {
+    "answerEx": "Parthenium hysterophorus (commonly known as carrot grass) is an aggressive exotic invasive plant introduced accidentally to non-native regions. It spreads rapidly, produces allelopathic chemicals that inhibit surrounding native vegetation, reduces biodiversity, and releases pollen that causes severe respiratory allergies in humans.",
+    "correctAnsw": "d) Parthenium",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Gloriosa",
+    "optionB": "b) Michelia",
+    "optionC": "c) Sansevieria",
+    "optionD": "d) Parthenium",
+    "question": "Identify the invasive plant species from the following:",
+    "setNum": 1
+  },
+  "Q_8": {
+    "answerEx": "Mature plasma cells are fully differentiated B lymphocytes dedicated entirely to antibody production. Packed with extensive rough endoplasmic reticulum, a single plasma cell functions as a biological factory capable of synthesizing and secreting approximately 2,000 specific antibody molecules per second into the bloodstream.",
+    "correctAnsw": "a) 2000 molecules/sec",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 2000 molecules/sec",
+    "optionB": "b) 100 molecules/sec",
+    "optionC": "c) 500 molecules/sec",
+    "optionD": "d) 10,000 molecules/sec",
+    "question": "The mature plasma cell produces antibodies at the rate of:",
+    "setNum": 1
+  },
+  "Q_9": {
+    "answerEx": "Monocytes are the largest type of white blood cell (leukocyte) in human circulation, measuring around 12 to 20 micrometers in diameter. They feature a distinct kidney-bean-shaped nucleus and migrate from the bloodstream into tissues to differentiate into macrophages and dendritic cells for phagocytosis.",
+    "correctAnsw": "b) Monocyte",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Eosinophil",
+    "optionB": "b) Monocyte",
+    "optionC": "c) Basophil",
+    "optionD": "d) Lymphocyte",
+    "question": "Which is the largest WBC among the following?",
+    "setNum": 1
+  },
+  "Q_10": {
+    "answerEx": "Realized (or actual) mortality refers to the rate of individual loss in a population under real, prevailing environmental conditions where limiting factors—such as predation, disease, food scarcity, and competition—are present. Absolute mortality, by comparison, represents theoretical minimum death under ideal, pressure-free conditions.",
+    "correctAnsw": "c) realized mortality",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) absolute mortality",
+    "optionB": "b) absolute natality",
+    "optionC": "c) realized mortality",
+    "optionD": "d) realized natality",
+    "question": "The number of deaths when environmental pressures come into play is known as:",
+    "setNum": 1
+  }
+      
+      }
+    }
+    
+  },
+  "categories": {
+    "-OcaDxC-SMsxLIGL7cbd": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2010 PYQ Set 1",
+      "setName": {
+        "abc": "2010 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    },
+    "-OcaE-OA0U6ab9TwDR__": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2011 PYQ Set 2",
+      "setName": {
+        "abc": "2011 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    },
+    "-OcaE2_OYme-X1a8l41I": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2012 PYQ Set 3",
+      "setName": {
+        "abc": "2012 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    },
+    "-OcaE5fEZGsDAT5Hf_k1": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2013 PYQ Set 4",
+      "setName": {
+        "abc": "2013 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+    ,
+    "-OcaE5fEZGsDAT5Hf_k12": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2014 PYQ Set 5",
+      "setName": {
+        "abc": "2014 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+    ,
+    "-OcaE5fEZGsDAT5Hf_k123": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2015 PYQ Set 6",
+      "setName": {
+        "abc": "2015 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+     ,
+    "-OcaE5fEZGsDAT5Hf_k1234": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2016 PYQ Set 7",
+      "setName": {
+        "abc": "2016 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+     ,
+    "-OcaE5fEZGsDAT5Hf_k12345": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2017 PYQ Set 8",
+      "setName": {
+        "abc": "2017 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+    ,
+    "-OcaE5fEZGsDAT5Hf_k123456": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2018 PYQ Set 9",
+      "setName": {
+        "abc": "2018 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+    ,
+    "-OcaE5fEZGsDAT5Hf_k1234567": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2019 PYQ Set 10",
+      "setName": {
+        "abc": "2019 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+     ,
+    "-OcaE5fEZGsDAT5Hf_k12345678": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2020 PYQ Set 11",
+      "setName": {
+        "abc": "2020 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+     ,
+    "-OcaE5fEZGsDAT5Hf_k123456789": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2021 PYQ Set 12",
+      "setName": {
+        "abc": "2021 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+    ,
+    "-OcaE5fEZGsDAT5Hf_k1234567890": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2022 PYQ Set 13",
+      "setName": {
+        "abc": "2022 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+    ,
+    "-OcaE5fEZGsDAT5Hf_k12345678901": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2023 PYQ Set 14",
+      "setName": {
+        "abc": "2023 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+    ,
+    "-OcaE5fEZGsDAT5Hf_k123456789012": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2024 PYQ Set 15",
+      "setName": {
+        "abc": "2024 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+    ,
+    "-OcaE5fEZGsDAT5Hf_k1234567890123": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2025 PYQ Set 16",
+      "setName": {
+        "abc": "2025 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+    ,
+    "-OcaE5fEZGsDAT5Hf_k12345678901234": {
+      "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
+      "categoryName": "10 Questions 2026 PYQ Set 17",
+      "setName": {
+        "abc": "2026 Biology PYQ Quiz"
+      },
+      "setNum": 0
+    }
+  }
+}
