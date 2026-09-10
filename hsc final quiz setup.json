@@ -121,7 +121,127 @@
     "optionD": "d) Amensalism",
     "question": "The ecological interaction where one species benefits while the other species is neither harmed nor benefited is called:",
     "setNum": 1
-  }
+  },
+  "Qll_1": {
+    "answerEx": "A body-centred cubic (bcc) unit cell contains lattice points at all eight corners of the cube as well as one single atom positioned at the geometric center of the body. Each corner atom is shared equally among eight surrounding unit cells, contributing (8 * 1/8) = 1 net atom. The central body-centred atom belongs entirely to that specific unit cell, contributing 1 full atom. Adding these two contributions gives 1 + 1 = 2 total net constituent atoms per bcc unit cell. Consequently, a bcc lattice achieves a packing efficiency of 68%, leaving 32% as unallocated empty void space.",
+    "correctAnsw": "b) 2",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1",
+    "optionB": "b) 2",
+    "optionC": "c) 4",
+    "optionD": "d) 8",
+    "question": "The number of constituent atoms present per unit cell of a body-centred cubic (bcc) crystal lattice is:",
+    "setNum": 2
+  },
+  "Qll_2": {
+    "answerEx": "The relative acid strength of oxoacids containing the same central halogen atom increases as the number of oxygen atoms attached to the central chlorine atom increases. In perchloric acid (HClO4), chlorine exists in its highest formal oxidation state of +7 and is bonded to four highly electronegative oxygen atoms. These oxygen atoms exert a strong electron-withdrawing inductive effect that significantly weakens the O-H bond, facilitating the release of a proton (H+). Furthermore, the resulting perchlorate conjugate base (ClO4^-) is stabilized through extensive resonance delocalization of its negative charge across four oxygen atoms, making HClO4 the strongest acid in the series.",
+    "correctAnsw": "d) HClO4",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) HClO",
+    "optionB": "b) HClO2",
+    "optionC": "c) HClO3",
+    "optionD": "d) HClO4",
+    "question": "Which among the following halogen oxoacids is the strongest acid?",
+    "setNum": 2
+  },
+  "Qll_3": {
+    "answerEx": "The half-life period (t1/2) of a chemical reaction is defined as the time required for the concentration of a reactant to decrease to exactly half of its initial value. For a first-order reaction, integrating the rate law yields the mathematical expression t1/2 = 0.693 / k, where k represents the first-order rate constant. Inspecting this integrated relationship reveals that the initial reactant concentration ([A]0) does not appear in the equation. Consequently, the half-life of any first-order process remains completely constant and independent of initial reactant concentration, depending exclusively on the temperature-dependent rate constant k.",
+    "correctAnsw": "b) Initial concentration of reactants",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Temperature",
+    "optionB": "b) Initial concentration of reactants",
+    "optionC": "c) Rate constant",
+    "optionD": "d) Nature of reactants",
+    "question": "The half-life period of a first-order chemical reaction is independent of:",
+    "setNum": 2
+  },
+  "Qll_4": {
+    "answerEx": "The coordination number of a central transition metal ion in a coordination complex is defined as the total number of ligand donor atoms directly bonded to it through coordinate covalent bonds. In tetracarbonylnickel(0), [Ni(CO)4], carbon monoxide (CO) acts as a monodentate carbonyl ligand, meaning each CO molecule donates a single lone pair of electrons from its carbon atom to the central nickel atom. Because four carbon monoxide ligands surround the nickel center, four coordinate bonds are established, giving nickel a coordination number of 4 and resulting in a tetrahedral complex geometry with sp3 hybridization.",
+    "correctAnsw": "b) 4",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 2",
+    "optionB": "b) 4",
+    "optionC": "c) 6",
+    "optionD": "d) 8",
+    "question": "The coordination number of central nickel metal atom in [Ni(CO)4] is:",
+    "setNum": 2
+  },
+  "Qll_5": {
+    "answerEx": "Hinsberg's reagent (benzenesulphonyl chloride, C6H5SO2Cl) is utilized to distinguish between primary, secondary, and tertiary amines. A secondary amine (R2NH) reacts with benzenesulphonyl chloride by eliminating HCl to yield an N,N-dialkylbenzenesulphonamide (C6H5SO2NR2). Because the secondary amine reactant lacks a second acidic hydrogen atom on its nitrogen atom, the resulting sulphonamide product possesses no acidic hydrogen atom. Consequently, it cannot form a soluble salt when treated with strong aqueous bases like potassium hydroxide (KOH), leaving the neutral product completely insoluble in the alkaline medium.",
+    "correctAnsw": "b) Secondary amine",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Primary amine",
+    "optionB": "b) Secondary amine",
+    "optionC": "c) Tertiary amine",
+    "optionD": "d) Quaternary ammonium salt",
+    "question": "Which of the following organic compounds reacts with Hinsberg's reagent to give a product insoluble in aqueous alkali?",
+    "setNum": 2
+  },
+  "Qll_6": {
+    "answerEx": "Bakelite is an early synthetic cross-linked thermosetting resin produced by the step-growth condensation polymerization of phenol with excess formaldehyde in the presence of an acidic or basic catalyst. The reaction initiates with the formation of ortho- and para-hydroxymethylphenol derivatives, which condense together to form a linear polymer called Novolac. Upon further heating with excess formaldehyde, extensive covalent cross-linking occurs between the linear polymer chains, generating a rigid three-dimensional macromolecular network. Once setting occurs, Bakelite becomes permanently hard, infusible, heat-resistant, and chemically inert, making it ideal for electrical switches and handles.",
+    "correctAnsw": "b) Phenol and formaldehyde",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Ethylene glycol and terephthalic acid",
+    "optionB": "b) Phenol and formaldehyde",
+    "optionC": "c) Urea and formaldehyde",
+    "optionD": "d) Caprolactam",
+    "question": "The monomeric unit utilized to synthesize Bakelite is:",
+    "setNum": 2
+  },
+  "Qll_7": {
+    "answerEx": "Zymase is a complex enzyme mixture naturally secreted by yeast cells (Saccharomyces cerevisiae) that catalyzes the biochemical process of alcoholic fermentation. During anaerobic fermentation, zymase breaks down simple monosaccharide sugars like glucose (C6H12O6) or fructose into ethyl alcohol (ethanol, C2H5OH) and carbon dioxide gas (CO2) according to the balanced equation C6H12O6 -> 2 C2H5OH + 2 CO2. In contrast, invertase hydrolyzes sucrose into glucose and fructose, diastase converts starch into maltose, and maltase hydrolyzes maltose into individual glucose units during sugar processing.",
+    "correctAnsw": "b) Zymase",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Invertase",
+    "optionB": "b) Zymase",
+    "optionC": "c) Diastase",
+    "optionD": "d) Maltase",
+    "question": "Glucose is converted into ethyl alcohol and carbon dioxide by the enzymatic activity of:",
+    "setNum": 2
+  },
+  "Qll_8": {
+    "answerEx": "Potassium ferrocyanide, K4[Fe(CN)6], dissociates in aqueous solution into four potassium cations (4 K+) and one complex anion, [Fe(CN)6]^4-. The cyanide ion (CN^-) is a monodentate anionic ligand carrying a formal charge of -1. To calculate the formal oxidation state of the central iron metal atom (x), we set up the overall charge balance equation for the complex ion: x + 6(-1) = -4. Simplifying this algebraic relationship gives x - 6 = -4, which yields x = +2. Therefore, iron exists in the +2 oxidation state (ferrous state) within the complex.",
+    "correctAnsw": "a) +2",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) +2",
+    "optionB": "b) +3",
+    "optionC": "c) +4",
+    "optionD": "d) 0",
+    "question": "The oxidation state of central iron atom in potassium ferrocyanide, K4[Fe(CN)6], is:",
+    "setNum": 2
+  },
+  "Qll_9": {
+    "answerEx": "Copper (Cu) has an anomalous ground-state valence shell electronic configuration of 3d^10 4s^1 due to the extra thermodynamic stability associated with a completely filled 3d subshell. When copper loses its single 4s valence electron, it forms the cuprous ion (Cu+), which retains a stable, fully filled 3d^10 pseudo-noble gas electronic configuration. Although Cu+ ions tend to disproportionate in uncomplexed aqueous media into Cu2+ and metallic copper, copper readily forms stable copper(I) compounds such as Cu2O and CuCl where the +1 oxidation state is preserved through high lattice energies and covalent bonding.",
+    "correctAnsw": "c) Copper",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Scandium",
+    "optionB": "b) Titanium",
+    "optionC": "c) Copper",
+    "optionD": "d) Zinc",
+    "question": "Which of the following transition elements exhibits a stable +1 oxidation state in aqueous solution due to a completely filled d-subshell?",
+    "setNum": 2
+  },
+  "Qll_10": {
+    "answerEx": "Primary alkyl halides (R-CH2-X) feature a steric environment with minimal steric hindrance surrounding the alpha-carbon atom. During nucleophilic substitution, a strong nucleophile easily attacks the electrophilic alpha-carbon from the back side opposite the leaving halide group. This single-step bimolecular process forms a high-energy pentacoordinate transition state without generating an intermediate carbocation, proceeding strictly via an SN2 mechanism with inversion of stereochemical configuration. Conversely, tertiary alkyl halides favor the SN1 pathway because steric crowding hinders back-side attack while highly substituted tertiary carbocation intermediates are exceptionally stable.",
+    "correctAnsw": "b) SN2 mechanism",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) SN1 mechanism",
+    "optionB": "b) SN2 mechanism",
+    "optionC": "c) E1 mechanism",
+    "optionD": "d) E2 mechanism",
+    "question": "Primary alkyl halides undergo nucleophilic substitution reactions predominantly by:",
+    "setNum": 2
+  } 
         
       }
     },
@@ -247,6 +367,126 @@
     "optionD": "d) Test cross",
     "question": "Cross between an F_1 hybrid and its recessive homozygous parent is called a:",
     "setNum": 1
+  },
+       "Qmv_1": {
+    "answerEx": "A primitive simple cubic unit cell contains lattice points located exclusively at its eight corners. Although each corner atom is shared equally among eight surrounding unit cells—giving a net contribution of (8 * 1/8) = 1 atom per unit cell—the total number of physical lattice points defining the corners of the cell geometry is 8. Lattice points represent specific spatial positions occupied by constituent particles (atoms, ions, or molecules) in a crystal lattice. Therefore, while the total net atomic count is 1, the total number of distinct lattice points in a simple cubic unit cell is 8.",
+    "correctAnsw": "d) 8",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1",
+    "optionB": "b) 2",
+    "optionC": "c) 4",
+    "optionD": "d) 8",
+    "question": "The number of lattice points in a primitive simple cubic unit cell is:",
+    "setNum": 2
+  },
+  "Qmv_2": {
+    "answerEx": "Diamond is a classic network covalent solid consisting of carbon atoms linked by strong covalent bonds extending continuously in a three-dimensional network. Each carbon atom undergoes sp3 hybridization, forming four tetrahedrally directed covalent bonds with adjacent carbon atoms. This giant macromolecular framework lacks isolated molecules, granting diamond extreme hardness, a high melting point, and electrical insulation properties. Iodine is a molecular solid held by weak dispersion forces, ice is a hydrogen-bonded molecular solid, and sodium chloride is an ionic solid held together by electrostatic attractions between cations and anions.",
+    "correctAnsw": "c) Diamond",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Iodine",
+    "optionB": "b) Ice",
+    "optionC": "c) Diamond",
+    "optionD": "d) Sodium chloride",
+    "question": "Which of the following is an example of a network covalent solid?",
+    "setNum": 2
+  },
+  "Qmv_3": {
+    "answerEx": "The general unit for a reaction rate constant is given by (mol L^-1)^(1-n) s^-1, where n represents the overall order of the reaction. For a zero-order reaction (n = 0), the rate of reaction is independent of reactant concentrations, following the rate expression Rate = k[A]^0 = k. Substituting n = 0 into the general unit formula yields (mol L^-1)^(1-0) s^-1 = mol L^-1 s^-1. Thus, the rate constant shares the exact units of the reaction rate itself. First-order rate constants carry s^-1 units, whereas second-order rate constants carry L mol^-1 s^-1 units.",
+    "correctAnsw": "c) Zero order",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) First order",
+    "optionB": "b) Second order",
+    "optionC": "c) Zero order",
+    "optionD": "d) Third order",
+    "question": "What is the order of reaction whose rate constant has the unit mol L^-1 s^-1?",
+    "setNum": 2
+  },
+  "Qmv_4": {
+    "answerEx": "In xenon tetrafluoride (XeF4), the central xenon atom has eight valence electrons, forming four single covalent bonds with fluorine atoms and retaining two lone pairs. According to VSEPR theory, six electron pairs surround the central atom, resulting in an octahedral steric arrangement (sp3d2 hybridization). To minimize electron-pair repulsions, the two lone pairs occupy axial positions opposite each other at a 180-degree angle. The four fluorine atoms lie in a single plane around xenon at 90-degree bond angles, giving the XeF4 molecule a square planar molecular geometry.",
+    "correctAnsw": "b) Square planar",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Tetrahedral",
+    "optionB": "b) Square planar",
+    "optionC": "c) Trigonal bipyramidal",
+    "optionD": "d) Octahedral",
+    "question": "The geometry of xenon tetrafluoride (XeF4) molecule is:",
+    "setNum": 2
+  },
+  "Qmv_5": {
+    "answerEx": "Manganese (Mn) belongs to the 3d transition series with an outer electronic configuration of 3d^5 4s^2. Because the energy gap between 3d and 4s subshells is small, manganese can utilize all seven valence electrons in chemical bonding. Consequently, manganese exhibits the highest number of oxidation states among 3d transition metals, ranging continuously from +2 up to +7 (as in KMnO4). Iron typically exhibits oxidation states up to +6, chromium up to +6, and titanium up to +4. Manganese's half-filled 3d subshell provides extensive stability across various intermediate oxidation levels.",
+    "correctAnsw": "b) Manganese",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Iron",
+    "optionB": "b) Manganese",
+    "optionC": "c) Chromium",
+    "optionD": "d) Titanium",
+    "question": "Which transition element shows maximum number of oxidation states?",
+    "setNum": 2
+  },
+  "Qmv_6": {
+    "answerEx": "The Reimer-Tiemann reaction is an organic electrophilic aromatic substitution reaction used to introduce a formyl group (-CHO) onto an aromatic ring. Heating phenol with chloroform (CHCl3) in the presence of aqueous sodium hydroxide (NaOH) generates a dichlorocarbene intermediate (:CCl2), which acts as an electrophile. The electrophilic dichlorocarbene attacks the electron-rich ortho position of the phenoxide ion, followed by alkaline hydrolysis to form 2-hydroxybenzaldehyde (salicylaldehyde) as the primary product. Kolbe's reaction introduces a carboxyl group (-COOH) to yield salicylic acid, whereas Cannizzaro reaction involves non-enolizable aldehyde disproportionation.",
+    "correctAnsw": "b) Reimer-Tiemann reaction",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Kolbe's reaction",
+    "optionB": "b) Reimer-Tiemann reaction",
+    "optionC": "c) Cannizzaro reaction",
+    "optionD": "d) Wurtz reaction",
+    "question": "The conversion of phenol to salicylaldehyde by heating with chloroform and aqueous NaOH is known as:",
+    "setNum": 2
+  },
+  "Qmv_7": {
+    "answerEx": "Bakelite (phenol-formaldehyde resin) is a cross-linked thermosetting polymer formed by the condensation polymerization of phenol with formaldehyde in the presence of an acid or base catalyst. During heating and molding, extensive covalent cross-linking occurs between linear polymer chains, creating an irreversible three-dimensional network structure. Once set, Bakelite becomes permanently hard, infusible, and insoluble, resisting deformation upon reheating. Polyethene, polyvinyl chloride (PVC), and polystyrene are thermoplastic polymers that soften repeatedly when heated and harden upon cooling because they consist of linear or branched chains lacking permanent cross-links.",
+    "correctAnsw": "c) Bakelite",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Polyethene",
+    "optionB": "b) PVC",
+    "optionC": "c) Bakelite",
+    "optionD": "d) Polystyrene",
+    "question": "Which of the following polymers is a thermosetting plastic?",
+    "setNum": 2
+  },
+  "Qmv_8": {
+    "answerEx": "Vitamin A (retinol) is a fat-soluble micronutrient crucial for maintaining healthy vision, immune function, and cellular differentiation. In the human retina, vitamin A is converted into retinal, which combines with the protein opsin to form rhodopsin—the light-sensitive pigment present in rod cells responsible for low-light and night vision. A deficiency in dietary vitamin A leads to an impaired ability of rod cells to regenerate rhodopsin, resulting in night blindness (nyctalopia). Deficiency of vitamin B1 causes beriberi, deficiency of vitamin C causes scurvy, and deficiency of vitamin D leads to rickets.",
+    "correctAnsw": "c) Night blindness",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Beriberi",
+    "optionB": "b) Scurvy",
+    "optionC": "c) Night blindness",
+    "optionD": "d) Rickets",
+    "question": "Deficiency of Vitamin A causes:",
+    "setNum": 2
+  },
+  "Qmv_9": {
+    "answerEx": "Silver cyanide (AgCN) is predominantly covalent in nature. As a result, the nitrogen atom retains its lone pair of electrons for nucleophilic attack, while carbon is covalently bonded to silver. When an alkyl halide (R-X) reacts with AgCN, the lone pair on nitrogen attacks the alkyl group, forming a new carbon-nitrogen bond and yielding an alkyl isocyanide (R-NC) as the major organic product. In contrast, ionic cyanides like potassium cyanide (KCN) dissociate into free cyanide ions (CN^-), where nucleophilic attack occurs primarily through carbon to yield alkyl cyanides (R-CN).",
+    "correctAnsw": "b) Alkyl isocyanide",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Alkyl cyanide",
+    "optionB": "b) Alkyl isocyanide",
+    "optionC": "c) Alkane",
+    "optionD": "d) Alcohol",
+    "question": "Alkyl halides react with silver cyanide (AgCN) to form predominantly:",
+    "setNum": 2
+  },
+  "Qmv_10": {
+    "answerEx": "Hinsberg's reagent (benzenesulphonyl chloride, C6H5SO2Cl) is used to distinguish and separate primary, secondary, and tertiary amines. Primary amines react with benzenesulphonyl chloride to yield N-alkylbenzenesulphonamide, which contains an acidic hydrogen atom on nitrogen and dissolves in aqueous KOH. Secondary amines react to form N,N-dialkylbenzenesulphonamide, which lacks acidic hydrogens and remains insoluble in KOH. Tertiary amines do not react with benzenesulphonyl chloride due to the absence of hydrogen atoms on the nitrogen atom. Fehling's and Tollen's reagents test for aldehydes, whereas Grignard reagents are organometallic nucleophiles.",
+    "correctAnsw": "c) Hinsberg's reagent",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Fehling's reagent",
+    "optionB": "b) Tollen's reagent",
+    "optionC": "c) Hinsberg's reagent",
+    "optionD": "d) Grignard reagent",
+    "question": "Which reagent is used to distinguish between primary, secondary, and tertiary amines?",
+    "setNum": 2
   }
   }
     },
@@ -371,6 +611,126 @@
     "optionD": "d) M.S. Swaminathan",
     "question": "Totipotency in plant tissue culture was first successfully demonstrated by the scientist:",
     "setNum": 1
+  },
+      "Qzz_1": {
+    "answerEx": "A face-centred cubic (fcc) unit cell contains lattice points at all eight corners and at the centres of all six faces of the cube. Each corner atom is shared equally among eight adjacent unit cells, contributing (8 * 1/8) = 1 net atom. Simultaneously, each face-centred atom is shared between two adjacent unit cells, contributing (6 * 1/2) = 3 net atoms. Summing both corner and face contributions gives 1 + 3 = 4 total net atoms per unit cell. This high atomic count results in a dense atomic arrangement with a maximum packing efficiency of 74%.",
+    "correctAnsw": "c) 4",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1",
+    "optionB": "b) 2",
+    "optionC": "c) 4",
+    "optionD": "d) 8",
+    "question": "The number of atoms present in a face-centred cubic (fcc) unit cell is:",
+    "setNum": 2
+  },
+  "Qzz_2": {
+    "answerEx": "Liquid helium has an extremely low boiling point of 4.2 K (-268.95 °C), making it the ultimate cryogenic coolant for high-tech applications. In medical Magnetic Resonance Imaging (MRI) scanners, liquid helium is utilized to cool the powerful superconducting electromagnets down to near absolute zero temperatures. At these ultra-low cryogenic temperatures, the niobium-titanium metallic coils lose electrical resistance entirely, enabling the continuous flow of massive electrical currents required to maintain intense, stable magnetic fields for body imaging. Neon, argon, and krypton cannot reach the requisite low temperatures necessary to sustain state-of-the-art superconducting magnetic coils.",
+    "correctAnsw": "a) Helium",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Helium",
+    "optionB": "b) Neon",
+    "optionC": "c) Argon",
+    "optionD": "d) Krypton",
+    "question": "Which of the following noble gas is used in magnetic resonance imaging (MRI) systems?",
+    "setNum": 2
+  },
+  "Qzz_3": {
+    "answerEx": "When ethyl chloride (CH3-CH2-Cl) is heated with alcoholic potassium hydroxide (KOH), it undergoes a dehydrohalogenation reaction to yield ethene (CH2=CH2). In this chemical transformation, a hydrogen atom from the beta-carbon and a chlorine atom from the alpha-carbon are simultaneously removed from adjacent carbon atoms, forming a carbon-carbon double bond along with potassium chloride and water as by-products. Chemical reactions involving the removal of atoms or groups from adjacent carbons to yield unsaturated products are classified as beta-elimination (or 1,2-elimination) reactions. It is not substitution because the halogen is eliminated rather than replaced.",
+    "correctAnsw": "c) Elimination reaction",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Addition reaction",
+    "optionB": "b) Substitution reaction",
+    "optionC": "c) Elimination reaction",
+    "optionD": "d) Rearrangement reaction",
+    "question": "The reaction in which ethyl chloride is heated with alcoholic KOH to yield ethene is an example of:",
+    "setNum": 2
+  },
+  "Qzz_4": {
+    "answerEx": "For a zero-order reaction, the rate of reaction is independent of reactant concentrations, following the rate law expression Rate = k[A]^0 = k. Because [A]^0 equals 1, the rate constant (k) has the exact same dimensional units as the rate of reaction itself. The reaction rate measures the change in molar concentration per unit time, expressed as (moles per liter) per second. Therefore, the standard unit of the rate constant for a zero-order process is mol L^-1 s^-1 (or M s^-1). In contrast, first-order reactions carry s^-1 units, and second-order reactions carry L mol^-1 s^-1 units.",
+    "correctAnsw": "b) mol L^-1 s^-1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) s^-1",
+    "optionB": "b) mol L^-1 s^-1",
+    "optionC": "c) L mol^-1 s^-1",
+    "optionD": "d) L^2 mol^-2 s^-1",
+    "question": "The unit of rate constant for a zero-order reaction is:",
+    "setNum": 2
+  },
+  "Qzz_5": {
+    "answerEx": "Reducing sugars possess a free aldehyde or alpha-hydroxy ketone group capable of reducing Tollens' or Fehling's reagents. Sucrose is a disaccharide composed of alpha-D-glucose and beta-D-fructose linked via an alpha-1,2-glycosidic bond. This linkage directly involves the anomeric carbon (C-1) of glucose and the anomeric carbon (C-2) of fructose. Because both reactive hemiacetal and hemiketal anomeric centers are tied up in the glycosidic bond, sucrose lacks a free carbonyl group in solution. Consequently, sucrose cannot undergo mutarotation or act as a reducing agent, rendering it a non-reducing sugar.",
+    "correctAnsw": "d) Sucrose",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Glucose",
+    "optionB": "b) Fructose",
+    "optionC": "c) Maltose",
+    "optionD": "d) Sucrose",
+    "question": "Which of the following carbohydrates is a non-reducing sugar?",
+    "setNum": 2
+  },
+  "Qzz_6": {
+    "answerEx": "Raw natural rubber (cis-1,4-polyisoprene) is soft, sticky, mechanically weak, and easily affected by temperature changes. To improve its physical properties, raw rubber is heated with elemental sulfur and suitable additives at 373–415 K in a process known as vulcanization. During this thermal process, sulfur forms stable cross-linking bridges (-S-S-) between double-bond reaction sites of adjacent polyisoprene polymer chains. These sulfur cross-links bind the polymer network together, transforming sticky raw rubber into a highly elastic, tough, non-tacky material with superior tensile strength, thermal resistance, and structural durability.",
+    "correctAnsw": "c) Sulfur",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Carbon",
+    "optionB": "b) Silicon",
+    "optionC": "c) Sulfur",
+    "optionD": "d) Phosphorus",
+    "question": "The process of vulcanization of rubber involves heating raw natural rubber with:",
+    "setNum": 2
+  },
+  "Qzz_7": {
+    "answerEx": "Manganese (Mn) belongs to 3d transition series with a valence shell electronic configuration of 3d^5 4s^2. Because the energy difference between 3d and 4s subshells is small, manganese can utilize all seven valence electrons (five 3d electrons plus two 4s electrons) for chemical bonding. Consequently, manganese exhibits the widest variety of oxidation states ranging from +2 up to a maximum oxidation state of +7, as seen in potassium permanganate (KMnO4). Iron typically reaches +6 maximum, chromium reaches +6, and cobalt reaches +4, making manganese the element with the highest oxidation state in the 3d series.",
+    "correctAnsw": "b) Manganese",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Iron",
+    "optionB": "b) Manganese",
+    "optionC": "c) Chromium",
+    "optionD": "d) Cobalt",
+    "question": "Which transition metal element exhibits the highest oxidation state in its compounds?",
+    "setNum": 2
+  },
+  "Qzz_8": {
+    "answerEx": "Alcohols contain a polar hydroxyl (-OH) group where the highly electronegative oxygen atom creates a strong dipole with hydrogen. This large charge difference allows the partially positive hydrogen atom of one alcohol molecule to attract the partially negative oxygen atom of an adjacent molecule, forming strong intermolecular hydrogen bonds. A substantial amount of thermal energy is required to disrupt these intermolecular electrostatic networks during vaporization. In contrast, alkanes are non-polar hydrocarbons held together only by weak London dispersion forces, leading to much lower boiling points than alcohols of comparable molecular weight.",
+    "correctAnsw": "b) Intermolecular hydrogen bonding",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Ionic bonding",
+    "optionB": "b) Intermolecular hydrogen bonding",
+    "optionC": "c) Intramolecular hydrogen bonding",
+    "optionD": "d) Metallic bonding",
+    "question": "Boiling point of alcohols is higher than corresponding alkanes due to:",
+    "setNum": 2
+  },
+  "Qzz_9": {
+    "answerEx": "The treatment of aldehydes or ketones with zinc-amalgam (Zn-Hg) and concentrated hydrochloric acid (HCl) is known as the Clemmensen reduction. This reaction completely reduces carbonyl groups (>C=O) into methylene groups (>CH2). When acetone (CH3-CO-CH3), a three-carbon ketone, undergoes Clemmensen reduction, its central carbonyl group is stripped of oxygen and converted into a methylene link, yielding the alkane propane (CH3-CH2-CH3) and water as a by-product. Reduction with lithium aluminium hydride (LiAlH4) would yield propan-2-ol, whereas Clemmensen conditions reduce the carbonyl completely to a hydrocarbon.",
+    "correctAnsw": "c) Propane",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Propan-1-ol",
+    "optionB": "b) Propan-2-ol",
+    "optionC": "c) Propane",
+    "optionD": "d) Propene",
+    "question": "Acetone on reduction with zinc-amalgam and concentrated HCl gives:",
+    "setNum": 2
+  },
+  "Qzz_10": {
+    "answerEx": "Teflon, chemically known as polytetrafluoroethylene (PTFE), is synthesized by the addition polymerization of tetrafluoroethylene (CF2=CF2) under high pressure with persulfate catalysts. Teflon possesses exceptional thermal stability, chemical inertness, low friction, and extreme resistance to heat and corrosive chemicals due to strong carbon-fluorine (C-F) covalent bonds. Because of its extremely low surface energy and slick hydrophobic surface, food particles do not adhere to it, making Teflon the primary material used for non-stick coatings on culinary cookware, pans, and industrial gaskets.",
+    "correctAnsw": "d) Teflon",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) PVC",
+    "optionB": "b) Polystyrene",
+    "optionC": "c) Bakelite",
+    "optionD": "d) Teflon",
+    "question": "Which polymer is used in making non-stick cookware coating?",
+    "setNum": 2
   }
       }
     },
@@ -495,6 +855,126 @@
     "optionD": "d) Krebs cycle",
     "question": "Conversion of ammonia into uric acid occurs through the:",
     "setNum": 1
+  },
+      "Qqrt_1": {
+    "answerEx": "Packing efficiency is the percentage of total space occupied by constituent spheres in a unit cell. In a body-centred cubic (bcc) lattice, atoms touch along the body diagonal, giving the relationship square root(3) * a = 4r, where a is the edge length and r is the atomic radius. A bcc unit cell contains 2 net atoms, so the total volume occupied by these 2 spherical atoms is 2 * (4/3) * pi * r^3. Dividing this by the total unit cell volume (a^3 = (4r / square root(3))^3) gives (square root(3) * pi) / 8 = 0.68. Thus, spheres occupy 68% of the space, leaving 32% as empty void space.",
+    "correctAnsw": "a) 68%",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 68%",
+    "optionB": "b) 53%",
+    "optionC": "c) 38%",
+    "optionD": "d) 32%",
+    "question": "In body-centred cubic (bcc) structure, the space occupied is about:",
+    "setNum": 2
+  },
+  "Qqrt_2": {
+    "answerEx": "The rate of a chemical reaction is defined as the change in concentration or partial pressure of reactants or products per unit time. For solutions, concentration is measured in moles per liter (mol L^-1), yielding rate units of mol L^-1 s^-1. However, for gaseous phase reactions, concentration is directly proportional to partial pressure, which is expressed in atmospheres (atm). Therefore, the rate of a gaseous reaction is evaluated as the change in partial pressure over time, making its standard unit atm s^-1 (or bar s^-1).",
+    "correctAnsw": "c) atm s^-1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) L atm s^-1",
+    "optionB": "b) atm mol^-1 s^-1",
+    "optionC": "c) atm s^-1",
+    "optionD": "d) mol s",
+    "question": "For a gaseous reaction, the unit of rate of reaction is:",
+    "setNum": 2
+  },
+  "Qqrt_3": {
+    "answerEx": "Thiosulphuric acid has the chemical formula H2S2O3. Its molecular structure features a central sulfur atom covalently bonded to a hydroxyl group (-OH), another hydroxyl group (-OH), an oxygen atom via a double bond (S=O), and a terminal sulfur atom via a double bond (S=S). This structural arrangement can be viewed as a sulphuric acid (H2SO4) molecule in which one oxo-oxygen atom is replaced by a sulfur atom. In contrast, sulphuric acid (H2SO4) contains two S=O bonds but lacks any S=S linkage.",
+    "correctAnsw": "b) Thiosulphuric acid",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Sulphuric acid",
+    "optionB": "b) Thiosulphuric acid",
+    "optionC": "c) Sulphurous acid",
+    "optionD": "d) Thiosulphurous acid",
+    "question": "Which of the following compounds contains both S=O and S=S bonds?",
+    "setNum": 2
+  },
+  "Qqrt_4": {
+    "answerEx": "Depression in freezing point (Delta Tf) is a colligative property given by Delta Tf = i * Kf * m, where i is the van 't Hoff factor representing total ions produced upon complete dissociation. Comparing effective particle concentrations (i * M): 0.5 M Li2SO4 gives 3 * 0.5 = 1.5 M; 1 M NaCl gives 2 * 1 = 2.0 M; 0.5 M BaCl2 gives 3 * 0.5 = 1.5 M; and 0.5 M Al2(SO4)3 dissociates into 2 Al^3+ + 3 SO4^2- (i = 5), yielding 5 * 0.5 = 2.5 M. Highest ion count causes maximum freezing point depression.",
+    "correctAnsw": "c) 0.5 M Al2(SO4)3",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 0.5 M Li2SO4",
+    "optionB": "b) 1 M NaCl",
+    "optionC": "c) 0.5 M Al2(SO4)3",
+    "optionD": "d) 0.5 M BaCl2",
+    "question": "Which of the following solutions shows maximum depression in freezing point?",
+    "setNum": 2
+  },
+  "Qqrt_5": {
+    "answerEx": "In the extraction of iron using a blast furnace, reduction occurs in different temperature zones. Near the top of the furnace (reduction zone, 500-800 K), carbon monoxide (CO) gas generated from burning coke acts as the primary gaseous reducing agent. It reduces iron(III) oxide (Fe2O3) stepwise to spongy iron via reactions: 3 Fe2O3 + CO -> 2 Fe3O4 + CO2 and subsequently Fe3O4 + 4 CO -> 3 Fe + 4 CO2. Carbon monoxide is more effective than carbon at lower temperatures because its oxidation to CO2 has a lower free energy change.",
+    "correctAnsw": "d) CO",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) H2",
+    "optionB": "b) CaO",
+    "optionC": "c) SiO2",
+    "optionD": "d) CO",
+    "question": "Fe2O3 is reduced to spongy iron near the top of a blast furnace by:",
+    "setNum": 2
+  },
+  "Qqrt_6": {
+    "answerEx": "Linkage isomerism occurs in coordination compounds containing ambidentate ligands—ligands that possess two different donor atoms but coordinate to the central metal ion through only one atom at a time. The nitrite ion (NO2^-) is an ambidentate ligand: it can bind through its nitrogen atom (NO2^-, nitrito-N) or through its oxygen atom (ONO^-, nitrito-O). Because [Co(H2O)5(ONO)]^2+ coordinates via oxygen while [Co(H2O)5(NO2)]^2+ coordinates via nitrogen, these compounds share the same chemical formula but differ in metal-ligand connectivity, making them classic linkage isomers.",
+    "correctAnsw": "a) linkage isomers",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) linkage isomers",
+    "optionB": "b) ionisation isomers",
+    "optionC": "c) co-ordination isomers",
+    "optionD": "d) geometrical isomers",
+    "question": "The complex ion [Co(H2O)5(ONO)]^2+ and [Co(H2O)5(NO2)]^2+ are called:",
+    "setNum": 2
+  },
+  "Qqrt_7": {
+    "answerEx": "Vitamin B2, chemically known as riboflavin, is a water-soluble vitamin essential for energy metabolism and coenzyme synthesis (FAD and FMN). A nutritional deficiency of riboflavin leads to a specific clinical condition called ariboflavinosis. Key diagnostic symptoms of riboflavin deficiency include glossitis (inflammation, swelling, and redness of the tongue), cheilosis (fissuring at the corners of the mouth), and digestive disturbances. Vitamin B1 (thiamine) deficiency causes beriberi, whereas vitamin B6 (pyridoxine) deficiency leads to convulsions and peripheral neuropathy.",
+    "correctAnsw": "b) vitamin B2",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) vitamin B1",
+    "optionB": "b) vitamin B2",
+    "optionC": "c) vitamin B5",
+    "optionD": "d) vitamin B6",
+    "question": "Inflammation of the tongue is due to the deficiency of:",
+    "setNum": 2
+  },
+  "Qqrt_8": {
+    "answerEx": "Nylon-6,6 is a synthetic condensation polymer synthesized by step-growth polymerization of adipic acid (HOOC-(CH2)4-COOH) and hexamethylenediamine (H2N-(CH2)6-NH2). The reaction eliminates water molecules and creates repeating amide linkages (-CO-NH-) along the macromolecular chain backbone. Due to these recurring amide groups, Nylon-6,6 belongs to the polyamide family. In contrast, Teflon is a fluoropolymer made of tetrafluoroethylene, Terylene (Dacron) is a polyester linked by ester bonds, and Bakelite is a cross-linked thermosetting phenol-formaldehyde resin.",
+    "correctAnsw": "b) Nylon-6,6",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Teflon",
+    "optionB": "b) Nylon-6,6",
+    "optionC": "c) Terylene",
+    "optionD": "d) Bakelite",
+    "question": "Which of the following polymers is classified as a polyamide?",
+    "setNum": 2
+  },
+  "Qqrt_9": {
+    "answerEx": "Vitamin C, chemically designated as L-ascorbic acid (C6H8O6), is a water-soluble micronutrient possessing a five-membered furanose-like ring structure containing an oxygen atom. Because its chemical skeleton consists of a ring containing carbon atoms alongside a non-carbon ring heteroatom (oxygen), ascorbic acid is classified as a heterocyclic organic compound. Therefore, Vitamin C falls under the class of vitamins of the heterocyclic series. Heterocyclic vitamins play fundamental biochemical roles as antioxidant radical scavengers and enzyme cofactors in collagen synthesis across human physiological systems.",
+    "correctAnsw": "d) Vitamins of heterocyclic series",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Vitamins of aliphatic series",
+    "optionB": "b) Vitamins of aromatic series",
+    "optionC": "c) Vitamins of alicyclic series",
+    "optionD": "d) Vitamins of heterocyclic series",
+    "question": "Vitamin C belongs to the class of:",
+    "setNum": 2
+  },
+  "Qqrt_10": {
+    "answerEx": "Reduction of propanenitrile (CH3CH2CN) with sodium and alcohol (Mendius reduction) adds four hydrogen atoms across the nitrile triple bond to yield a primary aliphatic amine, propan-1-amine (CH3CH2CH2NH2, compound A). Subsequent treatment of propan-1-amine with nitrous acid (HNO2, generated in situ from NaNO2 + dil. HCl) converts primary aliphatic amines into unstable diazonium salts that rapidly evolve nitrogen gas (N2) and yield the corresponding primary alcohol, n-propyl alcohol (CH3CH2CH2OH, compound B).",
+    "correctAnsw": "c) n-propyl alcohol",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) n-propyl chloride",
+    "optionB": "b) Propanamine",
+    "optionC": "c) n-propyl alcohol",
+    "optionD": "d) Isopropyl alcohol",
+    "question": "Reaction of propanenitrile with Na / alcohol yields compound A, which on reaction with NaNO2 / dil. HCl gives compound B. Compound B is:",
+    "setNum": 2
   }
       }
     }
@@ -621,7 +1101,127 @@
     "optionD": "d) Ductus arteriosus",
     "question": "Atrioventricular groove is also called as:",
     "setNum": 1
-  }
+  },
+    "Qlon_1": {
+    "answerEx": "The coordination number of a central metal ion in a complex compound is defined as the total number of ligand donor atoms directly attached to it through coordinate bonds. In hexamminecobalt(III) ion, [Co(NH3)6]3+, ammonia (NH3) acts as a monodentate ligand, meaning each molecule donates a single pair of electrons to the central cobalt ion (Co3+). Since there are six ammonia ligands surrounding the cobalt ion, six coordinate covalent bonds are formed in total. Therefore, the coordination number of the central metal ion is 6, giving the complex an octahedral geometry.",
+    "correctAnsw": "c) 6",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 3",
+    "optionB": "b) 4",
+    "optionC": "c) 6",
+    "optionD": "d) 2",
+    "question": "The Coordination number of central metal atom in [Co(NH3)6]3+ is:",
+    "setNum": 2
+  },
+  "Qlon_2": {
+    "answerEx": "Radon (Rn) is a colorless, odorless, and chemically inert noble gas belonging to Group 18 of the periodic table. Unlike light noble gases like helium, neon, and argon, radon is naturally radioactive because all of its isotopes have unstable atomic nuclei. It is formed naturally as a intermediate decay product in the radioactive disintegration decay chains of uranium and thorium in rocks and soil. Radon-222, its most stable isotope, has a short half-life of about 3.82 days and decays by emitting alpha particles. Due to its radioactive nature, it poses health risks upon prolonged inhalation.",
+    "correctAnsw": "d) Radon",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Helium",
+    "optionB": "b) Neon",
+    "optionC": "c) Argon",
+    "optionD": "d) Radon",
+    "question": "Which of the following noble gas is radioactive?",
+    "setNum": 2
+  },
+  "Qlon_3": {
+    "answerEx": "The rate law for a first-order reaction is expressed as Rate = k[A]^1, where Rate has units of mol L^-1 s^-1 and reactant concentration [A] has units of mol L^-1. Rearranging the expression to solve for the rate constant gives k = Rate / [A]. Substituting their respective dimensional units yields (mol L^-1 s^-1) / (mol L^-1), which cancels out the concentration units entirely, leaving s^-1 (or time^-1). Thus, the rate constant of a first-order reaction is independent of concentration units and depends solely on time, typically expressed in reciprocal seconds (s^-1), minutes^-1, or hours^-1.",
+    "correctAnsw": "a) s^-1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) s^-1",
+    "optionB": "b) mol L^-1 s^-1",
+    "optionC": "c) L mol^-1 s^-1",
+    "optionD": "d) L^2 mol^-2 s^-1",
+    "question": "The unit of rate constant for a first-order reaction is:",
+    "setNum": 2
+  },
+  "Qlon_4": {
+    "answerEx": "Nylon-6,6 is a synthetic condensation polymer formed by the step-growth polymerization of adipic acid (a dicarboxylic acid) and hexamethylenediamine (a diamine). During the reaction, the carboxyl group (-COOH) of adipic acid reacts with the amino group (-NH2) of hexamethylenediamine, eliminating water molecules to form amide linkages (-CO-NH-). Because these amide linkages repeat sequentially along the polymer backbone chain, nylon-6,6 belongs to the class of polyamides. Polyamides exhibit high tensile strength, elasticity, and thermal resistance, making them ideal for manufacturing synthetic fibers, ropes, bristles, and durable textile fabrics.",
+    "correctAnsw": "b) Polyamide",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Polyester",
+    "optionB": "b) Polyamide",
+    "optionC": "c) Polyether",
+    "optionD": "d) Polycarbonate",
+    "question": "Synthetic polymer nylon-6,6 is classified as a:",
+    "setNum": 2
+  },
+  "Qlon_5": {
+    "answerEx": "A molecule shows optical activity if it possesses a chiral carbon atom—a central carbon atom bonded to four different atoms or functional groups. In lactic acid, CH3-CH(OH)-COOH, the central carbon (C-2) is covalently bonded to a methyl group (-CH3), a hydroxyl group (-OH), a carboxylic acid group (-COOH), and a hydrogen atom (-H). Since all four attached substituents are completely distinct, C-2 acts as a chiral center. This structural asymmetry prevents the molecule from superimposing on its mirror image, enabling lactic acid to rotate the plane of polarized light and exhibit optical isomerism.",
+    "correctAnsw": "a) Lactic acid",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Lactic acid",
+    "optionB": "b) Acetic acid",
+    "optionC": "c) Formic acid",
+    "optionD": "d) Oxalic acid",
+    "question": "Which of the following compounds exhibits optical activity?",
+    "setNum": 2
+  },
+  "Qlon_6": {
+    "answerEx": "Mond's process is a thermal decomposition method used for the refining of impure nickel metal. Impure nickel is heated in a stream of carbon monoxide (CO) gas at around 330–350 K to form volatile tetracarbonylnickel, Ni(CO)4, leaving non-volatile impurities behind. The gaseous complex is then transferred to a high-temperature chamber heated to about 450–470 K, where it undergoes thermal decomposition to yield pure nickel metal and release carbon monoxide gas for reuse: Ni + 4CO -> Ni(CO)4 -> Ni + 4CO. This vapor-phase refining process produces nickel of exceptionally high purity.",
+    "correctAnsw": "c) Nickel",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Copper",
+    "optionB": "b) Zinc",
+    "optionC": "c) Nickel",
+    "optionD": "d) Aluminium",
+    "question": "The metal refined by Mond's process is:",
+    "setNum": 2
+  },
+  "Qlon_7": {
+    "answerEx": "Sucrose is a non-reducing disaccharide commonly known as commercial table sugar or cane sugar. It is composed of one D-glucose unit and one D-fructose unit joined together by an alpha-1,2-glycosidic bond between their respective anomeric carbon atoms (C-1 of glucose and C-2 of fructose). Because both reactive anomeric centers participate directly in glycosidic bond formation, sucrose lacks a free aldehyde or ketone group, rendering it non-reducing toward Fehling's or Tollen's reagents. It is naturally extracted on an industrial scale from sugarcane or sugar beets for everyday human dietary consumption.",
+    "correctAnsw": "c) Sucrose",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Glucose",
+    "optionB": "b) Fructose",
+    "optionC": "c) Sucrose",
+    "optionD": "d) Maltose",
+    "question": "Which carbohydrate is known as table sugar?",
+    "setNum": 2
+  },
+  "Qlon_8": {
+    "answerEx": "Oxygen is significantly more electronegative and smaller in atomic size than sulfur. In water (H2O), the highly polar O-H bonds allow oxygen to attract electron density, creating strong intermolecular hydrogen bonds between neighboring water molecules. A large amount of thermal energy is required to break these strong intermolecular forces during phase transition. In contrast, sulfur in hydrogen sulfide (H2S) is less electronegative and larger, preventing the formation of effective hydrogen bonds. Consequently, H2S molecules are held together only by weak van der Waals forces, resulting in a significantly lower boiling point than water.",
+    "correctAnsw": "c) Hydrogen bonding",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Metallic bonding",
+    "optionB": "b) Ionic bonding",
+    "optionC": "c) Hydrogen bonding",
+    "optionD": "d) Covalent bonding",
+    "question": "Boiling point of water is higher than hydrogen sulfide because of:",
+    "setNum": 2
+  },
+  "Qlon_9": {
+    "answerEx": "Sandmeyer's reaction is a synthetic organic transformation used to introduce halogen substituents into aromatic rings. Treatment of an freshly prepared aqueous solution of benzene diazonium chloride (C6H5N2+Cl-) with cuprous chloride (Cu2Cl2) dissolved in hydrochloric acid (HCl) results in the displacement of the diazonium group by a chloride ion, yielding chlorobenzene along with the evolution of nitrogen gas (N2). Cuprous ions act as a catalyst in this nucleophilic substitution process. In contrast, Wurtz reaction couples alkyl halides using sodium, and Cannizzaro reaction involves disproportionation of non-enolizable aldehydes.",
+    "correctAnsw": "a) Sandmeyer's reaction",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Sandmeyer's reaction",
+    "optionB": "b) Wurtz reaction",
+    "optionC": "c) Cannizzaro reaction",
+    "optionD": "d) Perkin reaction",
+    "question": "Conversion of benzene diazonium chloride to chlorobenzene using cuprous chloride is called:",
+    "setNum": 2
+  },
+  "Qlon_10": {
+    "answerEx": "Molar conductivity (Lambda) represents the conducting power of all ions produced by dissolving one mole of an electrolyte in a solution. It is mathematically defined as Lambda = k / C, where k is electrolytic conductivity and C is molar concentration. In the International System of Units (SI), electrolytic conductivity (k) is measured in Siemens per meter (S m^-1), while concentration (C) is expressed in moles per cubic meter (mol m^-3). Dividing (S m^-1) by (mol m^-3) yields S m^2 mol^-1 as the standard SI unit. In laboratory chemistry, S cm^2 mol^-1 is also frequently used.",
+    "correctAnsw": "a) S m^2 mol^-1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) S m^2 mol^-1",
+    "optionB": "b) S cm^-1 mol^-1",
+    "optionC": "c) S m^-1 mol",
+    "optionD": "d) S m mol^-2",
+    "question": "What is the SI unit of molar conductivity?",
+    "setNum": 2
+  }    
       }
     }
     ,
@@ -747,7 +1347,127 @@
     "optionD": "d) 136",
     "question": "The number of purines in a segment of a DNA molecule is 68. What will be the number of pyrimidines in this segment?",
     "setNum": 1
-  }
+  },
+         "Qo_1": {
+    "answerEx": "Fluorine is the most electronegative element and has a small atomic size with no d-orbitals in its valence shell. Due to these limitations, it cannot expand its octet to exhibit higher positive oxidation states. Consequently, fluorine forms only one oxoacid, fluoric(I) acid or hypofluorous acid (HOF), where its formal oxidation state is -1. Other halogens like chlorine, bromine, and iodine possess vacant d-orbitals and lower electronegativity, enabling them to exhibit multiple oxidation states (+1, +3, +5, +7) and form a series of oxoacids such as hypochlorous, chlorous, chloric, and perchloric acids.",
+    "correctAnsw": "a) Fluorine",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Fluorine",
+    "optionB": "b) Chlorine",
+    "optionC": "c) Bromine",
+    "optionD": "d) Iodine",
+    "question": "Which of the following halogen forms only one oxoacid?",
+    "setNum": 2
+  },
+  "Qo_2": {
+    "answerEx": "In the Hall-Héroult electrolytic process for the extraction of aluminium, pure alumina (Al2O3) has a very high melting point of around 2348 K and is a poor conductor of electricity in the solid state. Adding molten cryolite (Na3AlF6) along with fluorspar (CaF2) lowers the melting point of the mixture significantly to around 1140 K. Additionally, cryolite dissociates into ions, which enhances the overall electrical conductivity of the molten bath. This makes the electrolytic reduction of alumina commercially viable by reducing energy requirements and allowing smooth current flow during electrolysis.",
+    "correctAnsw": "c) lower the melting point and increase conductivity",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) increase the melting point",
+    "optionB": "b) decrease the electrical conductivity",
+    "optionC": "c) lower the melting point and increase conductivity",
+    "optionD": "d) remove impurities",
+    "question": "Pure alumina is dissolved in molten cryolite to:",
+    "setNum": 2
+  },
+  "Qo_3": {
+    "answerEx": "In a face-centred cubic (fcc) or cubic close-packed (ccp) crystal lattice, atoms are arranged at all eight corners and at the centers of all six faces of the unit cell. In this highly packed arrangement, any given atom touches twelve neighboring atoms—four in its own plane, four in the layer above it, and four in the layer below it. Consequently, the coordination number, which represents the total number of nearest neighbor atoms surrounding a central particle, is 12. Gold crystallizes in an fcc lattice and therefore exhibits a coordination number of 12.",
+    "correctAnsw": "d) 12",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 4",
+    "optionB": "b) 6",
+    "optionC": "c) 8",
+    "optionD": "d) 12",
+    "question": "The coordination number of gold in metallic crystal lattice having face-centred cubic (fcc) structure is:",
+    "setNum": 2
+  },
+  "Qo_4": {
+    "answerEx": "When an ester is heated with an aqueous alkali such as sodium hydroxide (NaOH) or potassium hydroxide (KOH), it undergoes irreversible alkaline hydrolysis to yield an alcohol and the alkali metal salt of a carboxylic acid. This reaction is historically called saponification because treating natural esters like glycerol trimesters (fats and oils) with sodium hydroxide produces glycerol and sodium salts of long-chain fatty acids, which are chemically soaps. In contrast, esterification is the reverse synthesis of esters from acids and alcohols, whereas transesterification converts one ester into another using an alcohol.",
+    "correctAnsw": "b) Saponification",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Esterification",
+    "optionB": "b) Saponification",
+    "optionC": "c) Hydrolysis",
+    "optionD": "d) Transesterification",
+    "question": "Alkaline hydrolysis of an ester using aqueous alkali is called:",
+    "setNum": 2
+  },
+  "Qo_5": {
+    "answerEx": "A molecule displays optical isomerism if it contains an asymmetric or chiral carbon atom—a carbon atom bonded to four completely different groups or atoms. Examining the structure of butan-2-ol, CH3-CH(OH)-CH2-CH3, the second carbon (C-2) is bonded to a methyl group (-CH3), an ethyl group (-CH2-CH3), a hydroxyl group (-OH), and a hydrogen atom (-H). Because all four attached substituents are distinct, C-2 is a chiral center, making the molecule non-superimposable on its mirror image. Propan-1-ol, propan-2-ol, and butan-1-ol lack a chiral center and are optically inactive.",
+    "correctAnsw": "d) Butan-2-ol",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Propan-1-ol",
+    "optionB": "b) Propan-2-ol",
+    "optionC": "c) Butan-1-ol",
+    "optionD": "d) Butan-2-ol",
+    "question": "Which among the following compounds exhibits optical isomerism?",
+    "setNum": 2
+  },
+  "Qo_6": {
+    "answerEx": "Teflon, chemically known as polytetrafluoroethylene (PTFE), is a synthetic fluoropolymer widely recognized for its high thermal stability, electrical insulation, and non-stick properties. It is synthesized by heating tetrafluoroethylene (CF2=CF2) monomer under high pressure in the presence of a free-radical or persulphate catalyst. The double bond undergoes addition polymerization, forming long repeating chains of -[CF2-CF2]- units. In comparison, vinyl chloride polymerizes to form polyvinyl chloride (PVC), styrene yields polystyrene, and isoprene polymerizes to form natural rubber (cis-1,4-polyisoprene).",
+    "correctAnsw": "b) Tetrafluoroethylene",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Vinyl chloride",
+    "optionB": "b) Tetrafluoroethylene",
+    "optionC": "c) Styrene",
+    "optionD": "d) Isoprene",
+    "question": "The monomer used to prepare Teflon is:",
+    "setNum": 2
+  },
+  "Qo_7": {
+    "answerEx": "Starch is a natural polysaccharide composed of two structural fractions: linear amylose and branched amylopectin. The amylose component forms a helical polymer chain in aqueous media. When iodine solution (I2/KI) is added, polyiodide ions slide inside the open spatial void of the amylose helix, forming a charge-transfer complex. This physical entrapment alters the electronic energy levels of iodine, causing it to absorb light in the visible spectrum and display a deep blue-black color. Simple sugars like glucose and sucrose, as well as structural polymers like cellulose, lack this helical architecture and do not give a blue color.",
+    "correctAnsw": "d) Starch",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Glucose",
+    "optionB": "b) Sucrose",
+    "optionC": "c) Cellulose",
+    "optionD": "d) Starch",
+    "question": "Which carbohydrate gives blue color with iodine solution?",
+    "setNum": 2
+  },
+  "Qo_8": {
+    "answerEx": "Critical temperature (Tc) is a characteristic thermodynamic property defined as the maximum temperature at which a substance can exist as a liquid. Above its critical temperature, kinetic energy dominates intermolecular cohesive forces so significantly that increasing the applied pressure merely compresses the fluid into a dense, highly compressed gas or supercritical fluid without causing phase separation into a liquid. Gas liquefaction can only occur when the system is cooled to or below its specific critical temperature before compression. Boyle's temperature relates to ideal gas behavior, and inversion temperature relates to the Joule-Thomson cooling effect.",
+    "correctAnsw": "b) Critical temperature",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Boyle's temperature",
+    "optionB": "b) Critical temperature",
+    "optionC": "c) Inversion temperature",
+    "optionD": "d) Transition temperature",
+    "question": "The temperature above which a real gas cannot be liquefied, no matter how much pressure is applied, is called:",
+    "setNum": 2
+  },
+  "Qo_9": {
+    "answerEx": "According to IUPAC conventions in electrochemistry, the standard reduction potential of an electrode system is equal in magnitude but opposite in sign to its standard oxidation potential. The oxidation half-reaction for zinc metal is Zn(s) -> Zn2+(aq) + 2e-, which carries a standard oxidation potential (E°ox) of +0.76 V. The reverse reduction process, Zn2+(aq) + 2e- -> Zn(s), represents the standard reduction potential (E°red). Simply reversing the reaction direction changes the thermodynamic sign of the potential: E°red = -E°ox = -0.76 V.",
+    "correctAnsw": "b) -0.76 V",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) +0.76 V",
+    "optionB": "b) -0.76 V",
+    "optionC": "c) +1.52 V",
+    "optionD": "d) -1.52 V",
+    "question": "Standard oxidation potential of zinc is +0.76 V. What is its standard reduction potential?",
+    "setNum": 2
+  },
+  "Qo_10": {
+    "answerEx": "The carbylamine reaction (or isocyanide test) is a specific qualitative chemical test for primary aliphatic or aromatic amines. Heating a primary amine with chloroform (CHCl3) and alcoholic potassium hydroxide (KOH) produces an alkyl or aryl isocyanide (carbylamine), which possesses an extremely unpleasant, foul odor. The overall equation is R-NH2 + CHCl3 + 3KOH -> R-NC + 3KCl + 3H2O. Secondary and tertiary amines do not undergo this reaction because they lack the necessary two hydrogen atoms attached to nitrogen. Reimer-Tiemann reaction converts phenol to salicylaldehyde, and Hofmann bromamide degrades amides.",
+    "correctAnsw": "b) Carbylamine reaction",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Reimer-Tiemann reaction",
+    "optionB": "b) Carbylamine reaction",
+    "optionC": "c) Hofmann bromamide reaction",
+    "optionD": "d) Kolbe's reaction",
+    "question": "The reaction of primary amine with chloroform and ethanolic KOH to give an foul-smelling isocyanide is known as:",
+    "setNum": 2
+  } 
       }
     }
     ,
@@ -872,8 +1592,127 @@
     "optionD": "d) Butea",
     "question": "Lever mechanism of pollination is observed in:",
     "setNum": 1
-  }
-      
+  },
+  "Qlk_1": {
+    "answerEx": "Packing efficiency defined as the fraction of total space occupied by constituent spheres in a unit cell. In a simple cubic lattice, atoms touch along the edge of the unit cell (a = 2r) and corners contribute exactly 1 net atom per cell. Total volume of one sphere equals (4/3)*pi*r^3, while total volume of the cubic unit cell is a^3 = 8r^3. Dividing sphere volume by unit cell volume yields ((4/3)*pi*r^3) / (8r^3) = pi / 6 = 0.524, representing a packing fraction of 52.4%. Consequently, simple cubic lattices are relatively loosely packed, leaving 47.6% as empty void space.",
+    "correctAnsw": "a) 52.4%",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 52.4%",
+    "optionB": "b) 68%",
+    "optionC": "c) 74%",
+    "optionD": "d) 26%",
+    "question": "In simple cubic structure, the percentage of occupied space is:",
+    "setNum": 2
+  },
+  "Qlk_2": {
+    "answerEx": "Acidity in group 16 hydrides (H2O, H2S, H2Se, H2Te) depends directly on central atom size and E-H bond dissociation enthalpy. Descending from oxygen to tellurium down the group, atomic radius increases significantly, causing E-H bond length to increase and bond dissociation energy to drop. Weaker H-Te bonds dissociate far more easily in aqueous media to release hydrogen ions (H+) compared to strong O-H bonds in water. As a result, acid strength increases steadily down group 16 in the order H2O < H2S < H2Se < H2Te, making hydrogen telluride (H2Te) the most acidic hydride among the series.",
+    "correctAnsw": "d) H2Te",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) H2O",
+    "optionB": "b) H2S",
+    "optionC": "c) H2Se",
+    "optionD": "d) H2Te",
+    "question": "Which among the following hydrides of group 16 elements is most acidic?",
+    "setNum": 2
+  },
+  "Qlk_3": {
+    "answerEx": "In coordination compounds, carbon monoxide (CO) functions as a neutral, uncharged carbonyl ligand carrying a formal charge of zero. To compute the formal oxidation state of the central iron metal atom in pentacarbonyliron(0), [Fe(CO)5], we set up the overall charge equation: x + 5(0) = 0, where x represents iron's formal oxidation state. Solving this basic charge balance equation gives x = 0. Metal carbonyl complexes frequently contain central transition metal atoms in a zero oxidation state because strong carbonyl pi-backbonding stabilizes low oxidation states by accepting electron density back from filled d-orbitals.",
+    "correctAnsw": "c) 0",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) +2",
+    "optionB": "b) +3",
+    "optionC": "c) 0",
+    "optionD": "d) +1",
+    "question": "What is the formal oxidation state of iron in [Fe(CO)5]?",
+    "setNum": 2
+  },
+  "Qlk_4": {
+    "answerEx": "Hydrolysis of methyl acetate proceeds according to the chemical equation CH3COOCH3 + H2O -> CH3COOH + CH3OH. Although two distinct reactants participate in this bimolecular transformation, water is present in enormous excess as a solvent. Consequently, water concentration remains virtually constant throughout the entire chemical process. The reaction rate depends solely on methyl acetate concentration, following the simplified rate law Rate = k'[CH3COOCH3]. Chemical processes that are higher-order bimolecular reactions by mechanism but follow first-order kinetic behavior because one reactant concentration remains constant are termed pseudo-first order reactions.",
+    "correctAnsw": "c) Pseudo-first order reaction",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) First order reaction",
+    "optionB": "b) Second order reaction",
+    "optionC": "c) Pseudo-first order reaction",
+    "optionD": "d) Zero order reaction",
+    "question": "Acid hydrolysis of methyl acetate in presence of dilute HCl is an example of:",
+    "setNum": 2
+  },
+  "Qlk_5": {
+    "answerEx": "Noble gases are non-polar monoatomic species that dissolve in polar water through weak dipole-induced dipole interactions. Descending group 18 from helium to xenon, atomic size and total electron count increase substantially. Larger atomic radii mean outer electron clouds are less tightly held by the nucleus, making the atom significantly more polarizable. Xenon's large, polarizable electron cloud interacts more strongly with polar water molecules, inducing stronger instantaneous dipoles compared to small helium or neon atoms. Greater intermolecular attraction translates directly to enhanced aqueous dissolution, making xenon the most soluble noble gas in water.",
+    "correctAnsw": "d) Xenon",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Helium",
+    "optionB": "b) Neon",
+    "optionC": "c) Argon",
+    "optionD": "d) Xenon",
+    "question": "Which of the following noble gases exhibits the highest solubility in water?",
+    "setNum": 2
+  },
+  "Qlk_6": {
+    "answerEx": "Williamson's ether synthesis is a fundamental organic reaction used to prepare symmetrical and unsymmetrical ethers. The reaction involves an nucleophilic substitution (SN2) attack where an alkoxide ion (R-O-), generated by reacting an alcohol with active sodium metal, acts as a strong nucleophile to displace halide ion (X-) from a primary alkyl halide (R'-X). The organic transformation proceeds smoothly according to R-O- Na+ + R'-X -> R-O-R' + NaX. Wurtz reaction couples alkyl halides using sodium metal to form alkanes, Finkelstein reaction exchanges halogens, and Kolbe's reaction converts phenoxide ions to salicylic acid.",
+    "correctAnsw": "c) Williamson's synthesis",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Wurtz reaction",
+    "optionB": "b) Finkelstein reaction",
+    "optionC": "c) Williamson's synthesis",
+    "optionD": "d) Kolbe's reaction",
+    "question": "Reaction of alkyl halide with sodium alkoxide to form ether is known as:",
+    "setNum": 2
+  },
+  "Qlk_7": {
+    "answerEx": "Polymers are classified by intermolecular force strength into elastomers, fibers, thermoplastic, and thermosetting polymers. Elastomers possess weak intermolecular van der Waals forces that allow polymer chains to stretch under stress and retract upon release. Natural rubber becomes a commercially useful elastomer through vulcanization—cross-linking polymer chains with sulfur bridges. These cross-links act as structural anchors, allowing vulcanized rubber to stretch significantly while snapping back to its original shape without permanent deformation. Nylon-6,6 and Terylene are strong fibrous polymers, whereas Bakelite is a rigid thermosetting polymer network.",
+    "correctAnsw": "b) Vulcanized rubber",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Nylon-6,6",
+    "optionB": "b) Vulcanized rubber",
+    "optionC": "c) Terylene",
+    "optionD": "d) Bakelite",
+    "question": "Which of the following is an example of an elastomer?",
+    "setNum": 2
+  },
+  "Qlk_8": {
+    "answerEx": "Natural rubber is a naturally occurring biopolymer harvested as latex from rubber trees (Hevea brasiliensis). Chemically, natural rubber consists of cis-1,4-polyisoprene, formed through addition polymerization of its fundamental 5-carbon monomer, isoprene (2-methylbuta-1,3-diene, CH2=C(CH3)-CH=CH2). Thousands of isoprene monomers link together in a 1,4-addition sequence to build high-molecular-weight polymeric chains with cis-stereochemistry around double bonds, giving natural rubber its inherent elasticity. In contrast, chloroprene polymerizes to form synthetic neoprene rubber, styrene forms polystyrene, and acrylonitrile yields synthetic Orlon fibers.",
+    "correctAnsw": "a) Isoprene",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Isoprene",
+    "optionB": "b) Chloroprene",
+    "optionC": "c) Styrene",
+    "optionD": "d) Acrylonitrile",
+    "question": "The monomer unit of natural rubber is:",
+    "setNum": 2
+  },
+  "Qlk_9": {
+    "answerEx": "Concentrated hydriodic acid (HI) in the presence of red phosphorus serves as a powerful reducing agent in organic chemistry. Heating glucose (C6H12O6)—an aldohexose with six carbon atoms—with HI and red phosphorus completely reduces all functional groups, including the terminal aldehyde (-CHO) and five hydroxyl groups (-OH), converting them into saturated hydrocarbon bonds. This extensive reduction strips off all oxygen atoms to produce a straight-chain six-carbon alkane, n-hexane (CH3-CH2-CH2-CH2-CH2-CH3). The formation of n-hexane confirms that all six carbon atoms in glucose are linked together in a continuous, unbranched open chain.",
+    "correctAnsw": "b) n-Hexane",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Gluconic acid",
+    "optionB": "b) n-Hexane",
+    "optionC": "c) Saccharic acid",
+    "optionD": "d) Sorbitol",
+    "question": "Glucose on prolonged heating with hydriodic acid (HI) and red phosphorus yields:",
+    "setNum": 2
+  },
+  "Qlk_10": {
+    "answerEx": "Molar conductivity (Lambda) is defined as the electrolytic conductivity (k) of an electrolyte solution divided by its molar concentration (C), expressed mathematically as Lambda = k / C. Electrolytic conductivity (k) is measured in Siemens per centimeter (S cm^-1) or Ohm^-1 cm^-1. Molar concentration (C) in electrolytic formulas is expressed as moles per cubic centimeter (mol cm^-3). Substituting these corresponding units yields (Ohm^-1 cm^-1) / (mol cm^-3) = Ohm^-1 cm^2 mol^-1 (or S cm^2 mol^-1). Molar conductivity quantifies the conducting power of all ions produced by dissolving one mole of electrolyte in solution.",
+    "correctAnsw": "a) Ohm^-1 cm^2 mol^-1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Ohm^-1 cm^2 mol^-1",
+    "optionB": "b) Ohm cm^-1 mol^-1",
+    "optionC": "c) Ohm^-1 cm^-1 mol",
+    "optionD": "d) Ohm cm^2 mol",
+    "question": "What is the unit of molar conductivity (Lambda)?",
+    "setNum": 2
+  }    
       }
     }
     ,
@@ -998,8 +1837,128 @@
     "optionD": "d) Butea",
     "question": "Lever mechanism of pollination is observed in:",
     "setNum": 1
+  },
+      "Qpk_1": {
+    "answerEx": "Babbitt metal, often termed bearing metal, is a non-ferrous soft alloy composed primarily of tin or lead combined with antimony and copper. The hard antimony-tin intermetallic crystals embedded throughout the softer matrix grant the alloy exceptionally low friction properties and resistance to galling under high mechanical loads. As moving machinery axles rotate against this bearing lining, soft deformation channels microscopic oil tracks to ensure continuous lubrication while preventing thermal seizure. Duralumin is an aluminum structural alloy, spiegeleisen is a manganese-iron alloy, and amalgams are mercury-based alloys.",
+    "correctAnsw": "b) Babbitt metal",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Duralumin",
+    "optionB": "b) Babbitt metal",
+    "optionC": "c) Spiegeleisen",
+    "optionD": "d) Amalgam",
+    "question": "An antifriction alloy made up of antimony with tin and copper, which is extensively used in machine bearings is called:",
+    "setNum": 2
+  },
+  "Qpk_2": {
+    "answerEx": "In chemical thermodynamics, physical properties are classified based on their system-size dependence. An intensive property is an intrinsic characteristic whose value remains invariant regardless of the sample mass or system size. Both density (mass per unit volume) and dynamic viscosity (fluid resistance to flow) are fundamental intensive properties because a tiny sample of a liquid exhibits the identical density and viscosity as a large bulk volume. Conversely, mass, internal energy, volume, and total heat capacity scale directly with the amount of matter present in a system, classifying them as extensive properties.",
+    "correctAnsw": "a) Density, viscosity",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Density, viscosity",
+    "optionB": "b) Surface tension, mass",
+    "optionC": "c) Viscosity, internal energy",
+    "optionD": "d) Heat capacity, volume",
+    "question": "Which of the following pairs is an intensive property?",
+    "setNum": 2
+  },
+  "Qpk_3": {
+    "answerEx": "The qualitative detection test for nitrate ions in inorganic chemistry relies on the iconic \"brown ring test.\" When aqueous ferrous sulphate (FeSO4) is mixed with nitrate salts in the presence of concentrated sulphuric acid, nitrate ions undergo reduction to produce nitric oxide gas (NO). The freshly liberated nitric oxide gas then binds directly to remaining aqueous iron(II) aqua ions, replacing one water ligand to form the pentaaquanitrosyliron(II) complex cation, formulated as [Fe(H2O)5NO]2+. This unstable coordination complex concentrates at the liquid phase boundary interface, forming the distinctive brown ring.",
+    "correctAnsw": "d) [Fe(H2O)5NO]2+",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) [Fe(CO)5NO]2+",
+    "optionB": "b) [Fe(NH3)5NO]2+",
+    "optionC": "c) [Fe(CH3NH2)5NO]2+",
+    "optionD": "d) [Fe(H2O)5NO]2+",
+    "question": "Fe2+ ions react with nitric oxide formed from the reduction of nitrate and yield a brown-coloured complex:",
+    "setNum": 2
+  },
+  "Qpk_4": {
+    "answerEx": "To determine the empirical stoichiometry of an ionic crystal unit cell, we calculate the net fractional contribution of each lattice position. Corner atoms are shared equally among eight neighboring cubic unit cells, meaning 'B' ions at the eight corners contribute 8 * (1/8) = 1 net B ion per unit cell. Meanwhile, an atom situated at the geometric body center belongs exclusively to that specific unit cell without sharing, contributing 1 * 1 = 1 net A ion. Combining these single net ionic contributions yields a balanced 1:1 atomic ratio, establishing the chemical formula as AB.",
+    "correctAnsw": "c) AB",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) AB4",
+    "optionB": "b) A3B",
+    "optionC": "c) AB",
+    "optionD": "d) AB3",
+    "question": "An element A and B form a compound where 'A' ions occupy the body center and 'B' ions occupy corners of the cube. The formula of the compound is:",
+    "setNum": 2
+  },
+  "Qpk_5": {
+    "answerEx": "According to Faraday's laws of electrolysis, the electrochemical reduction of trivalent aluminium ions at the cathode follows the stoichiometry Al3+ + 3e- -> Al. This balanced half-reaction dictates that 3 Faradays (3 F) of electrical charge are required to deposit exactly 1 mole of solid aluminium metal. Using simple proportions, passing a charge of 1.5 F supplies half the electrons needed for a full mole. Calculating the deposited moles gives 1.5 F / 3 F = 0.5 moles of aluminium metal. Therefore, passing 1.5 F of charge yields 0.5 moles at the cathode.",
+    "correctAnsw": "b) 0.5",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1.0",
+    "optionB": "b) 0.5",
+    "optionC": "c) 4.0",
+    "optionD": "d) 1.5",
+    "question": "On passing 1.5 F of charge through an aqueous solution of aluminium salt, the number of moles of aluminium deposited at the cathode is:",
+    "setNum": 2
+  },
+  "Qpk_6": {
+    "answerEx": "Hydroboration-oxidation converts alkenes into alcohols via an anti-Markovnikov regioselective addition of water across the carbon-carbon double bond. Reacting propene (CH3-CH=CH2) with diborane ((BH3)2) adds boron selectively to the less hindered terminal double-bond carbon atom, forming a trialkylborane intermediate. Subsequent oxidation with alkaline hydrogen peroxide (H2O2/OH-) cleanly replaces the boron atom with a hydroxyl group (-OH) with retention of stereochemistry. This synthetic sequence yields primary propane-1-ol as the major product, whereas acid-catalyzed hydration would follow Markovnikov's rule to produce secondary propane-2-ol.",
+    "correctAnsw": "a) propane-1-ol",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) propane-1-ol",
+    "optionB": "b) propane-2-ol",
+    "optionC": "c) allyl alcohol",
+    "optionD": "d) propane-1,2-diol",
+    "question": "Propene on hydroboration-oxidation with diborane in the presence of alkaline hydrogen peroxide gives:",
+    "setNum": 2
+  },
+  "Qpk_7": {
+    "answerEx": "Baeyer's reagent is a cold, dilute (1%) alkaline solution of potassium permanganate (KMnO4) used as a qualitative chemical indicator to test for carbon-carbon unsaturation (double or triple bonds). When added to unsaturated hydrocarbons like alkenes or alkynes, the reagent oxidizes the double bond via syn-hydroxylation to yield vicinal diols. During this redox reaction, the deep purple permanganate ion (MnO4-) is reduced to a brown manganese dioxide (MnO2) precipitate, resulting in rapid decolorization of the solution. Acidified permanganate or dichromate solutions are stronger oxidants that cause destructive carbon chain cleavage.",
+    "correctAnsw": "c) alkaline potassium permanganate",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) acidified potassium dichromate",
+    "optionB": "b) alkaline potassium dichromate",
+    "optionC": "c) alkaline potassium permanganate",
+    "optionD": "d) acidified potassium permanganate",
+    "question": "Baeyer's reagent used for testing unsaturation in organic compounds is:",
+    "setNum": 2
+  },
+  "Qpk_8": {
+    "answerEx": "Willemite is a zinc silicate mineral with the stoichiometry Zn2SiO4, crystallizing in the trigonal crystal system. It serves as a minor ore of zinc and is highly prized for displaying intense green fluorescence under shortwave ultraviolet light due to trace manganese impurities. In contrast, other zinc ores have distinct formulas: zinc blende or sphalerite consists of zinc sulfide (ZnS), calamine or smithsonite represents zinc carbonate (ZnCO3), and zincite consists of zinc oxide (ZnO). Identifying these chemical compositions is fundamental in extractive metallurgy and mineral extraction.",
+    "correctAnsw": "d) Zn2SiO4",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) ZnS",
+    "optionB": "b) ZnCO3",
+    "optionC": "c) ZnO",
+    "optionD": "d) Zn2SiO4",
+    "question": "Chemical formula of the mineral willemite is:",
+    "setNum": 2
+  },
+  "Qpk_9": {
+    "answerEx": "Dinitrogen trioxide (N2O3) is an acidic blue anhydride of nitrous acid (HNO2). To determine nitrogen's formal oxidation state, assign oxygen its standard oxidation value of -2. Setting up the oxidation equation for a neutral covalent molecule: 2(x) + 3(-2) = 0, where x represents nitrogen's unknown charge. Simplifying the equation gives 2x - 6 = 0, which yields 2x = +6 and x = +3. Thus, each nitrogen atom carries a formal oxidation state of +3. For comparison, nitrogen exhibits +1 in N2O, +2 in NO, and +4 in NO2.",
+    "correctAnsw": "c) +3",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) +1",
+    "optionB": "b) +2",
+    "optionC": "c) +3",
+    "optionD": "d) +4",
+    "question": "The formal oxidation state of nitrogen in dinitrogen trioxide (N2O3) is:",
+    "setNum": 2
+  },
+  "Qpk_10": {
+    "answerEx": "Acidified potassium dichromate (K2Cr2O7/H2SO4) acts as a strong, aggressive oxidizing agent toward primary aliphatic alcohols. The oxidation reaction proceeds stepwise: the primary alcohol (-CH2OH) is initially oxidized into an intermediate aldehyde (-CHO). Because aldehydes contain an easily oxidizable hydrogen atom bound directly to the carbonyl carbon, the strong dichromate reagent rapidly oxidizes the aldehyde further before it can distill out, converting it cleanly into a terminal carboxylic acid (-COOH). Secondary alcohols undergo oxidation to yield stable ketones, whereas tertiary alcohols resist oxidation under standard neutral or basic conditions.",
+    "correctAnsw": "b) Carboxylic acids",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Ketones",
+    "optionB": "b) Carboxylic acids",
+    "optionC": "c) Esters",
+    "optionD": "d) Ethers",
+    "question": "Oxidation of primary alcohols using acidified potassium dichromate (K2Cr2O7) yields:",
+    "setNum": 2
   }
-      
+
       }
     }
     ,
@@ -1125,7 +2084,127 @@
     "optionD": "d) Oxytocin",
     "question": "__________ maintains basic metabolic rate.",
     "setNum": 1
-  }
+  },
+      "Q_1": {
+    "answerEx": "In a face-centred cubic (fcc) crystal lattice, constituent particles occupy all eight corners of the cubic unit cell as well as the centers of all six faces. Each corner atom is shared equally among eight adjacent unit cells, contributing 8 * (1/8) = 1 atom to an individual cell. Meanwhile, each face-centred atom is shared between two neighboring unit cells, contributing 6 * (1/2) = 3 atoms. Summing both contributions gives 1 + 3 = 4 net atoms per unit cell. This high atom density makes the face-centred cubic lattice one of the most efficient crystal packing arrangements in solid-state chemistry.",
+    "correctAnsw": "c) 4",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1",
+    "optionB": "b) 2",
+    "optionC": "c) 4",
+    "optionD": "d) 6",
+    "question": "In a face-centred cubic (fcc) crystal lattice, the number of atoms present per unit cell is:",
+    "setNum": 2
+  },
+  "Q_2": {
+    "answerEx": "Group 18 noble gases exist as monoatomic species in atmospheric air, but their natural abundances vary significantly. Nitrogen and oxygen comprise the vast majority of dry air, while argon ranks as the third most abundant atmospheric gas overall, constituting approximately 0.93% by volume. Argon accumulates naturally over geological time as a stable product from the radioactive decay of potassium-40 isotopes present in Earth's crust. Other noble gases such as helium, neon, krypton, and xenon exist only in minute trace quantities (parts per million). Consequently, argon represents the noble gas present in maximum amount within Earth's atmosphere.",
+    "correctAnsw": "c) Argon",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Helium",
+    "optionB": "b) Neon",
+    "optionC": "c) Argon",
+    "optionD": "d) Krypton",
+    "question": "Which among the following noble gases is present in maximum amount in the atmosphere?",
+    "setNum": 2
+  },
+  "Q_3": {
+    "answerEx": "For a given alkyl group (R), the boiling point of an alkyl halide depends directly on the magnitude of intermolecular van der Waals forces. Descending Group 17 from fluorine to iodine, atomic size and polarizability of the halogen atom increase substantially. Consequently, alkyl iodides (RI) possess larger, more easily polarized electron clouds that generate stronger dispersion forces compared to smaller alkyl fluorides (RF). Overcoming these heightened attractive forces requires greater thermal energy input, resulting in higher boiling temperatures. Therefore, the boiling point decreases systematically in the sequence RI > RBr > RCl > RF.",
+    "correctAnsw": "a) RI > RBr > RCl > RF",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) RI > RBr > RCl > RF",
+    "optionB": "b) RF > RCl > RBr > RI",
+    "optionC": "c) RCl > RBr > RI > RF",
+    "optionD": "d) RBr > RCl > RF > RI",
+    "question": "The boiling point of alkyl halides decreases in the order:",
+    "setNum": 2
+  },
+  "Q_4": {
+    "answerEx": "Heating phenol (C6H5OH) with metallic zinc dust drives a reduction reaction where zinc functions as a strong reducing agent. Zinc extracts the oxygen atom from phenol's hydroxyl group (-OH) to form solid zinc oxide (ZnO) as a byproduct, leaving behind an aromatic benzene ring. The overall balanced chemical equation is written as C6H5OH + Zn -> C6H6 + ZnO. This classic reaction serves as a direct chemical pathway for removing phenolic hydroxyl groups to convert substituted aromatic phenols into parent hydrocarbon rings such as benzene, rather than forming toluene or oxidized derivatives like benzoic acid.",
+    "correctAnsw": "a) Benzene",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Benzene",
+    "optionB": "b) Toluene",
+    "optionC": "c) Benzaldehyde",
+    "optionD": "d) Benzoic acid",
+    "question": "Phenol on distillation with zinc dust gives:",
+    "setNum": 2
+  },
+  "Q_5": {
+    "answerEx": "Nylon-6,6 is a synthetic polyamide polymer produced through condensation polymerization between two distinct bifunctional monomer species. The first monomer is hexamethylenediamine, a 6-carbon diamine, and the second is adipic acid, a 6-carbon dicarboxylic acid. Heating equimolar quantities of these compounds forms amide linkages (-CO-NH-) while eliminating water molecules. The numeric designation \"6,6\" indicates that both starting monomeric units contain six carbon atoms within their molecular frameworks. In contrast, caprolactam forms Nylon-6, ethylene glycol with terephthalic acid yields Terylene, and phenol reacting with formaldehyde produces Bakelite.",
+    "correctAnsw": "b) Hexamethylenediamine and Adipic acid",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Caprolactam",
+    "optionB": "b) Hexamethylenediamine and Adipic acid",
+    "optionC": "c) Ethylene glycol and Terephthalic acid",
+    "optionD": "d) Phenol and Formaldehyde",
+    "question": "The monomers used in the preparation of Nylon-6,6 are:",
+    "setNum": 2
+  },
+  "Q_6": {
+    "answerEx": "In the tetracyanoniocelate(II) ion, [Ni(CN)4]^2-, the nickel ion exhibits a +2 oxidation state with a 3d^8 electron configuration. Cyanide (CN^-) acts as a strong field ligand, forcing the eight 3d electrons to pair up completely within four 3d orbitals, leaving one 3d orbital vacant. Hybridization subsequently combines one 3d orbital, one 4s orbital, and two 4p orbitals to form four dsp^2 hybrid orbitals. These hybrid orbitals accept lone pairs from four cyanide ligands in a square planar spatial arrangement. Because all electrons are paired, the complex displays diamagnetic properties.",
+    "correctAnsw": "b) Square planar",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Tetrahedral",
+    "optionB": "b) Square planar",
+    "optionC": "c) Octahedral",
+    "optionD": "d) Trigonal bipyramidal",
+    "question": "The geometry of the complex ion [Ni(CN)4]^2- is:",
+    "setNum": 2
+  },
+  "Q_7": {
+    "answerEx": "Thermodynamic operations are categorized according to the specific state variables held constant throughout a transformation. An isothermal process occurs at a strictly constant system temperature (delta T = 0). Because internal energy for an ideal gas depends solely on temperature, the internal energy change (delta U) equals zero during an isothermal step. According to the First Law of Thermodynamics (delta U = Q + W), any work performed by or on the system is balanced by heat exchange with surroundings to maintain constant thermal equilibrium. Conversely, adiabatic processes prevent heat transfer, while isochoric and isobaric keep volume and pressure constant.",
+    "correctAnsw": "a) Isothermal process",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Isothermal process",
+    "optionB": "b) Adiabatic process",
+    "optionC": "c) Isochoric process",
+    "optionD": "d) Isobaric process",
+    "question": "The process in which work is done by the system at constant temperature is called:",
+    "setNum": 2
+  },
+  "Q_8": {
+    "answerEx": "Glucose is an aldohexose possessing an aldehyde group (-CHO) at C-1 alongside five hydroxyl groups. Treating glucose with a mild oxidizing agent like bromine water (Br2/H2O) selectively oxidizes the terminal aldehyde group into a carboxylic acid group (-COOH) without attacking or cleaving the secondary or primary alcohol groups. This selective oxidation converts glucose directly into gluconic acid. In contrast, strong oxidizing agents like concentrated nitric acid (HNO3) oxidize both the C-1 aldehyde group and the C-6 primary hydroxyl group to form dicarboxylic saccharic acid.",
+    "correctAnsw": "a) Gluconic acid",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Gluconic acid",
+    "optionB": "b) Saccharic acid",
+    "optionC": "c) Sorbitol",
+    "optionD": "d) Oxalic acid",
+    "question": "Glucose on oxidation with mild oxidizing agent like bromine water yields:",
+    "setNum": 2
+  },
+  "Q_9": {
+    "answerEx": "Standard reduction potential quantifies a chemical species' tendency to accept electrons and undergo reduction. A lower or more negative reduction potential value indicates that a metal readily loses electrons, making it a stronger reducing agent. Comparing the provided standard values: Metal C (-2.37 V) possesses the most negative reduction potential, meaning it oxidizes most readily and acts as the strongest reducing agent. Metal B (-0.76 V) holds an intermediate position, whereas Metal A (+0.34 V) has a positive potential, making it the weakest reducing agent. Therefore, reducing strength decreases in the sequence C > B > A.",
+    "correctAnsw": "b) C > B > A",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) A > B > C",
+    "optionB": "b) C > B > A",
+    "optionC": "c) B > C > A",
+    "optionD": "d) A > C > B",
+    "question": "Standard reduction potential values of three metals A, B, and C are +0.34 V, -0.76 V, and -2.37 V respectively. The reducing power follows the order:",
+    "setNum": 2
+  },
+  "Q_10": {
+    "answerEx": "Alkanes are saturated hydrocarbons possessing the general molecular formula CnH2n+2. When one hydrogen atom in an alkane is replaced by a halogen atom (X = F, Cl, Br, I), the resulting monohalogenated derivative has the general formula CnH2n+1X. In official IUPAC nomenclature, these saturated organic halides are named systematically using the prefix \"halo-\" combined with the parent alkane name, forming \"haloalkane\" (commonly called alkyl halides in trivial naming). Halogenated unsaturated compounds containing double or triple carbon-carbon bonds are classified as haloalkenes or haloalkynes, while halogenated aromatic rings are termed haloarenes.",
+    "correctAnsw": "a) Haloalkane",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Haloalkane",
+    "optionB": "b) Haloalkene",
+    "optionC": "c) Haloalkyne",
+    "optionD": "d) Halogenoarene",
+    "question": "The molecular formula of halogen derivative of alkane is represented as CnH2n+1X. What is its IUPAC class name?",
+    "setNum": 2
+  }  
       }
     }
     ,
@@ -1251,7 +2330,127 @@
     "optionD": "d) qualitative growth",
     "question": "A cell divides mitotically into two. Daughter cells divide and redivide repeatedly. Such growth is called:",
     "setNum": 1
-  }
+  },
+       "Q_1": {
+    "answerEx": "Aldol condensation requires the presence of at least one alpha-hydrogen atom attached to the carbon adjacent to the carbonyl group. Acetaldehyde (CH3CHO), acetone (CH3COCH3), and cyclohexanone all possess alpha-hydrogens and readily undergo aldol condensation in the presence of a dilute base. In contrast, formaldehyde (HCHO) lacks an alpha-carbon entirely, and benzaldehyde (C6H5CHO) has its carbonyl group directly bound to a benzene ring carbon that carries no hydrogen atoms. Because neither formaldehyde nor benzaldehyde contains alpha-hydrogens, neither can undergo aldol condensation, making the total count of such non-reacting compounds equal to 2.",
+    "correctAnsw": "b) 2",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1",
+    "optionB": "b) 2",
+    "optionC": "c) 3",
+    "optionD": "d) 4",
+    "question": "The number of compounds among the following which do not undergo aldol condensation is: Formaldehyde, Acetaldehyde, Benzaldehyde, Acetone, Cyclohexanone",
+    "setNum": 2
+  },
+  "Q_2": {
+    "answerEx": "In a face-centred cubic (fcc) crystal lattice, constituent particles occupy all eight corners of the cube as well as the centers of all six faces. Each corner atom is shared equally among eight adjacent unit cells, contributing 8 * (1/8) = 1 atom to a single unit cell. Meanwhile, each face-centred atom is shared between two neighboring unit cells, contributing 6 * (1/2) = 3 atoms. Adding these two separate contributions together gives 1 + 3 = 4 net atoms per unit cell. This high packing efficiency makes the fcc arrangement one of the densest crystal structures.",
+    "correctAnsw": "c) 4",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1",
+    "optionB": "b) 2",
+    "optionC": "c) 4",
+    "optionD": "d) 6",
+    "question": "In a face-centred cubic (fcc) unit cell, the total number of atoms present per unit cell is:",
+    "setNum": 2
+  },
+  "Q_3": {
+    "answerEx": "The rate of a chemical reaction is defined as the change in concentration of reactants or products per unit time, expressed in units of mol L^-1 s^-1. According to the rate law, the rate for a zero-order reaction is given by Rate = k [A]^0, where [A]^0 = 1. Consequently, the rate constant (k) shares the exact same units as the reaction rate itself. Therefore, the SI unit for the zero-order rate constant is mol L^-1 s^-1. In contrast, s^-1 corresponds to first-order reactions, while L mol^-1 s^-1 represents second-order reaction kinetics.",
+    "correctAnsw": "b) mol L^-1 s^-1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) s^-1",
+    "optionB": "b) mol L^-1 s^-1",
+    "optionC": "c) L mol^-1 s^-1",
+    "optionD": "d) L^2 mol^-2 s^-1",
+    "question": "The unit of rate constant for a zero-order reaction is:",
+    "setNum": 2
+  },
+  "Q_4": {
+    "answerEx": "Krypton is a heavy, colorless noble gas utilized in specialized lighting applications due to its efficient light emission properties when an electric discharge passes through it. Filling incandescent light bulbs with krypton reduces filament evaporation and allows the filament to operate at higher temperatures, producing a brighter, whiter light output without increasing energy consumption. This intense illumination and thermal stability make krypton-filled bulbs ideal for safety headlamps used by miners working in dark underground environments. Other noble gases like helium are used as cryogens, neon in glowing advertising signs, and argon as an inert shielding gas.",
+    "correctAnsw": "d) Krypton",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Helium",
+    "optionB": "b) Neon",
+    "optionC": "c) Argon",
+    "optionD": "d) Krypton",
+    "question": "Which of the following noble gases is used in miner's cap lamps?",
+    "setNum": 2
+  },
+  "Q_5": {
+    "answerEx": "Standard reduction potential measures a chemical species' tendency to gain electrons and undergo reduction. A lower or more negative standard reduction potential indicates that the metal readily loses electrons, acting as a stronger reducing agent. Comparing the given reduction potentials: Metal C (-2.37 V) has the most negative value, making it the most easily oxidized and therefore the strongest reducing agent. Metal B (-0.76 V) occupies an intermediate position, while Metal A (+0.34 V) has a positive potential, rendering it the weakest reducing agent. Thus, the correct reducing power sequence is C > B > A.",
+    "correctAnsw": "b) C > B > A",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) A > B > C",
+    "optionB": "b) C > B > A",
+    "optionC": "c) B > C > A",
+    "optionD": "d) A > C > B",
+    "question": "Standard reduction potential values of three metals A, B, and C are +0.34 V, -0.76 V, and -2.37 V respectively. The reducing power of these metals follows the order:",
+    "setNum": 2
+  },
+  "Q_6": {
+    "answerEx": "For a given alkyl group (R), the boiling point of an alkyl halide depends directly on the strength of intermolecular van der Waals attraction forces. As you move from fluorine to iodine down Group 17, halogen atomic size and electron cloud polarization increase significantly. Larger, more polarizable molecules like alkyl iodides (RI) experience stronger dispersion forces compared to smaller alkyl fluorides (RF). Overcoming these enhanced attractive forces requires greater thermal energy, resulting in higher boiling points. Consequently, the boiling point decreases systematically in the sequence RI > RBr > RCl > RF.",
+    "correctAnsw": "a) RI > RBr > RCl > RF",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) RI > RBr > RCl > RF",
+    "optionB": "b) RF > RCl > RBr > RI",
+    "optionC": "c) RCl > RBr > RI > RF",
+    "optionD": "d) RBr > RCl > RF > RI",
+    "question": "Boiling point of alkyl halides follows the order:",
+    "setNum": 2
+  },
+  "Q_7": {
+    "answerEx": "Glycogen is a highly branched polysaccharide composed of alpha-D-glucose units that serves as the primary energy storage molecule in animals and human beings. Stored mainly in the liver and muscle tissues, it breaks down into glucose via glycogenolysis whenever blood sugar levels drop or cellular energy demands rise. Because its chemical structure closely resembles amylopectin—a component of plant starch—but features much more frequent alpha-1,6-glycosidic branching points every 8 to 12 glucose residues, glycogen is commonly referred to as \"animal starch.\" Cellulose provides structural plant support, whereas sucrose is a plant disaccharide.",
+    "correctAnsw": "c) Glycogen",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Cellulose",
+    "optionB": "b) Amylose",
+    "optionC": "c) Glycogen",
+    "optionD": "d) Sucrose",
+    "question": "Which carbohydrate is known as animal starch?",
+    "setNum": 2
+  },
+  "Q_8": {
+    "answerEx": "Heating phenol (C6H5OH) with metallic zinc dust drives a reduction reaction where the zinc acts as a reducing agent. Zinc removes the oxygen atom from phenol's hydroxyl group (-OH) to form zinc oxide (ZnO) as a byproduct, leaving behind an aromatic benzene ring. The overall balanced chemical equation is written as C6H5OH + Zn -> C6H6 + ZnO. This reaction is a classic method for removing phenolic hydroxyl groups to convert aromatic phenols directly into parent hydrocarbon rings like benzene, rather than yielding substituted derivatives such as toluene or benzoic acid.",
+    "correctAnsw": "a) Benzene",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Benzene",
+    "optionB": "b) Toluene",
+    "optionC": "c) Benzaldehyde",
+    "optionD": "d) Benzoic acid",
+    "question": "Phenol on distillation with zinc dust gives:",
+    "setNum": 2
+  },
+  "Q_9": {
+    "answerEx": "Nylon-6,6 is a synthetic polyamide polymer synthesized via condensation polymerization between two distinct bifunctional monomer species. The first monomer is hexamethylenediamine, a 6-carbon diamine, and the second is adipic acid, a 6-carbon dicarboxylic acid. Heating equal molar amounts of these monomers causes amide linkages (-CO-NH-) to form through the elimination of water molecules. The designation \"6,6\" indicates that both starting monomeric building blocks contain six carbon atoms within their molecular frameworks. In contrast, caprolactam yields Nylon-6, ethylene glycol with terephthalic acid produces Terylene, and phenol-formaldehyde forms Bakelite.",
+    "correctAnsw": "b) Hexamethylenediamine and Adipic acid",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Caprolactam",
+    "optionB": "b) Hexamethylenediamine and Adipic acid",
+    "optionC": "c) Ethylene glycol and Terephthalic acid",
+    "optionD": "d) Phenol and Formaldehyde",
+    "question": "The monomers used in the preparation of Nylon-6,6 are:",
+    "setNum": 2
+  },
+  "Q_10": {
+    "answerEx": "In the tetracyanoniocelate(II) ion, [Ni(CN)4]^2-, nickel exists in the +2 oxidation state with a 3d^8 valence electron configuration. Cyanide (CN^-) is a strong field ligand that forces the eight 3d electrons to pair up completely within four 3d orbitals, leaving one 3d orbital vacant. Hybridization then involves one 3d orbital, one 4s orbital, and two 4p orbitals to form four equivalent dsp^2 hybrid orbitals. These hybrid orbitals accept four electron pairs from the cyanide ligands, adopting a square planar arrangement around the central nickel ion, which renders the complex diamagnetic.",
+    "correctAnsw": "b) Square planar",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Tetrahedral",
+    "optionB": "b) Square planar",
+    "optionC": "c) Octahedral",
+    "optionD": "d) Trigonal bipyramidal",
+    "question": "The geometry of the complex ion [Ni(CN)4]^2- is:",
+    "setNum": 2
+  }   
       }
     }
     ,
@@ -1376,8 +2575,127 @@
     "optionD": "d) Argon (Ar)",
     "question": "Which of the following is a greenhouse gas?",
     "setNum": 1
+  },
+      "Qb_1": {
+    "answerEx": "Polymers are broadly classified based on their origin into natural and synthetic categories. Natural polymers are derived directly from plant or animal sources; for instance, linen and jute are cellulose-based plant fibers, while silk is a natural protein fiber secreted by silkworms. In contrast, synthetic polymers are man-made materials produced through chemical synthesis in laboratories or industries. Terylene (also known as Dacron) is a synthetic polyester fiber manufactured via the step-growth condensation polymerization of ethylene glycol and terephthalic acid. Because it is entirely chemically synthesized rather than harvested from nature, Terylene represents a synthetic polymer.",
+    "correctAnsw": "d) Terylene",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Linen",
+    "optionB": "b) Jute",
+    "optionC": "c) Silk",
+    "optionD": "d) Terylene",
+    "question": "Identify synthetic polymer amongst the following:",
+    "setNum": 2
+  },
+  "Qb_2": {
+    "answerEx": "In Group 16 hydrides (H2O, H2S, H2Se, H2Te), reducing character depends directly on the thermal stability and bond dissociation enthalpy of the E-H bond (where E is the central atom). As you move down the group from oxygen to tellurium, the atomic size increases, leading to longer and weaker E-H bonds. Consequently, bond dissociation enthalpy decreases from H2O to H2Te, making it much easier to release hydrogen atoms and act as a strong reducing agent. Water (H2O) has a very small oxygen atom forming exceptionally strong O-H bonds with high dissociation energy, rendering H2O thermally stable and non-reducing.",
+    "correctAnsw": "a) H2O",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) H2O",
+    "optionB": "b) H2S",
+    "optionC": "c) H2Te",
+    "optionD": "d) H2Se",
+    "question": "Which among the following hydrides is NOT a reducing agent?",
+    "setNum": 2
+  },
+  "Qb_3": {
+    "answerEx": "Potassium dichromate (K2Cr2O7) serves as a potent oxidizing agent in an acidic medium. In the dichromate ion (Cr2O7^2-), chromium exhibits a high formal oxidation state of +6. During the redox reaction with ferrous sulphate (FeSO4), dichromate oxidizes Fe^2+ ions to Fe^3+ ions, while chromium itself undergoes reduction to form chromic sulphate, containing Cr^3+ ions. The balanced ionic half-reaction is expressed as Cr2O7^2- + 14H^+ + 6e^- -> 2Cr^3+ + 7H2O. Therefore, the oxidation state of chromium transitions systematically from +6 in the reactant to +3 in the final green-colored chromic product.",
+    "correctAnsw": "b) +6 to +3",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) +6 to +2",
+    "optionB": "b) +6 to +3",
+    "optionC": "c) +6 to +1",
+    "optionD": "d) +6 to +4",
+    "question": "During oxidation of ferrous sulphate using a mixture of dil. H2SO4 and potassium dichromate, the oxidation state of chromium changes from:",
+    "setNum": 2
+  },
+  "Qb_4": {
+    "answerEx": "Effective Atomic Number (EAN) measures total electrons surrounding a central metal nucleus in a complex and is calculated using the formula EAN = Z - X + Y, where Z is the atomic number, X is the oxidation state, and Y is total electrons donated by ligands. For ferricyanide, [Fe(CN)6]^3-, iron has Z = 26. Assigning x to iron: x + 6(-1) = -3 yields an oxidation state X = +3. Six cyanide ligands contribute 12 electrons (Y = 12). Applying the formula yields EAN = 26 - 3 + 12 = 35. This calculation confirms that [Fe(CN)6]^3- possesses an EAN of 35.",
+    "correctAnsw": "c) [Fe(CN)6]^3-",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) [Zn(NH3)4]^2+",
+    "optionB": "b) [Fe(CN)6]^4-",
+    "optionC": "c) [Fe(CN)6]^3-",
+    "optionD": "d) [Co(NH3)6]^3+",
+    "question": "Identify the complex ion in which the effective atomic number (EAN) of the central metal ion is 35:",
+    "setNum": 2
+  },
+  "Qb_5": {
+    "answerEx": "The synthesis of alkyl fluorides directly from alkyl chlorides or bromides is difficult using elemental fluorine due to violent reaction pathways. Instead, heating an alkyl chloride like methyl chloride (CH3Cl) with inorganic metallic fluorides such as silver fluoride (AgF), mercurous fluoride (Hg2F2), or antimony trifluoride (SbF3) achieves halogen exchange cleanly. This specific halide-exchange transformation is known as the Swarts reaction. In contrast, the Finkelstein reaction employs sodium iodide to yield alkyl iodides, Williamson's synthesis prepares ethers, and the Wurtz reaction couples alkyl halides using metallic sodium to synthesize higher alkanes.",
+    "correctAnsw": "b) Swarts reaction",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Finkelstein reaction",
+    "optionB": "b) Swarts reaction",
+    "optionC": "c) Williamson's synthesis",
+    "optionD": "d) Wurtz reaction",
+    "question": "Conversion of methyl chloride into methyl fluoride is known as:",
+    "setNum": 2
+  },
+  "Qb_6": {
+    "answerEx": "Primary amines undergo exhaustively nucleophilic alkylation when reacted with excess alkyl halide, known as Hofmann's exhaustive alkylation. Starting with 1 mole of methylamine (CH3NH2), the primary amine reacts with 1 mole of methyl iodide (CH3I) to produce dimethylamine (secondary amine) and HI. A second mole of CH3I converts dimethylamine into trimethylamine (tertiary amine). Finally, a third mole of CH3I attacks the lone pair on the tertiary nitrogen atom via nucleophilic substitution to yield tetramethylammonium iodide (quaternary ammonium salt). Thus, exactly 3 moles of methyl iodide are consumed per mole of methylamine.",
+    "correctAnsw": "c) 3",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1",
+    "optionB": "b) 2",
+    "optionC": "c) 3",
+    "optionD": "d) 4",
+    "question": "The number of moles of methyl iodide required to prepare tetramethyl ammonium iodide from 1 mole of methyl amine is:",
+    "setNum": 2
+  },
+  "Qb_7": {
+    "answerEx": "Glucose is an aldohexose containing one aldehyde group and five distinct hydroxyl (-OH) groups attached along its six-carbon chain. Treating glucose with acetic anhydride in the presence of a pyridine catalyst drives an acetylation reaction where all five hydroxyl groups are converted into ester linkages, yielding glucose pentaacetate alongside acetic acid byproducts. The stoichiometric formation of a stable penta-acetylated derivative proves that a single glucose molecule contains exactly five reactive hydroxyl groups. Reactions with hydroxylamine test the carbonyl group, whereas bromine water and dilute nitric acid serve as mild and strong oxidizing agents, respectively.",
+    "correctAnsw": "d) Acetic anhydride",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Hydroxylamine",
+    "optionB": "b) Bromine water",
+    "optionC": "c) Dilute nitric acid",
+    "optionD": "d) Acetic anhydride",
+    "question": "Name the reagent which on reaction with glucose confirms the presence of five hydroxyl groups in glucose:",
+    "setNum": 2
+  },
+  "Qb_8": {
+    "answerEx": "Medicinal drugs are categorized according to their specific therapeutic action in the human body. Antibiotics are chemical substances produced by microorganisms (or synthesized artificially) that inhibit the growth of or destroy pathogenic bacteria. Penicillin, discovered by Alexander Fleming, is a classic narrow-spectrum beta-lactam antibiotic used extensively to treat bacterial infections. In contrast, codeine functions as a narcotic analgesic for pain relief, while both Equanil and Valium act as tranquilizers designed to treat anxiety, stress, and mental disorders rather than bacterial pathogens.",
+    "correctAnsw": "c) Penicillin",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Codeine",
+    "optionB": "b) Equanil",
+    "optionC": "c) Penicillin",
+    "optionD": "d) Valium",
+    "question": "Identify the antibiotic drug amongst the following:",
+    "setNum": 2
+  },
+  "Qb_9": {
+    "answerEx": "In a body-centered cubic (bcc) lattice arrangement, constituent particles (atoms) are positioned at all eight corners of the cubic unit cell as well as one whole atom located at the exact geometric center of the cube. Each corner atom is shared equally among eight neighboring unit cells, contributing 8 * (1/8) = 1 atom to the individual unit cell. Meanwhile, the central atom belongs exclusively to that specific unit cell without sharing, contributing 1 * 1 = 1 atom. Summing both contributions gives 1 + 1 = 2 net atoms per bcc unit cell.",
+    "correctAnsw": "b) 2",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1",
+    "optionB": "b) 2",
+    "optionC": "c) 4",
+    "optionD": "d) 6",
+    "question": "The number of atoms per unit cell of a body-centered cubic (bcc) crystal structure is:",
+    "setNum": 2
+  },
+  "Qb_10": {
+    "answerEx": "Pressure-volume work during a gaseous chemical process is calculated using W = -delta n_g * R * T, where delta n_g is the change in gaseous moles (moles of gaseous products - moles of gaseous reactants). For 2H2O(l) -> 2H2(g) + O2(g), delta n_g = (2 + 1) - 0 = +3 moles. Substituting R = 8.314 J K^-1 mol^-1 and T = 300 K yields W = -(3 mol) * (8.314 J K^-1 mol^-1) * (300 K) = -7482.6 J. Converting joules to kilojoules gives -7.4826 kJ, demonstrating that work is performed by the expanding system on its surroundings.",
+    "correctAnsw": "b) -7.482 kJ",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) +7.482 kJ",
+    "optionB": "b) -7.482 kJ",
+    "optionC": "c) -49.88 kJ",
+    "optionD": "d) +49.88 kJ",
+    "question": "Calculate the work done during the reaction represented by the thermochemical equation at 300 K: 2H2O(l) -> 2H2(g) + O2(g) (R = 8.314 J K^-1 mol^-1):",
+    "setNum": 2
   }
-      
       }
     }
     ,
@@ -1502,8 +2820,128 @@
     "optionD": "d) Halosere succession",
     "question": "Primary succession occurring on bare rocks is termed:",
     "setNum": 1
+  },
+    "Qmt_1": {
+    "answerEx": "In a body-centred cubic (bcc) unit cell, lattice points are situated at all eight corners of the cube, with one atom precisely located at the geometric center of the cube. The central atom makes direct contact with all eight corner atoms surrounding it simultaneously. Consequently, the coordination number, which represents the total number of nearest neighbor atoms surrounding a given central particle in the crystal lattice, is calculated to be 8. In contrast, simple cubic structures feature a coordination number of 6, whereas face-centred cubic (fcc) and hexagonal close-packed (hcp) arrangements exhibit a coordination number of 12.",
+    "correctAnsw": "c) 8",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 4",
+    "optionB": "b) 6",
+    "optionC": "c) 8",
+    "optionD": "d) 12",
+    "question": "The coordination number of atoms in a body-centred cubic (bcc) crystal lattice is:",
+    "setNum": 2
+  },
+  "Qmt_2": {
+    "answerEx": "The dissolution process of anhydrous sodium sulfate (Na2SO4) in water is exothermic, meaning heat energy is continuously released into the surrounding solution as it dissolves (delta H < 0). According to Le Chatelier's principle, when thermal energy is supplied by increasing the system's temperature, the equilibrium shifts in the direction that absorbs heat—the endothermic reverse process. Consequently, elevating the temperature causes the dissolved salt to precipitate back out of the liquid phase, leading to a noticeable reduction in overall solubility. Most other salts, such as potassium nitrate (KNO3), dissolve endothermically and exhibit increased solubility upon heating.",
+    "correctAnsw": "c) Na2SO4",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) KNO3",
+    "optionB": "b) NaBr",
+    "optionC": "c) Na2SO4",
+    "optionD": "d) KCl",
+    "question": "Amongst the following, the solubility of which ionic solid in water decreases with an increase in temperature?",
+    "setNum": 2
+  },
+  "Qmt_3": {
+    "answerEx": "Following standard IUPAC nomenclature rules for coordination compounds, the cationic species (sodium) is named first, followed by the complex anionic entity [AlF6]3-. Within the coordination sphere, the six fluoride ligands receive the prefix \"hexa-\" paired with the anion suffix \"-fluoro\". Because the overall complex sphere carries a net negative charge, the central aluminum metal atom adopts the traditional suffix \"-ate\", becoming \"aluminate\". To calculate aluminum's oxidation state: 3(+1) + x + 6(-1) = 0, giving x = +3. Expressing this formal charge as a Roman numeral yields the full name: Sodium hexafluoroaluminate (III).",
+    "correctAnsw": "a) Sodium hexafluoroaluminate (III)",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Sodium hexafluoroaluminate (III)",
+    "optionB": "b) Sodium hexafluoroaluminate (I)",
+    "optionC": "c) Sodium hexafluoroaluminium (III)",
+    "optionD": "d) Sodium hexafluoroaluminium (I)",
+    "question": "What is the correct IUPAC name of the complex compound Na3[AlF6]?",
+    "setNum": 2
+  },
+  "Qmt_4": {
+    "answerEx": "Isoprene is the essential chemical building block that polymerizes naturally to build natural rubber and various terpenoid compounds. Chemically known by its systematic IUPAC name 2-methylbuta-1,3-diene, its molecular formula is explicitly expressed as C5H8. The carbon backbone consists of a four-carbon conjugated chain (butadiene core) with a single methyl group attached as a branch at the second carbon position. Summing these structural components reveals a total of exactly 5 carbon atoms. During biosynthesis, multiple 5-carbon terpene units link together head-to-tail to form complex branched hydrocarbons, steroids, essential oils, and synthetic elastomers.",
+    "correctAnsw": "b) 5",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 6",
+    "optionB": "b) 5",
+    "optionC": "c) 4",
+    "optionD": "d) 3",
+    "question": "The number of carbon atoms present in an isoprene unit is:",
+    "setNum": 2
+  },
+  "Qmt_5": {
+    "answerEx": "The characteristic color displayed by transition metal complexes in aqueous solutions arises from electronic transitions between split d-orbitals (d-d transitions) when visible light is absorbed. Copper in its +1 oxidation state (Cu+) possesses the ground-state electronic configuration [Ar] 3d^10, meaning its 3d subshell is completely filled with ten paired electrons. Because there are no vacant or unpaired d-orbitals available to absorb visible photon energy for electronic promotion, d-d light absorption cannot occur. Consequently, aqueous solutions containing Cu+ ions appear entirely colourless, whereas species with partially filled 3d orbitals absorb specific visible wavelengths.",
+    "correctAnsw": "a) Cu+",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Cu+",
+    "optionB": "b) Cu2+",
+    "optionC": "c) Ni2+",
+    "optionD": "d) Co2+",
+    "question": "Which of the following transition metal ions is colourless in an aqueous solution?",
+    "setNum": 2
+  },
+  "Qmt_6": {
+    "answerEx": "Raoult's law states that the partial vapour pressure exerted by a volatile solvent above a solution is directly proportional to its mole fraction in that solution (P1 = P1° * x1). When a non-volatile solute is added, the total vapour pressure drops below that of the pure solvent (P1° - P1). Dividing this vapour pressure decrease by the pure solvent's vapour pressure gives the relative lowering of vapour pressure: (P1° - P1) / P1°. Mathematically substituting x1 = 1 - x2 demonstrates that this relative ratio precisely equals x2, the mole fraction of the non-volatile solute.",
+    "correctAnsw": "b) Mole fraction of the solute",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Molality of the solution",
+    "optionB": "b) Mole fraction of the solute",
+    "optionC": "c) Molarity of the solution",
+    "optionD": "d) Mole fraction of the solvent",
+    "question": "According to Raoult's law, the relative lowering of vapour pressure for a solution containing a non-volatile solute is equal to:",
+    "setNum": 2
+  },
+  "Qmt_7": {
+    "answerEx": "A Schottky defect is a stoichiometric point defect that occurs when an equal number of cations and anions leave their designated lattice sites simultaneously, leaving behind paired stoichiometric vacancies. Because both positively and negatively charged ions vanish in equal proportions, electrical neutrality in the crystal lattice is strictly preserved. However, because missing ions create empty internal spaces without changing the crystal's overall boundary dimensions, the mass decreases relative to volume, causing a reduction in solid-state density. This defect frequently appears in highly ionic compounds with high coordination numbers where cations and anions possess similar ionic radii.",
+    "correctAnsw": "a) Schottky defect",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Schottky defect",
+    "optionB": "b) Frenkel defect",
+    "optionC": "c) Impurity defect",
+    "optionD": "d) Interstitial defect",
+    "question": "Which defect is observed when a paired cation-anion vacancy is created in an ionic crystal lattice?",
+    "setNum": 2
+  },
+  "Qmt_8": {
+    "answerEx": "The freezing point depression equation is given by delta Tf = Kf * m, where delta Tf represents the depression in freezing point measured in Kelvin (K), and m denotes molality, defined as moles of solute per kilogram of solvent (mol kg^-1). Rearranging this formula to isolate the cryoscopic constant gives Kf = delta Tf / m. Substituting the units into this relation yields K / (mol kg^-1), which simplifies directly to K kg mol^-1. This constant depends purely on the thermodynamic properties of the chosen solvent, such as molar mass and enthalpy of fusion.",
+    "correctAnsw": "b) K kg mol^-1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) K mol kg^-1",
+    "optionB": "b) K kg mol^-1",
+    "optionC": "c) K mol^-1 L",
+    "optionD": "d) K L mol^-1",
+    "question": "The SI unit for the freezing point depression constant (Kf) of a solvent is:",
+    "setNum": 2
+  },
+  "Qmt_9": {
+    "answerEx": "Reacting red phosphorus with elemental bromine (P/Br2) generates phosphorus tribromide (PBr3) in situ. Phosphorus tribromide acts as a halogenating agent that converts secondary and primary alcohols into their corresponding alkyl bromides via a nucleophilic substitution pathway. When pentan-2-ol (CH3-CH2-CH2-CH(OH)-CH3) reacts with PBr3, the hydroxyl group (-OH) attached to the second carbon atom is cleanly substituted by a bromine atom (-Br). This nucleophilic replacement preserves the five-carbon chain framework intact while placing the halogen at the C-2 position, producing 2-bromopentane as the major organic product.",
+    "correctAnsw": "a) 2-bromopentane",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 2-bromopentane",
+    "optionB": "b) 1-bromopentane",
+    "optionC": "c) Pent-2-ene",
+    "optionD": "d) Pentanal",
+    "question": "The product obtained when pentan-2-ol is reacted with red phosphorus and bromine (P/Br2) is:",
+    "setNum": 2
+  },
+  "Qmt_10": {
+    "answerEx": "When cell division occurs geometrically, both daughter cells formed through mitosis maintain their metabolic potential to divide and continuously redivide in subsequent cycles. This unrestricted multiplicative sequence produces an exponential increase in cell population over time. When plotting total cell numbers against time, geometric growth produces a classic S-shaped or sigmoid growth curve. This characteristic curve features an initial slow lag phase while cells adjust, an exponential log phase marked by rapid logarithmic cell multiplication, and a final stationary phase where growth slows down and levels off as essential nutrients and space become limited in the surrounding environment.",
+    "correctAnsw": "b) Sigmoid curve",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Linear curve",
+    "optionB": "b) Sigmoid curve",
+    "optionC": "c) Hyperbolic curve",
+    "optionD": "d) Parabolic curve",
+    "question": "What type of growth curve is obtained when cell division proceeds geometrically?",
+    "setNum": 2
   }
-      
+  
       }
     }
     ,
@@ -1628,8 +3066,128 @@
     "optionD": "d) Both A and C",
     "question": "Which of the following genetic syndromes is characterized by Gynaecomastia (development of breast tissue in males)?",
     "setNum": 1
+  },
+    "Qhs_1": {
+    "answerEx": "Neoprene (polychloroprene) is a synthetic rubber produced by the free-radical addition polymerization of chloroprene (2-chloro-1,3-butadiene). During polymerization, the double bonds of chloroprene undergo rearrangement, forming long linear chains composed of repeating 2-chlorobut-2-en-1,4-diyl units. The presence of the electronegative chlorine atom in the polymer backbone imparts superior resistance to oils, non-polar solvents, heat, and oxidative degradation compared to natural rubber (polyisoprene). Neoprene is widely utilized in industrial applications such as manufacturing gaskets, hoses, conveyor belts, and protective wetsuits.",
+    "correctAnsw": "b) Chloroprene",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Isoprene",
+    "optionB": "b) Chloroprene",
+    "optionC": "c) Acrylonitrile",
+    "optionD": "d) Styrene",
+    "question": "The primary precursor for the preparation of synthetic rubber Neoprene is:",
+    "setNum": 2
+  },
+  "Qhs_2": {
+    "answerEx": "When acetic acid (CH3COOH) is treated with phosphorus pentachloride (PCl5), a nucleophilic acyl substitution reaction occurs where the hydroxyl group (-OH) of the carboxylic acid is replaced by a chlorine atom. This reaction produces acetyl chloride (CH3COCl) as the main organic product, along with phosphorus oxychloride (POCl3) and hydrogen chloride (HCl) gas as byproducts. Chlorinating agents like PCl5, PCl3, and SOCl2 are standard reagents for converting carboxylic acids into highly reactive acid chlorides, which serve as essential intermediates in organic synthesis for acylations.",
+    "correctAnsw": "a) Acetyl chloride",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Acetyl chloride",
+    "optionB": "b) Methyl chloride",
+    "optionC": "c) Ethyl chloride",
+    "optionD": "d) Acetamide",
+    "question": "Acetic acid on reaction with phosphorus pentachloride gives:",
+    "setNum": 2
+  },
+  "Qhs_3": {
+    "answerEx": "The electronic configuration [Ar] 3d^5 4s^1 corresponds to Chromium (Cr), which has an atomic number of 24. Chromium exhibits an anomalous ground-state electron distribution because transferring one electron from the 4s subshell to the 3d subshell creates a half-filled 3d^5 configuration, which provides extra thermodynamic stability due to exchange energy and orbital symmetry. In the modern IUPAC periodic table, the group number for d-block elements is calculated by adding the valence d and s electrons: 5 (from 3d) + 1 (from 4s) = 6. Thus, Chromium belongs to Group 6.",
+    "correctAnsw": "b) 6",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 5",
+    "optionB": "b) 6",
+    "optionC": "c) 7",
+    "optionD": "d) 8",
+    "question": "The element with electronic configuration [Ar] 3d^5 4s^1 belongs to group:",
+    "setNum": 2
+  },
+  "Qhs_4": {
+    "answerEx": "Molar conductivity (Lambda_m) is defined as the conducting power of all ions produced by dissolving one mole of an electrolyte in a given volume of solution. Mathematically, it is expressed as Lambda_m = k / c, where k is electrolytic conductivity and c is molar concentration. In the International System of Units (SI), conductivity (k) is measured in Siemens per meter (S m^-1) and concentration (c) is measured in moles per cubic meter (mol m^-3). Dividing these units yields S m^-1 / (mol m^-3) = S m^2 mol^-1.",
+    "correctAnsw": "b) S m^2 mol^-1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) S cm^2 mol^-1",
+    "optionB": "b) S m^2 mol^-1",
+    "optionC": "c) S m^-1 mol^-1",
+    "optionD": "d) S cm^-1 mol^-1",
+    "question": "The SI unit of molar conductivity is:",
+    "setNum": 2
+  },
+  "Qhs_5": {
+    "answerEx": "Natural rubber is a cis-1,4-polyisoprene polymer derived from its basic monomeric unit, isoprene, whose systematic IUPAC name is 2-methylbuta-1,3-diene (CH2=C(CH3)-CH=CH2). During natural biosynthesis or addition polymerization, head-to-tail linking of isoprene units occurs exclusively with cis-geometry across the newly formed central double bond. This cis-stereochemistry prevents close packing of polymer chains, creating weak intermolecular van der Waals forces that give natural rubber its characteristic elasticity, flexibility, and stretchability.",
+    "correctAnsw": "a) 2-Methylbuta-1,3-diene",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 2-Methylbuta-1,3-diene",
+    "optionB": "b) Buta-1,3-diene",
+    "optionC": "c) 2-Chlorobuta-1,3-diene",
+    "optionD": "d) 2,3-Dimethylbuta-1,3-diene",
+    "question": "The structure of monomer of natural rubber is:",
+    "setNum": 2
+  },
+  "Qhs_6": {
+    "answerEx": "Cellulose is a linear, unbranched homopolysaccharide that functions as the primary structural component of plant cell walls. It consists of thousands of D-glucopyranose units linked together by beta-1,4-glycosidic bonds. When cellulose undergoes complete acid hydrolysis or enzymatic degradation by the enzyme cellulase, all beta-1,4-glycosidic linkages are cleaved by water molecules. This breaking of glycosidic bonds breaks down the polymeric polysaccharide chain completely, yielding its single constituent monosaccharide building block, D-glucose (specifically beta-D-glucose), as the sole final product.",
+    "correctAnsw": "b) D-glucose",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) D-fructose",
+    "optionB": "b) D-glucose",
+    "optionC": "c) D-ribose",
+    "optionD": "d) D-galactose",
+    "question": "Complete hydrolysis of cellulose yields:",
+    "setNum": 2
+  },
+  "Qhs_7": {
+    "answerEx": "Fluorine forms only one oxoacid, known as fluoric(I) acid or hypofluorous acid (HOF). Due to its extremely high electronegativity and small atomic radius, fluorine cannot act as a central atom surrounded by multiple oxygen atoms. Furthermore, fluorine lacks vacant d-orbitals in its valence shell, preventing it from expanding its octet to exhibit positive oxidation states (+3, +5, +7) necessary for forming higher oxoacids like HOXO2 or HOXO3. In contrast, chlorine, bromine, and iodine readily utilize available d-orbitals to form a series of four distinct oxoacids.",
+    "correctAnsw": "c) Fluorine",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Chlorine",
+    "optionB": "b) Bromine",
+    "optionC": "c) Fluorine",
+    "optionD": "d) Iodine",
+    "question": "Which of the following halogens forms only one oxoacid?",
+    "setNum": 2
+  },
+  "Qhs_8": {
+    "answerEx": "In the tetracyanidonickelate(II) ion [Ni(CN)4]^2-, nickel is in the +2 oxidation state with a 3d^8 valence configuration. Cyanide (CN-) is a strong field ligand that exerts strong pairing energy, forcing the eight 3d electrons to pair up completely, leaving one empty 3d orbital. The central Ni2+ ion undergoes dsp2 hybridization using one 3d, one 4s, and two 4p orbitals. The four empty dsp2 hybrid orbitals overlap with electron pairs from four cyanide ligands, producing a diamagnetic complex with a square planar coordination geometry.",
+    "correctAnsw": "b) Square planar",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Tetrahedral",
+    "optionB": "b) Square planar",
+    "optionC": "c) Octahedral",
+    "optionD": "d) Trigonal bipyramidal",
+    "question": "The geometry of [Ni(CN)4]^2- complex ion is:",
+    "setNum": 2
+  },
+  "Qhs_9": {
+    "answerEx": "For dilute solutions containing non-volatile solutes, the elevation in boiling point (delta Tb) is directly proportional to the molal concentration (molality, m) of the solution. This relationship is expressed by the equation delta Tb = Kb * m, where Kb represents the molal elevation constant or ebullioscopic constant of the solvent. The value of Kb depends solely on the physical nature and thermodynamic properties of the solvent. This equation demonstrates that boiling point elevation is a colligative property, meaning its magnitude depends on the total number of dissolved solute particles per unit mass of solvent.",
+    "correctAnsw": "b) delta Tb = Kb * m",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) delta Tb = Kb / m",
+    "optionB": "b) delta Tb = Kb * m",
+    "optionC": "c) delta Tb = m / Kb",
+    "optionD": "d) delta Tb = Kb + m",
+    "question": "The relation between elevation in boiling point (delta Tb) and molality (m) of a solution is:",
+    "setNum": 2
+  },
+  "Qhs_10": {
+    "answerEx": "The reaction between an alkyl halide (R-X) and a sodium alkoxide (R'-ONa) to yield an ether (R-O-R') and sodium halide (NaX) is called Williamson ether synthesis. This reaction proceeds via an SN2 nucleophilic substitution mechanism, where the alkoxide ion acts as a strong nucleophile and attacks the electrophilic carbon atom of the primary alkyl halide from the backside, displacing the halide leaving group. Williamson synthesis is an important laboratory method because it enables the preparation of both symmetrical (simple) and asymmetrical (mixed) ethers.",
+    "correctAnsw": "c) Williamson synthesis",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Wurtz reaction",
+    "optionB": "b) Kolbe's reaction",
+    "optionC": "c) Williamson synthesis",
+    "optionD": "d) Reimer-Tiemann reaction",
+    "question": "Reaction of alkyl halide with sodium alkoxide to form ether is known as:",
+    "setNum": 2
   }
-      
+  
       }
     }
     ,
@@ -1754,8 +3312,127 @@
     "optionD": "d) LNG-20",
     "question": "Which of the following is a hormone releasing contraceptive?",
     "setNum": 1
+  },
+        "Qsb_1": {
+    "answerEx": "Iron (Fe) has atomic number 26 with valence electronic configuration [Ar] 3d^6 4s^2. In the Fe2+ oxidation state, the two 4s electrons are lost, leaving the ion with a [Ar] 3d^6 configuration. According to Hund's rule, filling five 3d orbitals yields one paired orbital and four unpaired electrons (n = 4). The spin-only magnetic moment (mu) is calculated using the formula mu = sqrt(n(n + 2)) BM. Substituting n = 4 into the formula gives mu = sqrt(4(4 + 2)) = sqrt(24) = 4.90 BM. Thus, Fe2+ exhibits a paramagnetic moment of 4.90 BM.",
+    "correctAnsw": "c) 4.90 BM",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1.73 BM",
+    "optionB": "b) 2.84 BM",
+    "optionC": "c) 4.90 BM",
+    "optionD": "d) 5.92 BM",
+    "question": "The spin-only magnetic moment of Fe2+ ion is:",
+    "setNum": 2
+  },
+  "Qsb_2": {
+    "answerEx": "Molar conductivity (Lambda_m) is the conducting power of all ions produced by dissolving one mole of an electrolyte in solution. Upon dilution (decreasing concentration), the total volume containing one mole of electrolyte expands. For weak electrolytes, dilution increases the degree of dissociation (alpha), generating a larger total number of conducting ions. For strong electrolytes, dilution increases interionic distance, significantly reducing electrostatic interionic attractions and allowing ions to move more freely toward electrodes. Both mechanisms increase total ion mobility and effective ionization per mole, causing molar conductivity to rise continuously until reaching limiting molar conductivity at infinite dilution.",
+    "correctAnsw": "b) total number of ions increases",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) number of ions per unit volume increases",
+    "optionB": "b) total number of ions increases",
+    "optionC": "c) interionic attraction increases",
+    "optionD": "d) degree of dissociation decreases",
+    "question": "The molar conductivity of an electrolyte solution increases with decrease in concentration because:",
+    "setNum": 2
+  },
+  "Qsb_3": {
+    "answerEx": "Beryllium (Be) possesses an exceptionally small ionic radius and high charge density among Group 2 elements. According to Fajan's rules, a tiny cation with high positive charge density exerts strong polarizing power on the electron cloud of large anion species like chloride (Cl-). This high polarization introduces significant covalent character into the beryllium-chlorine chemical bonds. Unlike ionic alkaline earth metal halides (MgCl2, CaCl2, BaCl2) which dissolve readily in polar water, covalent BeCl2 features low lattice energy in its polymeric state and dissolves predominantly in organic solvents such as ethanol and ether.",
+    "correctAnsw": "c) BeCl2",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) MgCl2",
+    "optionB": "b) CaCl2",
+    "optionC": "c) BeCl2",
+    "optionD": "d) BaCl2",
+    "question": "Alkaline earth metal halide which is covalent and soluble in organic solvents is:",
+    "setNum": 2
+  },
+  "Qsb_4": {
+    "answerEx": "Formaldehyde (HCHO) reacts with Grignard reagents (RMgX) via nucleophilic addition across the carbonyl group to yield primary alcohols after hydrolysis. When methyl magnesium iodide (CH3MgI) attacks formaldehyde, the nucleophilic methyl group attacks the electrophilic carbonyl carbon, forming a magnesium salt adduct [CH3-CH2-O-MgI]. Subsequent acid hydrolysis of this complex adduct cleaves the oxygen-magnesium halide bond, yielding ethyl alcohol (CH3CH2OH) alongside basic magnesium iodide [Mg(OH)I] as a byproduct. Formaldehyde is unique among aldehydes because it exclusively produces primary alcohols in Grignard synthesis.",
+    "correctAnsw": "a) Ethanol",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Ethanol",
+    "optionB": "b) Methanol",
+    "optionC": "c) Propan-2-ol",
+    "optionD": "d) Ethanal",
+    "question": "Reaction of methyl magnesium iodide with formaldehyde followed by acid hydrolysis gives:",
+    "setNum": 2
+  },
+  "Qsb_5": {
+    "answerEx": "Reducing power reflects the relative tendency of a metal to lose electrons and undergo self-oxidation. Mathematically, reducing capability correlates inversely with standard reduction potential values (E°). A more negative standard reduction potential indicates that the reduced form easily loses valence electrons, making it a stronger reducing agent. Comparing the given standard potentials: S (-2.37 V) < P (-0.76 V) < Q (+0.34 V) < R (+0.80 V). Since metal S possesses the most negative reduction potential value, it oxidizes most readily and acts as the strongest reducing agent among the choices.",
+    "correctAnsw": "d) S",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) P",
+    "optionB": "b) Q",
+    "optionC": "c) R",
+    "optionD": "d) S",
+    "question": "Standard reduction potentials of four metals P, Q, R, S are -0.76 V, +0.34 V, +0.80 V, and -2.37 V respectively. The metal with highest reducing power is:",
+    "setNum": 2
+  },
+  "Qsb_6": {
+    "answerEx": "The synthesis of aryl fluorides via diazonium salts is accomplished using the Balz-Schiemann reaction. When benzene diazonium chloride (C6H5N2+ Cl-) is treated with fluoroboric acid (HBF4), an insoluble intermediate precipitate of benzene diazonium fluoroborate (C6H5N2+ BF4-) forms at room temperature. Isolated and dried diazonium fluoroborate undergoes controlled thermal decomposition upon heating, releasing nitrogen gas (N2) and boron trifluoride (BF3) while generating pure fluorobenzene (C6H5F). Direct fluorination of benzene is too violent, making this nucleophilic replacement pathway indispensable for introducing fluorine into aromatic rings.",
+    "correctAnsw": "c) Balz-Schiemann reaction",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Sandmeyer reaction",
+    "optionB": "b) Gattermann reaction",
+    "optionC": "c) Balz-Schiemann reaction",
+    "optionD": "d) Stephen reaction",
+    "question": "Conversion of benzene diazonium chloride to fluorobenzene using fluoroboric acid is known as:",
+    "setNum": 2
+  },
+  "Qsb_7": {
+    "answerEx": "Fructose is a ketohexose featuring a ketone functional group at its second carbon atom (C2) rather than a free terminal aldehyde group. Despite lacking an aldehyde group, fructose reduces Fehling's solution, yielding a brick-red cuprous oxide (Cu2O) precipitate. Under alkaline conditions present in Fehling's reagent, fructose undergoes enolization via an enediol intermediate (Lobry de Bruyn-Alberda van Ekenstein transformation). This tautomeric rearrangement keto-enol equilibrium converts ketoses into aldoses like glucose and mannose, which subsequently reduce alkaline cupric ions (Cu2+) to insoluble cuprous oxide.",
+    "correctAnsw": "b) Fructose",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Glucose",
+    "optionB": "b) Fructose",
+    "optionC": "c) Maltose",
+    "optionD": "d) Sucrose",
+    "question": "Which carbohydrate gives positive Fehling's test but does NOT contain a free aldehyde group?",
+    "setNum": 2
+  },
+  "Qsb_8": {
+    "answerEx": "In the complex ion [Co(en)3]^3+, ethylenediamine (en) acts as a neutral bidentate ligand containing two donor nitrogen atoms per molecule. Because three bidentate ligands bind to the central metal, the total number of donor-atom coordination bonds formed equals 3 * 2 = 6, giving cobalt a coordination number of 6. Since ethylenediamine is an uncharged neutral ligand (charge = 0), the net charge of the complex cation directly reflects the formal oxidation state of the central cobalt ion. Thus, cobalt exhibits an oxidation state of +3.",
+    "correctAnsw": "a) 6 and +3",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 6 and +3",
+    "optionB": "b) 3 and +3",
+    "optionC": "c) 6 and +2",
+    "optionD": "d) 4 and +3",
+    "question": "The coordination number and oxidation state of cobalt in [Co(en)3]^3+ complex ion are respectively:",
+    "setNum": 2
+  },
+  "Qsb_9": {
+    "answerEx": "Condensation polymerization involves monomeric units containing at least two functional groups reacting repeatedly with the simultaneous elimination of small byproduct molecules such as water, alcohol, or hydrogen chloride. Nylon 6,6 is synthesized by step-growth condensation of hexamethylenediamine (a diamine) and adipic acid (a dicarboxylic acid) under elevated temperatures. The reaction forms robust amide linkages (-CONH-) along the backbone while releasing water molecules. In contrast, polythene, Teflon, and polystyrene are addition polymers formed by free-radical or ionic polymerization of unsaturated alkene monomers without liberating secondary molecular byproducts.",
+    "correctAnsw": "a) Nylon 6,6",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Nylon 6,6",
+    "optionB": "b) Polythene",
+    "optionC": "c) Teflon",
+    "optionD": "d) Polystyrene",
+    "question": "Which of the following is a condensation polymer?",
+    "setNum": 2
+  },
+  "Qsb_10": {
+    "answerEx": "Oxygen possesses higher electronegativity and a smaller atomic radius compared to sulfur. In a water molecule (H2O), the strongly polar O-H bonds create significant partial positive charges on hydrogen atoms and partial negative charges on oxygen. This high polarity enables extensive three-dimensional networks of intermolecular hydrogen bonding between neighboring water molecules. Breaking these strong electrostatic intermolecular interactions requires substantial thermal energy, elevating water's boiling point to 100 °C. Conversely, weaker electronegativity in sulfur prevents hydrogen bonding in H2S, leaving weak van der Waals forces that allow H2S to remain a gas at room temperature.",
+    "correctAnsw": "b) H2O forms intermolecular hydrogen bonding",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) sulfur atom is larger than oxygen",
+    "optionB": "b) H2O forms intermolecular hydrogen bonding",
+    "optionC": "c) H2S is a stronger acid",
+    "optionD": "d) oxygen is less electronegative than sulfur",
+    "question": "Boiling point of water is higher than hydrogen sulfide because:",
+    "setNum": 2
   }
-      
       }
     }
     ,
@@ -1881,7 +3558,127 @@
     "optionD": "d) Line B represents log S = log Z + C log A",
     "question": "Observe the graph and select correct option:",
     "setNum": 1
-  }
+  },
+     "Qt_1": {
+    "answerEx": "Isotonic solutions are defined as two or more solutions that exert equal osmotic pressure at the same temperature across a semipermeable membrane. Because osmotic pressure depends directly on the total molar concentration of solute particles, isotonic solutions share identical effective solute concentrations. As a result, when separated by a semipermeable membrane, there is no net movement of solvent molecules from one solution to another in either direction. This osmotic equilibrium prevents cells from swelling or shrinking, which is critical in physiological systems such as intravenous fluids matching blood plasma concentration.",
+    "correctAnsw": "c) osmotic pressure",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) surface tension",
+    "optionB": "b) vapor pressure",
+    "optionC": "c) osmotic pressure",
+    "optionD": "d) viscosity",
+    "question": "Isotonic solutions have same:",
+    "setNum": 2
+  },
+  "Qt_2": {
+    "answerEx": "The rate law for a zero-order chemical reaction is represented as Rate = k * [A]^0, where the reactant concentration raised to the zero power equals 1, making Rate = k. Since the rate of a chemical reaction measures the change in concentration per unit time, its standard units are moles per liter per second (mol L^-1 s^-1). Consequently, the rate constant (k) for a zero-order process shares identical units with the reaction rate itself. In contrast, s^-1 corresponds to first-order kinetics, and L mol^-1 s^-1 belongs to second-order reactions.",
+    "correctAnsw": "b) mol L^-1 s^-1",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) s^-1",
+    "optionB": "b) mol L^-1 s^-1",
+    "optionC": "c) L mol^-1 s^-1",
+    "optionD": "d) L^2 mol^-2 s^-1",
+    "question": "The unit of rate constant for a zero-order reaction is:",
+    "setNum": 2
+  },
+  "Qt_3": {
+    "answerEx": "To determine the oxidation state of cobalt (x) in the coordination complex [Co(NH3)5Cl]Cl2, we evaluate the charges of all attached ligands and counter-ions. Ammonia (NH3) is a neutral ligand carrying a charge of 0, whereas each chloride ion (Cl) carries a charge of -1. Setting up the neutral algebraic summation equation for the compound yields x + 5(0) + 1(-1) + 2(-1) = 0. Simplifying this equation gives x - 3 = 0, which directly resolves to x = +3. Hence, cobalt exhibits a +3 formal oxidation state in this complex.",
+    "correctAnsw": "c) +3",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) +1",
+    "optionB": "b) +2",
+    "optionC": "c) +3",
+    "optionD": "d) +4",
+    "question": "The oxidation state of cobalt in [Co(NH3)5Cl]Cl2 is:",
+    "setNum": 2
+  },
+  "Qt_4": {
+    "answerEx": "Alkaline hydrolysis of esters, commonly known as saponification, involves nucleophilic acyl substitution. When ethyl acetate (CH3COOCH2CH3) is heated with aqueous sodium hydroxide (NaOH), the hydroxide ion attacks the carbonyl carbon atom. This causes cleavage of the esteric C-O bond, generating ethanol (ethyl alcohol, CH3CH2OH) and sodium acetate (CH3COONa). Unlike acid hydrolysis which establishes a reversible equilibrium, alkaline hydrolysis is irreversible because the carboxylic acid formed is immediately neutralized by hydroxide ions to yield a resonance-stabilized acetate carboxylate salt.",
+    "correctAnsw": "c) ethyl alcohol and sodium acetate",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) ethyl alcohol and acetic acid",
+    "optionB": "b) methyl alcohol and sodium acetate",
+    "optionC": "c) ethyl alcohol and sodium acetate",
+    "optionD": "d) ethyl alcohol and sodium formate",
+    "question": "Alkaline hydrolysis of ethyl acetate using aqueous NaOH yields:",
+    "setNum": 2
+  },
+  "Qt_5": {
+    "answerEx": "Manganese (Mn), with atomic number 25, exhibits the maximum number of oxidation states among all 3d-series transition metals. Its ground-state valence electronic configuration is [Ar] 3d^5 4s^2, possessing seven valence electrons. Because the energy gap between the 3d and 4s subshells is extremely small, manganese can utilize all five unpaired 3d electrons along with two 4s electrons in chemical bonding. Consequently, manganese displays a wide range of oxidation states from +2 up to +7 in compounds like MnO (+2), Mn2O3 (+3), MnO2 (+4), K2MnO4 (+6), and KMnO4 (+7).",
+    "correctAnsw": "b) Manganese",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Scandium",
+    "optionB": "b) Manganese",
+    "optionC": "c) Zinc",
+    "optionD": "d) Titanium",
+    "question": "Which of the following transition elements exhibits maximum number of oxidation states?",
+    "setNum": 2
+  },
+  "Qt_6": {
+    "answerEx": "The halogen exchange reaction where an alkyl chloride or alkyl bromide reacts with sodium iodide (NaI) dissolved in dry acetone to form an alkyl iodide is known as the Finkelstein reaction. When methyl bromide (CH3Br) reacts with NaI, nucleophilic substitution takes place to produce methyl iodide (CH3I) and sodium bromide (NaBr). The reaction is driven to completion according to Le Chatelier's principle because sodium bromide is insoluble in dry acetone and precipitates out of solution, preventing the reverse substitution reaction from taking place.",
+    "correctAnsw": "b) Finkelstein reaction",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Wurtz reaction",
+    "optionB": "b) Finkelstein reaction",
+    "optionC": "c) Swarts reaction",
+    "optionD": "d) Kolbe's reaction",
+    "question": "Conversion of methyl bromide to methyl iodide using sodium iodide in acetone is called:",
+    "setNum": 2
+  },
+  "Qt_7": {
+    "answerEx": "Teflon, chemically known as polytetrafluoroethylene (PTFE), is an addition polymer synthesized by heating tetrafluoroethylene monomer (CF2=CF2) under high pressure in the presence of a free-radical catalyst or persulfate initiator. During polymerization, the carbon-carbon double bond undergoes homolytic cleavage to form long linear chains of repeating -[CF2-CF2]- units. The presence of strong C-F single bonds throughout the polymer backbone renders Teflon highly unreactive, chemically inert, heat resistant, and non-wetting, making it an exceptional material for non-stick cookware coatings and electrical insulation.",
+    "correctAnsw": "b) Tetrafluoroethylene",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Vinyl chloride",
+    "optionB": "b) Tetrafluoroethylene",
+    "optionC": "c) Styrene",
+    "optionD": "d) Isoprene",
+    "question": "The monomer used in the preparation of Teflon is:",
+    "setNum": 2
+  },
+  "Qt_8": {
+    "answerEx": "For a given alkyl group (R), the boiling point of alkyl halides decreases in the order RI > RBr > RCl > RF. Boiling point depends directly on the magnitude of intermolecular forces present between liquid molecules. As halogen atom size and atomic mass increase from fluorine to iodine, the polarizability of the electron cloud surrounding the molecule increases significantly. This enhancement strengthens short-range London dispersion forces and van der Waals attractions between molecules. Consequently, more thermal energy is required to vaporize alkyl iodides compared to lighter haloalkanes.",
+    "correctAnsw": "a) RI > RBr > RCl > RF",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) RI > RBr > RCl > RF",
+    "optionB": "b) RF > RCl > RBr > RI",
+    "optionC": "c) RCl > RBr > RI > RF",
+    "optionD": "d) RBr > RCl > RF > RI",
+    "question": "Boiling point of alkyl halides follows the order:",
+    "setNum": 2
+  },
+  "Qt_9": {
+    "answerEx": "Standard reduction potential measures the tendency of a chemical species to gain electrons and undergo reduction. A lower or more negative reduction potential value indicates that the species easily loses electrons, making it a stronger reducing agent. Comparing the given standard potentials: B (-0.76 V) < C (-0.14 V) < A (+0.34 V). Since B possesses the most negative value, it oxidizes most readily and exhibits the highest reducing capacity, followed by C, and lastly A. Therefore, the correct decreasing order of reducing power is B > C > A.",
+    "correctAnsw": "b) B > C > A",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) A > C > B",
+    "optionB": "b) B > C > A",
+    "optionC": "c) C > B > A",
+    "optionD": "d) A > B > C",
+    "question": "Standard reduction potential of half cells A, B, and C are +0.34 V, -0.76 V, and -0.14 V respectively. The reducing power order is:",
+    "setNum": 2
+  },
+  "Qt_10": {
+    "answerEx": "When phenol (C6H5OH) undergoes controlled oxidation using strong oxidizing agents such as chromic acid (H2CrO4) or sodium dichromate in dilute sulfuric acid, it is converted into p-benzoquinone (1,4-benzoquinone). This reaction involves the removal of hydrogen atoms and introduction of carbonyl oxygen atoms at the conjugated para positions relative to each other on the benzene ring. The resulting product is a conjugated cyclic diketone featuring a non-aromatic ring system with two carbon-carbon double bonds, imparting a characteristic bright yellow color to the reaction mixture.",
+    "correctAnsw": "a) Benzoquinone",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Benzoquinone",
+    "optionB": "b) Benzene",
+    "optionC": "c) Anisole",
+    "optionD": "d) Catechol",
+    "question": "Oxidation of phenol with chromic acid produces:",
+    "setNum": 2
+  }    
       }
     }
     ,
@@ -2007,6 +3804,126 @@
     "optionD": "d) F cells",
     "question": "Glucagon is secreted by which cells of the pancreas?",
     "setNum": 1
+  },
+        "Qest_1": {
+    "answerEx": "Schottky defect is a stoichiometric point defect where equal numbers of cations and anions are missing from their lattice sites, creating vacancies to maintain electrical neutrality. This defect typically occurs in highly ionic compounds with high coordination numbers and small size differences between cations and anions, such as NaCl, KCl, and AgBr. In contrast, Nickel Oxide (NiO) exhibits metal deficiency defects due to non-stoichiometry, where missing Ni2+ ions are compensated by oxidation of adjacent Ni2+ to Ni3+ ions, rather than forming typical Schottky vacancies.",
+    "correctAnsw": "d) NiO",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) NaCl",
+    "optionB": "b) KCl",
+    "optionC": "c) AgBr",
+    "optionD": "d) NiO",
+    "question": "Schottky defect is NOT observed in:",
+    "setNum": 2
+  },
+  "Qest_2": {
+    "answerEx": "The depression in freezing point (delta Tf) is a colligative property given by the relation delta Tf = i * Kf * m. Urea is a non-electrolyte, so its van 't Hoff factor (i) equals 1. Substituting the given values: delta Tf = 1 * 1.86 K kg mol^-1 * 0.1 mol kg^-1 = 0.186 K (or 0.186 °C). Since the freezing point of pure water (Tf°) is 0 °C, the freezing point of the solution (Tf) is calculated using Tf = Tf° - delta Tf = 0 °C - 0.186 °C = -0.186 °C.",
+    "correctAnsw": "d) -0.186 °C",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 1.86 °C",
+    "optionB": "b) -1.86 °C",
+    "optionC": "c) 0.186 °C",
+    "optionD": "d) -0.186 °C",
+    "question": "The freezing point of 0.1 m aqueous solution of urea (Kf for water = 1.86 K kg mol^-1) is:",
+    "setNum": 2
+  },
+  "Qest_3": {
+    "answerEx": "Molar conductivity (Lambda) represents the conducting power of all the ions produced by dissolving one mole of an electrolyte in a given volume of solution. It is defined as electrolytic conductivity (k, expressed in S cm^-1) divided by molar concentration (c, expressed in mol L^-1). To convert the volume from liters to cubic centimeters (cm^3), a conversion factor of 1000 is introduced into the numerator. This yields the standard equation Lambda = (1000 * k) / c, with units expressed in S cm^2 mol^-1.",
+    "correctAnsw": "c) Lambda = (1000 * k) / c",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Lambda = 1000 * c * k",
+    "optionB": "b) c = 1000 * Lambda * k",
+    "optionC": "c) Lambda = (1000 * k) / c",
+    "optionD": "d) k = (1000 * Lambda) / c",
+    "question": "The formula used to calculate molar conductivity of an electrolyte solution is:",
+    "setNum": 2
+  },
+  "Qest_4": {
+    "answerEx": "The unit for the rate of any chemical reaction is always mol L^-1 s^-1 (or concentration per unit time). According to the general rate law, rate = k * [A]^n, where n is the order of the reaction. The unit of rate constant (k) is expressed as (mol L^-1)^(1-n) s^-1. Substituting n = 0 for a zero-order reaction reduces the concentration exponent (1 - 0) to 1, making the unit of k equal to mol L^-1 s^-1, which exactly matches the unit of reaction rate.",
+    "correctAnsw": "a) zero",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) zero",
+    "optionB": "b) first",
+    "optionC": "c) second",
+    "optionD": "d) fractional",
+    "question": "The units of rate of a reaction and rate constant are identical for a reaction of order:",
+    "setNum": 2
+  },
+  "Qest_5": {
+    "answerEx": "Denaturation is a process in which proteins lose their native secondary, tertiary, and quaternary structures due to external stress, such as heat, strong acids, bases, or inorganic salts. During denaturation, hydrogen bonds and non-covalent interactions maintaining folded polypeptide chains are disrupted, causing the protein molecule to uncoil. This loss of higher-order spatial structure leads to biological inactivation and subsequent coagulation or precipitation out of solution, while primary covalent peptide bonds remain completely intact.",
+    "correctAnsw": "c) denaturation of proteins",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) destruction of proteins",
+    "optionB": "b) separation of proteins",
+    "optionC": "c) denaturation of proteins",
+    "optionD": "d) fragmentation of proteins",
+    "question": "Precipitation of protein due to physical or chemical changes is referred to as:",
+    "setNum": 2
+  },
+  "Qest_6": {
+    "answerEx": "Terylene (also known as Dacron) is a synthetic polymer formed by the step-growth condensation polymerization of ethylene glycol (a dihydric alcohol) and terephthalic acid (a dicarboxylic acid). The esterification reaction between hydroxyl groups and carboxyl groups repeatedly forms ester linkages (-COO-) throughout the polymer backbone. Because repeating units are joined continuously by ester functional groups, Terylene is classified as a polyester fibre, characterized by high tensile strength, crease resistance, and hydrophobic nature.",
+    "correctAnsw": "b) polyester fibre",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) polyamide fibre",
+    "optionB": "b) polyester fibre",
+    "optionC": "c) vegetable fibre",
+    "optionD": "d) protein fibre",
+    "question": "Terylene is an example of a:",
+    "setNum": 2
+  },
+  "Qest_7": {
+    "answerEx": "According to Werner's coordination theory, ions present outside the coordination sphere (ionization sphere) are ionizable and precipitate upon reacting with silver nitrate (AgNO3). One mole of complex [CoCl2(NH3)4]Cl dissociates in aqueous solution into one [CoCl2(NH3)4]+ complex cation and one chloride ion (Cl-). This single free chloride ion reacts with AgNO3 to yield exactly one mole of AgCl precipitate. In contrast, options (B) and (D) yield two and three moles of AgCl respectively, while (C) yields no precipitate.",
+    "correctAnsw": "a) [CoCl2(NH3)4]Cl",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) [CoCl2(NH3)4]Cl",
+    "optionB": "b) [CoCl(NH3)5]Cl2",
+    "optionC": "c) [CoCl3(NH3)3]",
+    "optionD": "d) [Co(NH3)6]Cl3",
+    "question": "When excess AgNO3 solution is added to a complex, one mole of AgCl is precipitated. The formula of the complex is:",
+    "setNum": 2
+  },
+  "Qest_8": {
+    "answerEx": "o-Hydroxybenzoic acid (salicylic acid) exhibits significantly stronger acidity than benzoic acid and its derivatives due to the ortho-effect. When the carboxyl group loses a proton, the resulting o-hydroxybenzoate anion is stabilized by intramolecular hydrogen bonding formed between the hydroxyl hydrogen atom and the negatively charged carboxylate oxygen. This ring-like chelate stabilization lowers the potential energy of the conjugate base, driving proton ionization forward and making salicylic acid the most acidic among the choices.",
+    "correctAnsw": "a) o-Hydroxybenzoic acid",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) o-Hydroxybenzoic acid",
+    "optionB": "b) o-Aminobenzoic acid",
+    "optionC": "c) Benzoic acid",
+    "optionD": "d) p-Methoxybenzoic acid",
+    "question": "The highest acidic compound among the following is:",
+    "setNum": 2
+  },
+  "Qest_9": {
+    "answerEx": "Amines are classified as primary (1°), secondary (2°), or tertiary (3°) based on the number of organic groups attached to the central nitrogen atom. Diphenylamine [(C6H5)2NH] contains two phenyl groups bonded directly to the nitrogen atom with one remaining hydrogen atom, making it a secondary amine. In comparison, Cyclohexylamine and Isopropylamine contain only one organic substituent attached to nitrogen (primary amines), whereas N,N-Dimethylaniline has three organic substituents bonded to nitrogen (tertiary amine).",
+    "correctAnsw": "c) Diphenylamine",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Cyclohexylamine",
+    "optionB": "b) Isopropylamine",
+    "optionC": "c) Diphenylamine",
+    "optionD": "d) N, N-Dimethylaniline",
+    "question": "Which of the following compounds is a secondary amine?",
+    "setNum": 2
+  },
+  "Qest_10": {
+    "answerEx": "The coordination number in a crystal lattice represents the total number of nearest neighbor constituent particles in direct contact with a specific central atom. In a body-centred cubic (bcc) unit cell, eight atoms occupy the eight corners of the cube while one single atom resides at the geometric center. The central atom touches all eight corner atoms simultaneously. Similarly, each corner atom touches eight central atoms across eight adjacent unit cells, giving a constant coordination number of 8.",
+    "correctAnsw": "c) 8",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 4",
+    "optionB": "b) 6",
+    "optionC": "c) 8",
+    "optionD": "d) 12",
+    "question": "The coordination number of atoms in a body-centred cubic (bcc) structure is:",
+    "setNum": 2
   }
       }
     },
@@ -2131,8 +4048,128 @@
     "optionD": "d) realized natality",
     "question": "The number of deaths when environmental pressures come into play is known as:",
     "setNum": 1
-  }
-      
+  },
+      "Qmkt_1": {
+    "answerEx": "In a hydrogen-oxygen (H2-O2) fuel cell, an aqueous solution of potassium hydroxide (KOH) or sodium hydroxide (NaOH) is widely utilized as the electrolyte. The primary role of this alkaline electrolyte is to maintain continuous ionic conductivity between the porous carbon electrodes. During the electrochemical process, hydroxyl ions (OH-) migrate from the cathode towards the anode, where they react with hydrogen gas to form water while releasing electrons. This efficient ion transport minimizes internal electrical resistance within the cell, enabling steady generation of electric power while producing water as the harmless byproduct.",
+    "correctAnsw": "b) aqueous KOH",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) dilute HCl",
+    "optionB": "b) aqueous KOH",
+    "optionC": "c) CuSO4 solution",
+    "optionD": "d) concentrated H2SO4",
+    "question": "The electrolyte used in H2-O2 fuel cell is:",
+    "setNum": 2
+  },
+  "Qg_2": {
+    "answerEx": "The chemical formula HOBrO2 represents bromic acid (HBrO3). In this oxoacid molecule, hydrogen conventionally exhibits an oxidation state of +1, whereas each oxygen atom carries a standard oxidation state of -2. To determine the unknown oxidation state of bromine (x), we establish the algebraic sum equation for the neutral molecule: (+1) + x + 3(-2) = 0. Simplifying this arithmetic yields x - 5 = 0, which directly solves to x = +5. Thus, the central bromine atom retains a +5 formal oxidation state, sharing electrons with surrounding electronegative oxygen atoms to maintain stability.",
+    "correctAnsw": "b) +5",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) +3",
+    "optionB": "b) +5",
+    "optionC": "c) +1",
+    "optionD": "d) +7",
+    "question": "The oxidation state of bromine in HOBrO2 oxoacid is:",
+    "setNum": 2
+  },
+  "Qe_3": {
+    "answerEx": "Acetonitrile (CH3CN) is synthesized through a nucleophilic substitution reaction by heating methyl chloride (CH3Cl) with alcoholic potassium cyanide (KCN). Cyanide ion (CN-) acts as an ambident nucleophile; however, due to the ionic nature of potassium cyanide in alcoholic medium, attack occurs primarily through the carbon atom. The nucleophilic carbon attacks the electrophilic methyl carbon, displacing the chloride leaving group as potassium chloride (KCl). This alkylation process yields acetonitrile as the major organic product. Using alcoholic medium ensures smooth substitution, whereas covalent cyanides like AgCN yield methyl isocyanide as the predominant product instead.",
+    "correctAnsw": "c) Methyl chloride with alcoholic KCN",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Methyl alcohol with KCN",
+    "optionB": "b) Ethyl chloride with aqueous KCN",
+    "optionC": "c) Methyl chloride with alcoholic KCN",
+    "optionD": "d) Acetamide with dilute HCl",
+    "question": "Acetonitrile may be prepared by heating the following reactants:",
+    "setNum": 2
+  },
+  "Qb_4": {
+    "answerEx": "Carbonated water is a classic example of a gas-in-liquid solution, where carbon dioxide gas (CO2) acts as the gaseous solute dissolved under high pressure in water, which functions as the liquid solvent. The solubility of carbon dioxide in the aqueous phase is directly governed by Henry's law, stating that dissolved gas concentration is proportional to its partial pressure above the liquid surface. Upon sealing, a dynamic equilibrium is established. When the container is opened, external pressure drops rapidly, reducing solubility and releasing excess dissolved carbon dioxide gas in the form of effervescent bubbles.",
+    "correctAnsw": "c) gas in liquid solution",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) gas in gas solution",
+    "optionB": "b) liquid in liquid solution",
+    "optionC": "c) gas in liquid solution",
+    "optionD": "d) solid in liquid solution",
+    "question": "The carbonated water is an example of:",
+    "setNum": 2
+  },
+  "Qee_5": {
+    "answerEx": "The general unit expression for the rate constant (k) of an n-th order chemical reaction is given by (mol L^-1)^(1-n) * s^-1. Substituting n = 1 into this dimensional relationship reduces the exponent term (1 - 1) to zero, yielding (mol L^-1)^0 * s^-1 = s^-1. Consequently, a rate constant expressed in per second (s^-1) exclusively signifies a first-order rate law. In first-order kinetics, the instantaneous rate depends linearly on the single power of reactant concentration, causing the units of concentration to cancel completely during mathematical rate constant evaluations.",
+    "correctAnsw": "b) First",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) zero",
+    "optionB": "b) First",
+    "optionC": "c) second",
+    "optionD": "d) third",
+    "question": "The unit of rate constant is s^-1, the order of reaction is:",
+    "setNum": 2
+  },
+  "Qbb_6": {
+    "answerEx": "According to the First Law of Thermodynamics, the change in internal energy is expressed mathematically as delta U = q + w. Following IUPAC sign conventions, heat released by the system to the surroundings carries a negative sign (q = -10 kJ), and work performed by the system on the surroundings is likewise negative (w = -15 kJ). Substituting both parameter values directly into the thermodynamic equation yields delta U = (-10 kJ) + (-15 kJ) = -25 kJ. The negative overall result indicates that the internal energy of the thermodynamic system decreases due to simultaneous energy losses via heat and work.",
+    "correctAnsw": "d) -25 kJ",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) +25 kJ",
+    "optionB": "b) +5 kJ",
+    "optionC": "c) -5 kJ",
+    "optionD": "d) -25 kJ",
+    "question": "A system releases 10 kJ of heat and performs 15 kJ of work on the surrounding. Hence the change in internal energy (delta U) is:",
+    "setNum": 2
+  },
+  "Qbr_7": {
+    "answerEx": "Zinc (Zn) exhibits the highest first ionization enthalpy among all 3d-series transition elements. This trend stems directly from its ground-state electronic configuration [Ar] 3d^10 4s^2, featuring completely filled 3d and 4s subshells. The full orbital occupancy confers extra thermodynamic stability due to symmetrical electron distribution and high exchange energy. Furthermore, removing a valence electron from zinc requires overcoming powerful nuclear attraction coupled with breaking a stable, fully paired 4s^2 orbital configuration. Consequently, significant energy input is required to remove the first electron compared to neighboring elements in the 3d period.",
+    "correctAnsw": "a) Zn",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Zn",
+    "optionB": "b) Sc",
+    "optionC": "c) Fe",
+    "optionD": "d) Cu",
+    "question": "Among the 3d-series elements, the element having the highest value of first ionization enthalpy is:",
+    "setNum": 2
+  },
+  "Qrr_8": {
+    "answerEx": "In aqueous solution, the basicity of alkylamines is governed by a combined interplay of inductive effects, hydration stabilization of substituted ammonium cations, and steric hindrance. While electron-donating alkyl groups enhance nitrogen's electron density via +I inductive effects, bulky groups simultaneously impede hydrogen bonding with water molecules and block proton access. Secondary amines (R2NH) optimize all three factors, making them the most basic. Tertiary amines (R3N) suffer diminished aqueous basicity due to severe steric crowding disrupting hydration. Thus, basic strength increases from ammonia up to secondary amines before decreasing for tertiary amines (NH3 < R-NH2 < R2NH > R3N).",
+    "correctAnsw": "d) NH3 < R-NH2 < R2NH > R3N",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) NH3 > R-NH2 > R2NH > R3N",
+    "optionB": "b) R3N > R2NH > R-NH2 > NH3",
+    "optionC": "c) R2NH > R3N > R-NH2 > NH3",
+    "optionD": "d) NH3 < R-NH2 < R2NH > R3N",
+    "question": "The correct order for basic strength of aliphatic amines and ammonia in aqueous medium is:",
+    "setNum": 2
+  },
+  "Qqqq_9": {
+    "answerEx": "Hydrochloric acid (HCl) is a strong monobasic acid that dissociates completely in water to yield [H+] = 0.01 M = 10^-2 M. The pH is calculated using the logarithmic expression pH = -log10[H+] = -log10(10^-2) = 2. Using the fundamental aqueous relationship pH + pOH = 14 at standard room temperature (25 °C), we rearrange the equation to evaluate hydroxide ion potential: pOH = 14 - pH = 14 - 2 = 12. This confirms that a strongly acidic solution possessing low pH exhibits a correspondingly high pOH value of 12.",
+    "correctAnsw": "d) 12",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) 2",
+    "optionB": "b) 7",
+    "optionC": "c) 10",
+    "optionD": "d) 12",
+    "question": "The pOH of a 0.01 M HCl solution is:",
+    "setNum": 2
+  },
+  "Qwwww_10": {
+    "answerEx": "Silver nanoparticles (AgNP) serve as highly effective antimicrobial agents and bacterial disinfectants due to their exceptionally high surface-area-to-volume ratio. At the nanoscale, silver particles continuously release bioactive silver ions (Ag+) that readily adhere to bacterial cell walls and cell membranes. Upon penetration, these ions interact with sulfur- and phosphorus-containing proteins, disrupting cellular respiration, impairing membrane permeability, and damaging bacterial DNA. This multi-target mechanism prevents microbes from developing resistance, making silver nanoparticles widely utilized in medical equipment coatings, wound dressings, and water purification filters.",
+    "correctAnsw": "c) Silver nanoparticles",
+    "direQuestion": "",
+    "exmShift": "",
+    "optionA": "a) Gold nanoparticles",
+    "optionB": "b) Platinum nanoparticles",
+    "optionC": "c) Silver nanoparticles",
+    "optionD": "d) Iron oxide nanoparticles",
+    "question": "Which nanoparticle is used as an effective bacterial disinfectant?",
+    "setNum": 2
+  }   
+    
       }
     }
     
@@ -2142,7 +4179,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2010 PYQ Set 1",
       "setName": {
-        "abc": "2010 Biology PYQ Quiz"
+        "abc": "2010 Biology PYQ Quiz",
+        "abcd": "2010 Chemistry PYQ Quiz"
       },
       "setNum": 0
     },
@@ -2150,7 +4188,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2011 PYQ Set 2",
       "setName": {
-        "abc": "2011 Biology PYQ Quiz"
+        "abc": "2011 Biology PYQ Quiz",
+        "abcd": "2011 Chemistry PYQ Quiz"
       },
       "setNum": 0
     },
@@ -2158,7 +4197,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2012 PYQ Set 3",
       "setName": {
-        "abc": "2012 Biology PYQ Quiz"
+        "abc": "2012 Biology PYQ Quiz",
+        "abcd": "2012 Chemistry PYQ Quiz"
       },
       "setNum": 0
     },
@@ -2166,7 +4206,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2013 PYQ Set 4",
       "setName": {
-        "abc": "2013 Biology PYQ Quiz"
+        "abc": "2013 Biology PYQ Quiz",
+        "abcd": "2013 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2175,7 +4216,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2014 PYQ Set 5",
       "setName": {
-        "abc": "2014 Biology PYQ Quiz"
+        "abc": "2014 Biology PYQ Quiz",
+        "abcd": "2014 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2184,7 +4226,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2015 PYQ Set 6",
       "setName": {
-        "abc": "2015 Biology PYQ Quiz"
+        "abc": "2015 Biology PYQ Quiz",
+        "abcd": "2015 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2193,7 +4236,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2016 PYQ Set 7",
       "setName": {
-        "abc": "2016 Biology PYQ Quiz"
+        "abc": "2016 Biology PYQ Quiz",
+        "abcd": "2016 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2202,7 +4246,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2017 PYQ Set 8",
       "setName": {
-        "abc": "2017 Biology PYQ Quiz"
+        "abc": "2017 Biology PYQ Quiz",
+        "abcd": "2017 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2211,7 +4256,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2018 PYQ Set 9",
       "setName": {
-        "abc": "2018 Biology PYQ Quiz"
+        "abc": "2018 Biology PYQ Quiz",
+        "abcd": "2018 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2220,7 +4266,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2019 PYQ Set 10",
       "setName": {
-        "abc": "2019 Biology PYQ Quiz"
+        "abc": "2019 Biology PYQ Quiz",
+        "abcd": "2019 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2229,7 +4276,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2020 PYQ Set 11",
       "setName": {
-        "abc": "2020 Biology PYQ Quiz"
+        "abc": "2020 Biology PYQ Quiz",
+        "abcd": "2020 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2238,7 +4286,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2021 PYQ Set 12",
       "setName": {
-        "abc": "2021 Biology PYQ Quiz"
+        "abc": "2021 Biology PYQ Quiz",
+        "abcd": "2021 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2247,7 +4296,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2022 PYQ Set 13",
       "setName": {
-        "abc": "2022 Biology PYQ Quiz"
+        "abc": "2022 Biology PYQ Quiz",
+        "abcd": "2022 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2256,7 +4306,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2023 PYQ Set 14",
       "setName": {
-        "abc": "2023 Biology PYQ Quiz"
+        "abc": "2023 Biology PYQ Quiz",
+        "abcd": "2023 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2265,7 +4316,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2024 PYQ Set 15",
       "setName": {
-        "abc": "2024 Biology PYQ Quiz"
+        "abc": "2024 Biology PYQ Quiz",
+        "abcd": "2024 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2274,7 +4326,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2025 PYQ Set 16",
       "setName": {
-        "abc": "2025 Biology PYQ Quiz"
+        "abc": "2025 Biology PYQ Quiz",
+        "abcd": "2025 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
@@ -2283,7 +4336,8 @@
       "categoryImage": "https://vimaldahake.github.io/demosscallinoneproject/mixqutions.png",
       "categoryName": "10 Questions 2026 PYQ Set 17",
       "setName": {
-        "abc": "2026 Biology PYQ Quiz"
+        "abc": "2026 Biology PYQ Quiz",
+        "abcd": "2026 Chemistry PYQ Quiz"
       },
       "setNum": 0
     }
